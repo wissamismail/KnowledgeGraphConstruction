@@ -1,0 +1,3312 @@
+{
+  "MOV-1": {
+    "SVO_relationships": [
+      {
+        "subject": "Summer Finn",
+        "verb": "is",
+        "stem": "be",
+        "object": "SUMMER FINN"
+      },
+      {
+        "subject": "Summer Finn",
+        "verb": "files",
+        "stem": "file",
+        "object": "folders"
+      },
+      {
+        "subject": "Summer Finn",
+        "verb": "answers",
+        "stem": "answer",
+        "object": "phones"
+      },
+      {
+        "subject": "Summer Finn",
+        "verb": "start",
+        "stem": "start",
+        "object": "dancing"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "MOV-2": {
+    "SVO_relationships": [
+      {
+        "subject": "Tom",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "down"
+      },
+      {
+        "subject": "Tom",
+        "verb": "sulks",
+        "stem": "sulk",
+        "object": "street"
+      },
+      {
+        "subject": "Tom",
+        "verb": "checks",
+        "stem": "check",
+        "object": "reflection"
+      },
+      {
+        "subject": "Hall and Oates",
+        "verb": "follow",
+        "stem": "follow",
+        "object": "Tom"
+      },
+      {
+        "subject": "Ron Howard's brother Clint",
+        "verb": "looks",
+        "stem": "look",
+        "object": "back"
+      },
+      {
+        "subject": "Tom",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "COUPLE making out on a bench"
+      },
+      {
+        "subject": "Tom",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "by a sign that says 'TODAY ONLY: FREE BEER.'"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "MOV-3": {
+    "SVO_relationships": [
+      {
+        "subject": "Tom",
+        "verb": "swats",
+        "stem": "swat",
+        "object": "away"
+      },
+      {
+        "subject": "Tom",
+        "verb": "doesn't even",
+        "stem": "not do",
+        "object": "look up"
+      },
+      {
+        "subject": "She (WORLD'S MOST BEAUTIFUL WOMAN)",
+        "verb": "says",
+        "stem": "say",
+        "object": "'You can do it!'"
+      },
+      {
+        "subject": "Tom",
+        "verb": "thinks",
+        "stem": "think",
+        "object": "people will really enjoy them"
+      },
+      {
+        "subject": "She (WORLD'S MOST BEAUTIFUL WOMAN)",
+        "verb": "takes",
+        "stem": "take",
+        "object": "her seat"
+      },
+      {
+        "subject": "we (camera)",
+        "verb": "can almost",
+        "stem": "can do",
+        "object": "pan across several empty tables"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-4": {
+    "SVO_relationships": [
+      {
+        "subject": "we (camera)",
+        "verb": "smell",
+        "stem": "smell",
+        "object": "the odor of last nights beer and crushed pretzels on the floor"
+      },
+      {
+        "subject": "CHUCKIE SULLIVAN",
+        "verb": "hold",
+        "stem": "hold",
+        "object": "court"
+      },
+      {
+        "subject": "CHUCKIE SULLIVAN",
+        "verb": "be",
+        "stem": "be",
+        "object": "loud, boisterous, a born entertainer"
+      },
+      {
+        "subject": "WILL HUNTING",
+        "verb": "be",
+        "stem": "be",
+        "object": "handsome and confident, a softspoken leader"
+      },
+      {
+        "subject": "CHUCKIE SULLIVAN",
+        "verb": "listen",
+        "stem": "list",
+        "object": "to Chuckie's horror stories"
+      },
+      {
+        "subject": "MORGAN O'MALLY",
+        "verb": "listen",
+        "stem": "list",
+        "object": "to Chuckie's horror stories with eager disgust"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-5": {
+    "SVO_relationships": [
+      {
+        "subject": "these boys",
+        "verb": "speak",
+        "stem": "speak",
+        "object": "with thick Boston accents"
+      },
+      {
+        "subject": "this neighborhood",
+        "verb": "be",
+        "stem": "be",
+        "object": "a rough, working class Irish neighborhood"
+      },
+      {
+        "subject": "these boys",
+        "verb": "be",
+        "stem": "be",
+        "object": "its product"
+      },
+      {
+        "subject": "we (camera)",
+        "verb": "see",
+        "stem": "see",
+        "object": "a panoramic view of South Boston"
+      },
+      {
+        "subject": "Will",
+        "verb": "flip through",
+        "stem": "flip",
+        "object": "a stack of twenty or so LIBRARY BOOKS"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "MOV-6": {
+    "SVO_relationships": [
+      {
+        "subject": "Will",
+        "verb": "flip through",
+        "stem": "flip",
+        "object": "a book at about a page a second"
+      },
+      {
+        "subject": "Chuckie",
+        "verb": "stand",
+        "stem": "stand",
+        "object": "on the porch to Will's house"
+      },
+      {
+        "subject": "Chuckie and Will",
+        "verb": "get in",
+        "stem": "get in",
+        "object": "the car"
+      },
+      {
+        "subject": "we (camera)",
+        "verb": "travel",
+        "stem": "travel",
+        "object": "across crowded public housing and onto downtown"
+      },
+      {
+        "subject": "we (camera)",
+        "verb": "gaze",
+        "stem": "gaze",
+        "object": "across the river and onto the great cementdomed buildings that make up the M.I.T. campus"
+      },
+      {
+        "subject": "the speaker (Will's professor?)",
+        "verb": "hope",
+        "stem": "hope",
+        "object": "that one of you might prove it by the end of the semester"
+      },
+      {
+        "subject": "the speaker (Will's professor?)",
+        "verb": "say",
+        "stem": "say",
+        "object": "The first person to do so will not only be in my good graces, but go on"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "MOV-7": {
+    "SVO_relationships": [
+      {
+        "subject": "the speaker (Will's professor?)",
+        "verb": "say",
+        "stem": "say",
+        "object": "to fame and fortune "
+      },
+      {
+        "subject": "Prof. Lambeau",
+        "verb": "hold up",
+        "stem": "hold up",
+        "object": "a thin publication entitled 'M.I.T. Tech.'"
+      },
+      {
+        "subject": "Lambeau",
+        "verb": "say",
+        "stem": "say",
+        "object": "Former winners"
+      },
+      {
+        "subject": "Lambeau",
+        "verb": "say",
+        "stem": "say",
+        "object": "Okay. That is all."
+      },
+      {
+        "subject": "students",
+        "verb": "pack",
+        "stem": "pack",
+        "object": "their bags"
+      },
+      {
+        "subject": "Morgan",
+        "verb": "say",
+        "stem": "say",
+        "object": "I don't got a crush on her."
+      },
+      {
+        "subject": "Will",
+        "verb": "see",
+        "stem": "see",
+        "object": "something O.S. (out of sight)"
+      },
+      {
+        "subject": "Will",
+        "verb": "look at",
+        "stem": "look at",
+        "object": "BOBBY CHAMPA and his friends walking down the street"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "MOV-8": {
+    "SVO_relationships": [
+      {
+        "subject": "one of them",
+        "verb": "casually lob",
+        "stem": "lob",
+        "object": "a bottle into a wire garbage can"
+      },
+      {
+        "subject": "some of the glass",
+        "verb": "hit",
+        "stem": "hit",
+        "object": "a FEMALE PASSER BY"
+      },
+      {
+        "subject": "the woman",
+        "verb": "say",
+        "stem": "say",
+        "object": "something to Bobby"
+      },
+      {
+        "subject": "Bobby",
+        "verb": "say",
+        "stem": "say",
+        "object": "something back"
+      },
+      {
+        "subject": "the woman",
+        "verb": "look at",
+        "stem": "look at",
+        "object": "By the look on her face, it was something unpleasant"
+      },
+      {
+        "subject": "Morgan",
+        "verb": "say",
+        "stem": "say",
+        "object": "Come on, Will..."
+      },
+      {
+        "subject": "Morgan",
+        "verb": "ask",
+        "stem": "ask",
+        "object": "No, why didn't you fight him at the park if you wanted to?"
+      },
+      {
+        "subject": "Morgan",
+        "verb": "say",
+        "stem": "say",
+        "object": "I'm not goin' now, I'm eatin' my snack."
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "MOV-9": {
+    "SVO_relationships": [
+      {
+        "subject": "Chuckie",
+        "verb": "say",
+        "stem": "say",
+        "object": "Let's go."
+      },
+      {
+        "subject": "Morgan",
+        "verb": "say",
+        "stem": "say",
+        "object": "I'm serious Chuckie, I ain't goin'."
+      },
+      {
+        "subject": "Chuckie",
+        "verb": "open",
+        "stem": "open",
+        "object": "his door"
+      },
+      {
+        "subject": "Chuckie",
+        "verb": "say",
+        "stem": "say",
+        "object": "You're goin"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "MOV-10": {
+    "SVO_relationships": [
+      {
+        "subject": "Will",
+        "verb": "say",
+        "stem": "say",
+        "object": "Hey, Bobby Champa! I went to Kindergarten with you right? Sister Margaret's class..."
+      },
+      {
+        "subject": "Will",
+        "verb": "punch",
+        "stem": "drill with a sucker-punch",
+        "object": "Bobby"
+      },
+      {
+        "subject": "Will",
+        "verb": "hits",
+        "stem": "hit",
+        "object": "Bobby"
+      },
+      {
+        "subject": "Bobby's friends",
+        "verb": "converge",
+        "stem": "converge ",
+        "object": "Will"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "MOV-11": {
+    "SVO_relationships": [
+      {
+        "subject": "another guy",
+        "verb": "hammer",
+        "stem": "hammers Will with a right hand to the head",
+        "object": "Will"
+      }
+    ],
+    "total_SVOs": 1
+  },
+  "MOV-12": {
+    "SVO_relationships": [
+      {
+        "subject": "Morgan",
+        "verb": "will",
+        "stem": "will",
+        "object": "can do"
+      },
+      {
+        "subject": "Morgan",
+        "verb": "do",
+        "stem": "do",
+        "object": "to stay standing"
+      },
+      {
+        "subject": "Morgan",
+        "verb": "DROP KICKS",
+        "stem": "drop kick",
+        "object": "one of Champa's boys"
+      },
+      {
+        "subject": "Morgan",
+        "verb": "is",
+        "stem": "be",
+        "object": "actually quite a fighter"
+      },
+      {
+        "subject": "He",
+        "verb": "peppers",
+        "stem": "pepper",
+        "object": "the kid with a flurry of blows"
+      },
+      {
+        "subject": "someone",
+        "verb": "throws",
+        "stem": "throw",
+        "object": "a bottle"
+      },
+      {
+        "subject": "our guys",
+        "verb": "are",
+        "stem": "be",
+        "object": "left standing"
+      },
+      {
+        "subject": "Bobby's friends",
+        "verb": "stagger",
+        "stem": "stagger",
+        "object": "off"
+      },
+      {
+        "subject": "Chuckie and Morgan",
+        "verb": "turn",
+        "stem": "turn",
+        "object": "to see Will"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "MOV-13": {
+    "SVO_relationships": [
+      {
+        "subject": "Bobby Champa",
+        "verb": "POUNDING",
+        "stem": "pound",
+        "object": "him"
+      },
+      {
+        "subject": "Will",
+        "verb": "is",
+        "stem": "be",
+        "object": "SAVAGE, UGLY, VICIOUS, AND VIOLENT"
+      },
+      {
+        "subject": "he",
+        "verb": "taking",
+        "stem": "take",
+        "object": "them out on Bobby Champa"
+      },
+      {
+        "subject": "Will",
+        "verb": "pummels",
+        "stem": "pummel",
+        "object": "the helpless, unconscious Champa"
+      },
+      {
+        "subject": "Chuckie and Billy",
+        "verb": "pull",
+        "stem": "pull",
+        "object": "Will away"
+      },
+      {
+        "subject": "The POLICE",
+        "verb": "finally arrive",
+        "stem": "arrive",
+        "object": "on the scene"
+      },
+      {
+        "subject": "They",
+        "verb": "grab",
+        "stem": "grab",
+        "object": "him"
+      },
+      {
+        "subject": "Chuckie",
+        "verb": "addresses",
+        "stem": "address",
+        "object": "them"
+      },
+      {
+        "subject": "Will",
+        "verb": "says",
+        "stem": "say",
+        "object": "Yeah, you're all invited over"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "MOV-14": {
+    "SVO_relationships": [
+      {
+        "subject": "The Police",
+        "verb": "slam",
+        "stem": "slam",
+        "object": "Will"
+      },
+      {
+        "subject": "The cop",
+        "verb": "SLAM",
+        "stem": "slam",
+        "object": "Will's face"
+      },
+      {
+        "subject": "Another cop",
+        "verb": "uses",
+        "stem": "use",
+        "object": "baton"
+      },
+      {
+        "subject": "The Police",
+        "verb": "press",
+        "stem": "press",
+        "object": "Will's face"
+      },
+      {
+        "subject": "Will",
+        "verb": "KICKS",
+        "stem": "kick",
+        "object": "HIM IN THE KNEE"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "MOV-15": {
+    "SVO_relationships": [
+      {
+        "subject": "More",
+        "verb": "converge",
+        "stem": "converge",
+        "object": "on Will"
+      },
+      {
+        "subject": "LANDLADY",
+        "verb": "says",
+        "stem": "say",
+        "object": "Sean"
+      },
+      {
+        "subject": "LANDLADY",
+        "verb": "says",
+        "stem": "say",
+        "object": "Sean"
+      },
+      {
+        "subject": "LANDLADY",
+        "verb": "asks",
+        "stem": "ask",
+        "object": "You okay?"
+      },
+      {
+        "subject": "SEAN",
+        "verb": "says",
+        "stem": "say",
+        "object": "Yeah"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "MOV-16": {
+    "SVO_relationships": [
+      {
+        "subject": "WILL",
+        "verb": "says",
+        "stem": "say",
+        "object": "Yeah"
+      },
+      {
+        "subject": "MORGAN",
+        "verb": "asks",
+        "stem": "ask",
+        "object": "How retarded..."
+      },
+      {
+        "subject": "CHUCKIE",
+        "verb": "says",
+        "stem": "say",
+        "object": "You got fired"
+      },
+      {
+        "subject": "MORGAN",
+        "verb": "says",
+        "stem": "say",
+        "object": "Yah, that was different"
+      },
+      {
+        "subject": "BILLY",
+        "verb": "says",
+        "stem": "say",
+        "object": "Least I work for a livin'"
+      },
+      {
+        "subject": "BILLY",
+        "verb": "asks",
+        "stem": "ask",
+        "object": "Why'd you get fired?"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-17": {
+    "SVO_relationships": [
+      {
+        "subject": "WILL",
+        "verb": "says",
+        "stem": "say",
+        "object": "Management was restructurin'"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "She's got the prettiest eyes..."
+      },
+      {
+        "subject": "Lee",
+        "verb": "exchanging",
+        "stem": "exchange",
+        "object": "greetings"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "MOV-18": {
+    "SVO_relationships": [
+      {
+        "subject": "Two more guests",
+        "verb": "enter",
+        "stem": "enter",
+        "object": "the apartment"
+      },
+      {
+        "subject": "Lee",
+        "verb": "lightly hugs",
+        "stem": "hug",
+        "object": "one of the children"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "(V.O.) I just want to be alone with her..."
+      },
+      {
+        "subject": "Lee",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "into the living room"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "(V.O.) ...and tell her how much I love her"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "MOV-19": {
+    "SVO_relationships": [
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "and take care of her"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "She's your wife's sister"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "(V.O.) I'm consumed by her"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "(V.O.) It's been months now"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "(V.O.) I dream about her"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "(V.O.) I- I, I think about her at the office"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-20": {
+    "SVO_relationships": [
+      {
+        "subject": "Lee",
+        "verb": "passes",
+        "stem": "pass",
+        "object": "several other guests"
+      },
+      {
+        "subject": "Lee",
+        "verb": "gives",
+        "stem": "give",
+        "object": "a warm, brief hug"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "(V.O.) I hear myself mooning over you..."
+      },
+      {
+        "subject": "Elliot",
+        "verb": "is seen",
+        "stem": "see",
+        "object": "standing in a doorway"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "has a conversation",
+        "stem": "have",
+        "object": "with a gesturing, rotund man"
+      },
+      {
+        "subject": "Lee",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "between them"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-21": {
+    "SVO_relationships": [
+      {
+        "subject": "Lee",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "past me"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "watches",
+        "stem": "watch",
+        "object": "Lee walk off"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "returns",
+        "stem": "return",
+        "object": "to the conversation"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "gazes",
+        "stem": "gaze",
+        "object": "at the offscreen Lee"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "says",
+        "stem": "say",
+        "object": "(V.O.) ...Jesus, I, I thought I was gonna swoon!"
+      },
+      {
+        "subject": "Lee",
+        "verb": "puts down",
+        "stem": "put down",
+        "object": "the tray and drinks"
+      },
+      {
+        "subject": "Lee",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "briskly and obliviously, past a"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "MOV-22": {
+    "SVO_relationships": [
+      {
+        "subject": "Elliot",
+        "verb": "watches",
+        "stem": "watch",
+        "object": "her, entranced"
+      },
+      {
+        "subject": "The camera",
+        "verb": "stays with",
+        "stem": "stay with",
+        "object": "Elliot"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "walks up",
+        "stem": "walk",
+        "object": "behind the distracted Elliot"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "returns",
+        "stem": "return",
+        "object": "from his reveries with a start"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "responds",
+        "stem": "response",
+        "object": "Mm-hm?"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "MOV-23": {
+    "SVO_relationships": [
+      {
+        "subject": "Him",
+        "verb": "strike",
+        "stem": "strike",
+        "object": "me as a particularly icy and remorseless man"
+      },
+      {
+        "subject": "Him",
+        "verb": "order",
+        "stem": "order",
+        "object": "you to serve two life sentences, back to back"
+      },
+      {
+        "subject": "Him",
+        "verb": "say",
+        "stem": "say",
+        "object": "I've learned my lesson"
+      },
+      {
+        "subject": "Him",
+        "verb": "claim",
+        "stem": "claim",
+        "object": "I'm a changed man"
+      },
+      {
+        "subject": "Him",
+        "verb": "assert",
+        "stem": "assert",
+        "object": "I'm no longer a danger to society"
+      },
+      {
+        "subject": "Him",
+        "verb": "swear",
+        "stem": "swear",
+        "object": "That's the God's honest truth"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-24": {
+    "SVO_relationships": [
+      {
+        "subject": "She",
+        "verb": "stands",
+        "stem": "stand",
+        "object": "at the entrance to the hallway"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "walk",
+        "stem": "walk",
+        "object": "offscreen"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "walk",
+        "stem": "walk",
+        "object": "offscreen, swallowing"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "remark",
+        "stem": "remark",
+        "object": "Ohhh, but I've eaten five of these"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "suggest",
+        "stem": "suggest",
+        "object": "Holly, why don't you open your own restaurant?"
+      },
+      {
+        "subject": "Holly",
+        "verb": "respond",
+        "stem": "respond",
+        "object": "Mmm, we practically are"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-25": {
+    "SVO_relationships": [
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "restaurant, but..."
+      },
+      {
+        "subject": "Hannah",
+        "verb": "remark",
+        "stem": "remark",
+        "object": "What? You're kidding!"
+      },
+      {
+        "subject": "Holly",
+        "verb": "respond",
+        "stem": "respond",
+        "object": "No, no, we decided!"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "say",
+        "stem": "say",
+        "object": "Perfect!"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "I mean, we love to cook for our friends..."
+      },
+      {
+        "subject": "Elliot",
+        "verb": "overlapping Hannah",
+        "stem": "overlapping Hannah",
+        "object": "That's where"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-26": {
+    "SVO_relationships": [
+      {
+        "subject": "Elliot",
+        "verb": "say",
+        "stem": "say",
+        "object": "your talent lies"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "Get outta here"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "say",
+        "stem": "say",
+        "object": "Oh, sure"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "say",
+        "stem": "say",
+        "object": "I'm her husband! She tells me anything!"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "MOV-27": {
+    "SVO_relationships": [
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "Hannah, I have to borrow some more money"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "say",
+        "stem": "say",
+        "object": "Mmm, I never get upset over that. Mmm?"
+      }
+    ],
+    "total_SVOs": 2
+  },
+  "MOV-28": {
+    "SVO_relationships": [
+      {
+        "subject": "Hannah",
+        "verb": "say",
+        "stem": "say",
+        "object": "Holly, please. Don't insult me"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "Someday, I'll pay it all back"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "Two thousand dollars"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "say",
+        "stem": "say",
+        "object": "Uh-huh"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "Hannah, I know it's a lot, but my friend April and I, we have this"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "MOV-29": {
+    "SVO_relationships": [
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "You admit that we're great cooks, right?"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "Well, in order to get started, there's just a few things I have to buy... and some old debts I have outstanding"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "ask",
+        "stem": "ask",
+        "object": "Will you just tell me one thing?"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "MOV-30": {
+    "SVO_relationships": [
+      {
+        "subject": "Holly",
+        "verb": "swear",
+        "stem": "swear",
+        "object": "I swear"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "We've already got some requests to do a few dinner parties"
+      },
+      {
+        "subject": "Holly",
+        "verb": "distractedly nibble",
+        "stem": "nibble",
+        "object": "an hors d'oeuvre"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "MOV-31": {
+    "SVO_relationships": [
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "you know"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "We both still go to auditions"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "Something could turn up at any moment"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "But the parties are at night, days are free, I can still take my acting class"
+      },
+      {
+        "subject": "Holly",
+        "verb": "say",
+        "stem": "say",
+        "object": "I haven't done drugs on a year"
+      },
+      {
+        "subject": "Holly",
+        "verb": "pop",
+        "stem": "pop",
+        "object": "another hors d'oeuvre into her mouth"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-32": {
+    "SVO_relationships": [
+      {
+        "subject": "Lee",
+        "verb": "walk",
+        "stem": "walk",
+        "object": "over to her sisters"
+      },
+      {
+        "subject": "Lee",
+        "verb": "put down",
+        "stem": "put down",
+        "object": "the glasses"
+      }
+    ],
+    "total_SVOs": 2
+  },
+  "MOV-33": {
+    "SVO_relationships": [
+      {
+        "subject": "Hannah",
+        "verb": "scoop out",
+        "stem": "scoop out",
+        "object": "seeds out of a cantaloupe"
+      },
+      {
+        "subject": "Holly",
+        "verb": "sip",
+        "stem": "sip",
+        "object": "her drink"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "say",
+        "stem": "say",
+        "object": "Hey, have you tried Holly and her friend's shrimp puffs?"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "touch",
+        "stem": "touch",
+        "object": "her arm"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "say",
+        "stem": "say",
+        "object": "I think they're fantastic. You've outdone yourself."
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "MOV-34": {
+    "SVO_relationships": [
+      {
+        "subject": "Hannah",
+        "verb": "say",
+        "stem": "say",
+        "object": "Ohh?"
+      },
+      {
+        "subject": "Holly",
+        "verb": "overlap and say",
+        "stem": "say",
+        "object": "Uh-oh"
+      },
+      {
+        "subject": "Lee",
+        "verb": "continue and say",
+        "stem": "say",
+        "object": "...before she starts turning into Camille..."
+      },
+      {
+        "subject": "Holly",
+        "verb": "overlap and say",
+        "stem": "say",
+        "object": "Yeah, Mom's Camille when she gets up in the morning"
+      },
+      {
+        "subject": "Lee",
+        "verb": "turn and say",
+        "stem": "say",
+        "object": "At least she isn't drinking. Did you notice?"
+      },
+      {
+        "subject": "Holly",
+        "verb": "nod and say",
+        "stem": "say",
+        "object": "Mm-hm"
+      },
+      {
+        "subject": "Holly",
+        "verb": "nod and say",
+        "stem": "say",
+        "object": "Yeah"
+      },
+      {
+        "subject": "Lee",
+        "verb": "nod and say",
+        "stem": "say",
+        "object": "Yeah"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "MOV-35": {
+    "SVO_relationships": [
+      {
+        "subject": "LEE",
+        "verb": "think",
+        "stem": "think",
+        "object": "she"
+      },
+      {
+        "subject": "HOLLY",
+        "verb": "get",
+        "stem": "get",
+        "object": "garter belt"
+      }
+    ],
+    "total_SVOs": 2
+  },
+  "MOV-36": {
+    "SVO_relationships": [
+      {
+        "subject": "LEE",
+        "verb": "ask",
+        "stem": "ask",
+        "object": "Elliot"
+      },
+      {
+        "subject": "Lee",
+        "verb": "leave",
+        "stem": "leave",
+        "object": "kitchen"
+      },
+      {
+        "subject": "Frederick",
+        "verb": "come",
+        "stem": "come",
+        "object": "her"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "MOV-37": {
+    "SVO_relationships": [
+      {
+        "subject": "Evan",
+        "verb": "play",
+        "stem": "play",
+        "object": "piano"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "invite",
+        "stem": "invite",
+        "object": "Phil Gammage"
+      }
+    ],
+    "total_SVOs": 2
+  },
+  "MOV-38": {
+    "SVO_relationships": [
+      {
+        "subject": "Holly",
+        "verb": "be",
+        "stem": "be",
+        "object": "loser"
+      },
+      {
+        "subject": "Holly",
+        "verb": "remind",
+        "stem": "remind",
+        "object": "Ichabod Crane"
+      }
+    ],
+    "total_SVOs": 2
+  },
+  "MOV-39": {
+    "SVO_relationships": [
+      {
+        "subject": "his Adam's apple",
+        "verb": "keep",
+        "stem": "keep",
+        "object": "jumping"
+      },
+      {
+        "subject": "he",
+        "verb": "get",
+        "stem": "get",
+        "object": "good job"
+      }
+    ],
+    "total_SVOs": 2
+  },
+  "MOV-40": {
+    "SVO_relationships": [
+      {
+        "subject": "his Adam's apple",
+        "verb": "keep",
+        "stem": "keep",
+        "object": "jumping"
+      },
+      {
+        "subject": "he",
+        "verb": "get",
+        "stem": "get",
+        "object": "good job"
+      },
+      {
+        "subject": "HOLLY",
+        "verb": "strike",
+        "stem": "strike",
+        "object": "match"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "MOV-41": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "met",
+        "stem": "meet",
+        "object": "Phil"
+      },
+      {
+        "subject": "he",
+        "verb": "look",
+        "stem": "look",
+        "object": "like Ichabod Crane"
+      },
+      {
+        "subject": "Holly",
+        "verb": "push",
+        "stem": "push",
+        "object": "accusing finger"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "MOV-42": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "can't",
+        "stem": "believe",
+        "object": "it"
+      },
+      {
+        "subject": "I",
+        "verb": "like",
+        "stem": "like",
+        "object": "him"
+      },
+      {
+        "subject": "she",
+        "verb": "take",
+        "stem": "take",
+        "object": "apples"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "MOV-43": {
+    "SVO_relationships": [
+      {
+        "subject": "you",
+        "verb": "know",
+        "stem": "know",
+        "object": "this"
+      },
+      {
+        "subject": "you",
+        "verb": "be",
+        "stem": "careful",
+        "object": "those"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "hand",
+        "stem": "hand",
+        "object": "her"
+      },
+      {
+        "subject": "she",
+        "verb": "stick",
+        "stem": "stick",
+        "object": "her"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "MOV-44": {
+    "SVO_relationships": [
+      {
+        "subject": "it",
+        "verb": "be",
+        "stem": "must",
+        "object": "here"
+      },
+      {
+        "subject": "I",
+        "verb": "love",
+        "stem": "love",
+        "object": "that"
+      }
+    ],
+    "total_SVOs": 2
+  },
+  "MOV-45": {
+    "SVO_relationships": [
+      {
+        "subject": "Frederick",
+        "verb": "come",
+        "stem": "come",
+        "object": "none"
+      },
+      {
+        "subject": "he",
+        "verb": "sold",
+        "stem": "sell",
+        "object": "none"
+      }
+    ],
+    "total_SVOs": 2
+  },
+  "MOV-46": {
+    "SVO_relationships": [
+      {
+        "subject": "Lee",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "room"
+      },
+      {
+        "subject": "Lee",
+        "verb": "flips",
+        "stem": "flip",
+        "object": "book"
+      },
+      {
+        "subject": "Lee",
+        "verb": "talks",
+        "stem": "talk",
+        "object": "offscreen Elliot"
+      },
+      {
+        "subject": "Lee",
+        "verb": "puts",
+        "stem": "put",
+        "object": "book"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "MOV-47": {
+    "SVO_relationships": [
+      {
+        "subject": "She",
+        "verb": "looks",
+        "stem": "look",
+        "object": "offscreen Elliot"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "room"
+      },
+      {
+        "subject": "Lee",
+        "verb": "was thinking",
+        "stem": "think",
+        "object": "courses at Columbia"
+      },
+      {
+        "subject": "Lee",
+        "verb": "is",
+        "stem": "be",
+        "object": "unemployed"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "MOV-48": {
+    "SVO_relationships": [
+      {
+        "subject": "Elliot",
+        "verb": "parts",
+        "stem": "part",
+        "object": "hanging curtain"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "looks",
+        "stem": "look",
+        "object": "offscreen Lee"
+      },
+      {
+        "subject": "Lee",
+        "verb": "sits",
+        "stem": "sit",
+        "object": "bed"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "reaches",
+        "stem": "reach",
+        "object": "stereo shelf"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "grabs",
+        "stem": "grab",
+        "object": "bottle of antihistamines"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "sits",
+        "stem": "sit",
+        "object": "footstool"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "MOV-49": {
+    "SVO_relationships": [
+      {
+        "subject": "Lee",
+        "verb": "takes",
+        "stem": "take",
+        "object": "bottle of pills"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "call",
+        "stem": "call",
+        "object": "Lee"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "turns",
+        "stem": "turn",
+        "object": "direction of his wife's voice"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "MOV-50": {
+    "SVO_relationships": [
+      {
+        "subject": "Hannah",
+        "verb": "enters",
+        "stem": "enter",
+        "object": "bedroom"
+      },
+      {
+        "subject": "Lee",
+        "verb": "says",
+        "stem": "say",
+        "object": "'great'"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "calls out",
+        "stem": "call",
+        "object": "'You look so beautiful.'"
+      },
+      {
+        "subject": "Lee",
+        "verb": "says",
+        "stem": "say",
+        "object": "'Come on.'"
+      },
+      {
+        "subject": "Hannah",
+        "verb": "agrees",
+        "stem": "agree",
+        "object": "'Doesn't she look pretty?'"
+      },
+      {
+        "subject": "Lee",
+        "verb": "continues",
+        "stem": "continue",
+        "object": "'You bumped into my...'"
+      },
+      {
+        "subject": "Elliot",
+        "verb": "agrees",
+        "stem": "agree",
+        "object": "'Yeah.'"
+      },
+      {
+        "subject": "Lee",
+        "verb": "gestures",
+        "stem": "gesture",
+        "object": "'ex-husband on the street' and 'he's just as crazy as ever'"
+      }
+    ],
+    "total_SVOs": 8
+  },
+
+  "Mov-58": {
+    "SVO_relationships": [
+      {
+        "subject": "Hiccup",
+        "verb": "crosses",
+        "stem": "cross",
+        "object": "an open plaza"
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "ducks",
+        "stem": "duck",
+        "object": "into an open building with a tall chimney"
+      },
+      {
+        "subject": "He",
+        "verb": "crosses",
+        "stem": "cross",
+        "object": "behind a counter"
+      },
+      {
+        "subject": "a peg-legged, one-armed hulk of a Blacksmith",
+        "verb": "reshapes",
+        "stem": "reshape",
+        "object": "blades with a hammer and tongs appendage"
+      },
+      {
+        "subject": "GOBBER",
+        "verb": "said",
+        "stem": "say",
+        "object": "Ah! Nice of you to join the party. I thought you'd been carried off."
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "dons",
+        "stem": "don",
+        "object": "a leather apron"
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "starts",
+        "stem": "start",
+        "object": "to put away Gobber's scattered appendages"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Mov-59": {
+    "SVO_relationships": [
+      {
+        "subject": "Hiccup",
+        "verb": "strikes",
+        "stem": "strike",
+        "object": "a bodybuilder pose"
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "gets",
+        "stem": "get",
+        "object": "to work"
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "transfers",
+        "stem": "transfer",
+        "object": "bent and chipped weapons to the forge"
+      },
+      {
+        "subject": "Vikings",
+        "verb": "crowd",
+        "stem": "crowd",
+        "object": "the counter for replacements"
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "said",
+        "stem": "say",
+        "object": "The meathead with attitude and interchangeable hands is Gobber. I've been his apprentice ever since I was little. Well...littler."
+      },
+      {
+        "subject": "STOICK",
+        "verb": "said",
+        "stem": "say",
+        "object": "We move to the lower defenses. We'll counter-attack with the catapults."
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Mov-60": {
+    "SVO_relationships": [
+      {
+        "subject": "Armed men",
+        "verb": "rush",
+        "stem": "rush",
+        "object": "past"
+      },
+      {
+        "subject": "others",
+        "verb": "carry",
+        "stem": "carry",
+        "object": "sheep to safety"
+      },
+      {
+        "subject": "Stoick",
+        "verb": "follows",
+        "stem": "follow",
+        "object": "up the rear"
+      },
+      {
+        "subject": "a dragon",
+        "verb": "strafes",
+        "stem": "strafe",
+        "object": "the rooftops with Napalm-like fire"
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "said",
+        "stem": "say",
+        "object": "See? Old village. Lots and lots of new houses."
+      },
+      {
+        "subject": "the fire brigade",
+        "verb": "charges",
+        "stem": "charge",
+        "object": "through the plaza"
+      },
+      {
+        "subject": "four TEENS",
+        "verb": "tug",
+        "stem": "tug",
+        "object": "a large wooden cask on wheels"
+      },
+      {
+        "subject": "they",
+        "verb": "fill",
+        "stem": "fill",
+        "object": "buckets of water to douse the flames"
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "leans",
+        "stem": "lean",
+        "object": "out of the stall to watch her"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "Mov-61": {
+    "SVO_relationships": [
+      {
+        "subject": "Hiccup",
+        "verb": "said",
+        "stem": "say",
+        "object": "Oh and that's Fishlegs, Snotlout. The twins Ruffnut and Tuffnut. And... (DREAMY) Astrid."
+      },
+      {
+        "subject": "an explosion",
+        "verb": "erupts",
+        "stem": "erupt",
+        "object": "behind her"
+      },
+      {
+        "subject": "the others",
+        "verb": "join",
+        "stem": "join",
+        "object": "her"
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "tries",
+        "stem": "try",
+        "object": "to join them as they pass"
+      },
+      {
+        "subject": "Gobber",
+        "verb": "hooked",
+        "stem": "hook",
+        "object": "him"
+      },
+      {
+        "subject": "Gobber",
+        "verb": "hoisted",
+        "stem": "hoist",
+        "object": "him back inside"
+      },
+      {
+        "subject": "Hiccup",
+        "verb": "said",
+        "stem": "say",
+        "object": "Ah, come on. Let me out, please. I need to make my mark."
+      },
+      {
+        "subject": "Gobber",
+        "verb": "said",
+        "stem": "say",
+        "object": "Oh, you've made plenty of marks. All in the wrong places."
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "Mov-62": {
+    "SVO_relationships": [
+      {
+        "subject": "Hiccup",
+        "verb": "said",
+        "stem": "say",
+        "object": "Please, two minutes. I'll kill a dragon. My life will get infinitely better. I might even get a date."
+      },
+      {
+        "subject": "Gobber",
+        "verb": "said",
+        "stem": "say",
+        "object": "You can't lift a hammer. You can't swing an axe..."
+      },
+      {
+        "subject": "Gobber",
+        "verb": "grabs",
+        "stem": "grab",
+        "object": "a bola"
+      },
+      {
+        "subject": "a Viking",
+        "verb": "runs",
+        "stem": "run",
+        "object": "by"
+      },
+      {
+        "subject": "a Viking",
+        "verb": "nabs",
+        "stem": "nab",
+        "object": "it out of Gobber's hand"
+      },
+      {
+        "subject": "a Viking",
+        "verb": "hurls",
+        "stem": "hurl",
+        "object": "it at a dive-bombing Gronkle"
+      },
+      {
+        "subject": "the bola",
+        "verb": "binds",
+        "stem": "bind",
+        "object": "its legs"
+      },
+      {
+        "subject": "the bola",
+        "verb": "sends",
+        "stem": "send",
+        "object": "it into a heavy crash"
+      }
+    ],
+    "total_SVOs": 8
+  },
+"Mov-74": {
+    "SVO_relationships": [
+      {
+        "subject": "TEEN BOY",
+        "verb": "sleeps",
+        "stem": "sleep",
+        "object": "in one"
+      },
+      {
+        "subject": "MIDDLE-AGED MAN",
+        "verb": "lies",
+        "stem": "lie",
+        "object": "in the other"
+      },
+      {
+        "subject": "Their ebony skin",
+        "verb": "glistens",
+        "stem": "glisten",
+        "object": "in the swampy heat"
+      },
+      {
+        "subject": "THE DOOR",
+        "verb": "RATTLES",
+        "stem": "rattle",
+        "object": "softly"
+      },
+      {
+        "subject": "The Teen's eyes",
+        "verb": "fly",
+        "stem": "fly",
+        "object": "open"
+      },
+      {
+        "subject": "Fear",
+        "verb": "grips",
+        "stem": "grip",
+        "object": "his face"
+      },
+      {
+        "subject": "he",
+        "verb": "looks",
+        "stem": "look",
+        "object": "over at the Man"
+      },
+      {
+        "subject": "the Man",
+        "verb": "pulls",
+        "stem": "pull",
+        "object": "a crystal-handled dagger from under his pillow"
+      },
+      {
+        "subject": "the Man",
+        "verb": "creeps",
+        "stem": "creep",
+        "object": "to the door"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "Mov-75": {
+    "SVO_relationships": [
+      {
+        "subject": "The Man",
+        "verb": "leans",
+        "stem": "lean",
+        "object": "in and peers through the bamboo slats"
+      },
+      {
+        "subject": "he",
+        "verb": "turns",
+        "stem": "turn",
+        "object": "back"
+      },
+      {
+        "subject": "his face",
+        "verb": "contorts",
+        "stem": "contort",
+        "object": "as he looks down"
+      },
+      {
+        "subject": "he",
+        "verb": "sees",
+        "stem": "see",
+        "object": "the tip of A SERRATED METAL BLADE protruding from his chest"
+      },
+      {
+        "subject": "the sword",
+        "verb": "is protracted",
+        "stem": "protract",
+        "object": "through the door"
+      },
+      {
+        "subject": "the Man",
+        "verb": "meets",
+        "stem": "meet",
+        "object": "the Teen's haunted eyes"
+      },
+      {
+        "subject": "he",
+        "verb": "whispers",
+        "stem": "whisper",
+        "object": "his last, desperate word"
+      },
+      {
+        "subject": "A HULKING BEAST",
+        "verb": "skitters",
+        "stem": "skitter",
+        "object": "to a stop on the other side"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "Mov-76": {
+    "SVO_relationships": [
+      {
+        "subject": "It",
+        "verb": "utters",
+        "stem": "utter",
+        "object": "a chilling BANSHEE WAIL of frustration"
+      },
+      {
+        "subject": "the Teen",
+        "verb": "turns",
+        "stem": "turn",
+        "object": "to make his escape"
+      },
+      {
+        "subject": "A HAND",
+        "verb": "wraps",
+        "stem": "wrap",
+        "object": "around his throat"
+      },
+      {
+        "subject": "He",
+        "verb": "is hoisted",
+        "stem": "hoist",
+        "object": "by a TOWERING MAN"
+      },
+      {
+        "subject": "the TOWERING MAN",
+        "verb": "wears",
+        "stem": "wear",
+        "object": "the long red coat of a Commander"
+      },
+      {
+        "subject": "he",
+        "verb": "raises",
+        "stem": "raise",
+        "object": "A SWORD"
+      },
+      {
+        "subject": "Its serrated blade",
+        "verb": "ignites",
+        "stem": "ignite",
+        "object": "with silver flame"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Mov-77": {
+    "SVO_relationships": [
+      {
+        "subject": "the boy's DEATH CRY",
+        "verb": "echoes",
+        "stem": "echo",
+        "object": "as the CAMERA ZEROES IN ON the pendant"
+      },
+      {
+        "subject": "the pendant",
+        "verb": "glows",
+        "stem": "glow",
+        "object": "brilliant-bright"
+      },
+      {
+        "subject": "THE SAME SYMBOL",
+        "verb": "glimmers",
+        "stem": "glimmer",
+        "object": "to life on the ankle of another TEEN 10,000 miles away"
+      },
+      {
+        "subject": "Daniel",
+        "verb": "makes",
+        "stem": "make",
+        "object": "a kamikaze move"
+      },
+      {
+        "subject": "he",
+        "verb": "whips",
+        "stem": "whip",
+        "object": "his jet ski past his opponents"
+      },
+      {
+        "subject": "he",
+        "verb": "pumps",
+        "stem": "pump",
+        "object": "his fist"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Mov-78": {
+    "SVO_relationships": [
+      {
+        "subject": "his moment of triumph",
+        "verb": "is cut",
+        "stem": "cut",
+        "object": "short"
+      },
+      {
+        "subject": "his face",
+        "verb": "contorts",
+        "stem": "contort",
+        "object": "in agony"
+      },
+      {
+        "subject": "he",
+        "verb": "feels",
+        "stem": "feel",
+        "object": "THE SYMBOL searing into his skin"
+      },
+      {
+        "subject": "he",
+        "verb": "leans",
+        "stem": "lean",
+        "object": "forward to grip his ankle"
+      },
+      {
+        "subject": "he",
+        "verb": "cartwheels",
+        "stem": "cartwheel",
+        "object": "off the jet ski"
+      },
+      {
+        "subject": "he",
+        "verb": "body-slams",
+        "stem": "body-slam",
+        "object": "across the water"
+      },
+      {
+        "subject": "Daniel",
+        "verb": "crashes",
+        "stem": "crash",
+        "object": "into view"
+      },
+      {
+        "subject": "the symbol",
+        "verb": "flickers",
+        "stem": "flicker",
+        "object": "from the symbol"
+      },
+      {
+        "subject": "it",
+        "verb": "is cauterizing",
+        "stem": "cauterize",
+        "object": "into his flesh like a brand"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "Mov-79": {
+    "SVO_relationships": [
+      {
+        "subject": "Daniel",
+        "verb": "stumbles",
+        "stem": "stumble",
+        "object": "through the surf"
+      },
+      {
+        "subject": "he",
+        "verb": "collapses",
+        "stem": "collapse",
+        "object": "onto the sand"
+      },
+      {
+        "subject": "he",
+        "verb": "rolls",
+        "stem": "roll",
+        "object": "onto his side"
+      },
+      {
+        "subject": "a CROWD OF PARTYING TEENS",
+        "verb": "gathers",
+        "stem": "gather",
+        "object": "around"
+      },
+      {
+        "subject": "a BLONDE GIRL",
+        "verb": "leans",
+        "stem": "lean",
+        "object": "down to help"
+      },
+      {
+        "subject": "BLONDE GIRL",
+        "verb": "said",
+        "stem": "say",
+        "object": "Daniel, what's wrong? Did you break your ankle?"
+      },
+      {
+        "subject": "she",
+        "verb": "turns",
+        "stem": "turn",
+        "object": "him over"
+      },
+      {
+        "subject": "she",
+        "verb": "sees",
+        "stem": "see",
+        "object": "the light leaking from between his fingers"
+      },
+      {
+        "subject": "she",
+        "verb": "reels",
+        "stem": "reel",
+        "object": "back"
+      }
+     ],
+    "total_SVOs": 9 
+},
+
+
+  "Mov-80": {
+    "SVO_relationships": [
+      {
+        "subject": "Trees",
+        "verb": "whip",
+        "stem": "whip",
+        "object": "past"
+      },
+      {
+        "subject": "Daniel",
+        "verb": "sprints",
+        "stem": "sprint",
+        "object": "down a sandy track"
+      },
+      {
+        "subject": "The pendant",
+        "verb": "knocks",
+        "stem": "knock",
+        "object": "against his chest"
+      },
+      {
+        "subject": "He",
+        "verb": "peels",
+        "stem": "peel",
+        "object": "off to the right"
+      },
+      {
+        "subject": "He",
+        "verb": "bursts",
+        "stem": "burst",
+        "object": "out onto a long drive"
+      },
+      {
+        "subject": "A STILT HOUSE",
+        "verb": "sits",
+        "stem": "sit",
+        "object": "at the end"
+      },
+      {
+        "subject": "It's",
+        "verb": "is",
+        "stem": "be",
+        "object": "cake-frosting pink"
+      },
+      {
+        "subject": "It's",
+        "verb": "is built",
+        "stem": "build",
+        "object": "right on the edge of a coral-white beach"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "I'm not interested in originality. I'm interested in untraceable"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "Mov-81": {
+    "SVO_relationships": [
+      {
+        "subject": "There",
+        "verb": "are",
+        "stem": "be",
+        "object": "335,321 John Smiths in the United States"
+      },
+      {
+        "subject": "John",
+        "verb": "looks",
+        "stem": "look",
+        "object": "at him"
+      },
+      {
+        "subject": "he",
+        "verb": "gets",
+        "stem": "get",
+        "object": "up and storms away"
+      },
+      {
+        "subject": "Henri",
+        "verb": "drops",
+        "stem": "drop",
+        "object": "$20 on the table"
+      },
+      {
+        "subject": "he",
+        "verb": "heads",
+        "stem": "head",
+        "object": "after him"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Mov-82": {
+    "SVO_relationships": [
+      {
+        "subject": "A row of ancient arcade games",
+        "verb": "blinks",
+        "stem": "blink",
+        "object": ""
+      },
+      {
+        "subject": "John",
+        "verb": "stabs",
+        "stem": "stab",
+        "object": "the buttons of a Space Invaders machine"
+      },
+      {
+        "subject": "Henri",
+        "verb": "approaches",
+        "stem": "approach",
+        "object": ""
+      },
+      {
+        "subject": "They",
+        "verb": "are",
+        "stem": "be",
+        "object": "alone"
+      },
+      {
+        "subject": "John's eyes",
+        "verb": "never leave",
+        "stem": "leave",
+        "object": "the video screen"
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "It's been so long since the last scar"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "You got lulled into a false sense of security. That's my fault"
+      },
+      {
+        "subject": "John",
+        "verb": "struggles",
+        "stem": "struggle",
+        "object": "to keep his temper in check"
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "I liked Florida. I liked having friends. I liked feeling normal"
+      },
+      {
+        "subject": "Henri's face",
+        "verb": "softens",
+        "stem": "soften",
+        "object": "with paternal compassion"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "I wish that you could have a normal life -- but you can't"
+      },
+      {
+        "subject": "John",
+        "verb": "turns",
+        "stem": "turn",
+        "object": "and faces him"
+      },
+      {
+        "subject": "His eyes",
+        "verb": "blaze",
+        "stem": "blaze",
+        "object": "with frustration"
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "Then why fake it? Why not just go hole up in the wilderness"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "That's exactly what Number 3 did"
+      }
+    ],
+    "total_SVOs": 15
+  },
+  "Mov-83": {
+    "SVO_relationships": [
+      {
+        "subject": "John",
+        "verb": "looks",
+        "stem": "look",
+        "object": "at him"
+      },
+      {
+        "subject": "Henri",
+        "verb": "pulls",
+        "stem": "pull",
+        "object": "up an article on his iPhone"
+      },
+      {
+        "subject": "he",
+        "verb": "hands",
+        "stem": "hand",
+        "object": "it to John"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "It's from an African news site. A man and his son went missing two nights ago. The locals think they were taken by strange beasts"
+      },
+      {
+        "subject": "John",
+        "verb": "understands",
+        "stem": "understand",
+        "object": "the implication"
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "Piken"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "The Mogadorians are natural-born hunters. Blending in is our best protection"
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "So we just keep moving from town to town?"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "Until I say otherwise -- yes"
+      },
+      {
+        "subject": "John",
+        "verb": "waits",
+        "stem": "wait",
+        "object": "as a TRUCKER passes through the room"
+      }
+    ],
+    "total_SVOs": 10
+  },
+  "Mov-84": {
+    "SVO_relationships": [
+      {
+        "subject": "His voice",
+        "verb": "softens",
+        "stem": "soften",
+        "object": ""
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "I want to be from someplace, Henri"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "You are"
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "Lorien's your home, I don't even remember it"
+      },
+      {
+        "subject": "John's tone",
+        "verb": "rubs",
+        "stem": "rub",
+        "object": "Henri the wrong way"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "Like it or not, it's your home too. You have a responsibility to those who died"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Mov-85": {
+    "SVO_relationships": [
+      {
+        "subject": "Henri and John",
+        "verb": "climb",
+        "stem": "climb",
+        "object": "in"
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "I want a say in where we live"
+      }
+    ],
+    "total_SVOs": 6
+  },	  
+	  
+ "Mov-87": {
+    "SVO_relationships": [
+      {
+        "subject": "my dad",
+        "verb": "needs",
+        "stem": "need",
+        "object": "peace and quiet to research his book"
+      },
+      {
+        "subject": "Henri",
+        "verb": "nods",
+        "stem": "nod",
+        "object": ""
+      },
+      {
+        "subject": "Henri",
+        "verb": "smiles",
+        "stem": "smile",
+        "object": "wryly"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "This was a lot easier when you were 12"
+      },
+      {
+        "subject": "the front door",
+        "verb": "swings",
+        "stem": "swing",
+        "object": "open"
+      },
+      {
+        "subject": "Annie",
+        "verb": "escorts",
+        "stem": "escort",
+        "object": "Henri and John inside"
+      },
+      {
+        "subject": "ANNIE",
+        "verb": "said",
+        "stem": "say",
+        "object": "Here we are. Home sweet home"
+      },
+      {
+        "subject": "They",
+        "verb": "scan",
+        "stem": "scan",
+        "object": "the faded interior"
+      },
+      {
+        "subject": "A grandfather clock",
+        "verb": "TICKS",
+        "stem": "tick",
+        "object": "at the end of the hall"
+      },
+      {
+        "subject": "Annie",
+        "verb": "remains",
+        "stem": "remain",
+        "object": "relentlessly optimistic"
+      },
+      {
+        "subject": "ANNIE",
+        "verb": "said",
+        "stem": "say",
+        "object": "First impressions?"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "It's perfect"
+      },
+      {
+        "subject": "Annie",
+        "verb": "places",
+        "stem": "place",
+        "object": "the fruit basket on the dining table"
+      }
+    ],
+    "total_SVOs": 13
+  },
+  "Mov-88": {
+    "SVO_relationships": [
+      {
+        "subject": "Annie",
+        "verb": "begins",
+        "stem": "begin",
+        "object": "turning on the lights"
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "That's one word for it"
+      },
+      {
+        "subject": "John",
+        "verb": "exits",
+        "stem": "exit",
+        "object": "into the hall with his duffel bag"
+      },
+      {
+        "subject": "Annie",
+        "verb": "reads",
+        "stem": "read",
+        "object": "the strained dynamic"
+      },
+      {
+        "subject": "ANNIE",
+        "verb": "said",
+        "stem": "say",
+        "object": "I feel your pain. I have a daughter his age. Apparently, I ruin her life on a daily basis"
+      },
+      {
+        "subject": "John",
+        "verb": "steps",
+        "stem": "step",
+        "object": "back in, holding a sun-faded poster featuring NFL great Bernie Kosar"
+      },
+      {
+        "subject": "JOHN",
+        "verb": "said",
+        "stem": "say",
+        "object": "This guy was covering a hole in my wall"
+      },
+      {
+        "subject": "Annie's cheeks",
+        "verb": "blush",
+        "stem": "blush",
+        "object": "with annoyance"
+      },
+      {
+        "subject": "ANNIE",
+        "verb": "said",
+        "stem": "say",
+        "object": "I told the handyman to patch that before you arrived. I'm so sorry"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "Mov-89": {
+    "SVO_relationships": [
+      {
+        "subject": "Henri",
+        "verb": "is",
+        "stem": "be",
+        "object": "all charm"
+      },
+      {
+        "subject": "Henri",
+        "verb": "leads",
+        "stem": "lead",
+        "object": "her to the front door"
+      },
+      {
+        "subject": "HENRI",
+        "verb": "said",
+        "stem": "say",
+        "object": "Don't you worry about it"
+      },
+      {
+        "subject": "She",
+        "verb": "nods",
+        "stem": "nod",
+        "object": "grateful"
+      },
+      {
+        "subject": "ANNIE",
+        "verb": "said",
+        "stem": "say",
+        "object": "We'll knock it off the rent. Keep the poster, Bernie Kosar brings good luck here in the Buckeye State"
+      },
+      {
+        "subject": "John",
+        "verb": "gives",
+        "stem": "give",
+        "object": "him a withering look"
+      },
+      {
+        "subject": "Henri",
+        "verb": "flashes",
+        "stem": "flash",
+        "object": "off a shot"
+      },
+      {
+        "subject": "The camera",
+        "verb": "is cabled",
+        "stem": "cable",
+        "object": "to one of the laptops"
+      },
+      {
+        "subject": "The image of John",
+        "verb": "pixelates",
+        "stem": "pixelate",
+        "object": "onto a digital grid"
+      },
+      {
+        "subject": "a face-recognition program",
+        "verb": "begins",
+        "stem": "begin",
+        "object": "to map his facial structure"
+      },
+      {
+        "subject": "Henri",
+        "verb": "turns",
+        "stem": "turn",
+        "object": "to"
+      }
+    ],
+    "total_SVOs": 11
+  },
+  "Mov-90": {
+    "SVO_relationships": [
+      {
+        "subject": "the waitress, SUELEEN",
+        "verb": "drops",
+        "stem": "drop",
+        "object": "a fork"
+      },
+      {
+        "subject": "she",
+        "verb": "gets",
+        "stem": "get",
+        "object": "another from an overflowing sink"
+      },
+      {
+        "subject": "she",
+        "verb": "hands",
+        "stem": "hand",
+        "object": "it to her customer, TRICYCLE MAN"
+      },
+      {
+        "subject": "There",
+        "verb": "are",
+        "stem": "be",
+        "object": "several people at the counter with him"
+      },
+      {
+        "subject": "GREEN",
+        "verb": "has walked",
+        "stem": "walk",
+        "object": "in"
+      },
+      {
+        "subject": "Another man",
+        "verb": "enters",
+        "stem": "enter",
+        "object": "DELBERT REESE"
+      },
+      {
+        "subject": "SUELEEN",
+        "verb": "waits",
+        "stem": "wait",
+        "object": "on all of them"
+      },
+      {
+        "subject": "a small black man",
+        "verb": "comes",
+        "stem": "come",
+        "object": "out of the kitchen"
+      },
+      {
+        "subject": "he",
+        "verb": "carries",
+        "stem": "carry",
+        "object": "a tray full of dishes"
+      },
+      {
+        "subject": "WADE",
+        "verb": "said",
+        "stem": "say",
+        "object": "to SUELEEN You want a ride into town?"
+      },
+      {
+        "subject": "SUELEEN",
+        "verb": "said",
+        "stem": "say",
+        "object": "You bet"
+      }
+    ],
+    "total_SVOs": 11
+  },
+  "Mov-91": {
+    "SVO_relationships": [
+      {
+        "subject": "REESE",
+        "verb": "looks",
+        "stem": "look",
+        "object": "up"
+      },
+      {
+        "subject": "he",
+        "verb": "checks",
+        "stem": "check",
+        "object": "out SUELEEN"
+      },
+      {
+        "subject": "he",
+        "verb": "checks",
+        "stem": "check",
+        "object": "WADE"
+      },
+      {
+        "subject": "he",
+        "verb": "checks",
+        "stem": "check",
+        "object": "the TRICYCLE MAN"
+      },
+      {
+        "subject": "he",
+        "verb": "checks",
+        "stem": "check",
+        "object": "his breast pocket to see if his wallet and checkbook are still there"
+      }
+	      ],
+    "total_SVOs": 5
+  },
+  "Mov-92": {
+    "SVO_relationships": [
+      {
+        "subject": "She",
+        "verb": "laughs",
+        "stem": "laugh",
+        "object": ""
+      },
+      {
+        "subject": "she",
+        "verb": "starts",
+        "stem": "start",
+        "object": "to rinse the dishes in the sink"
+      },
+      {
+        "subject": "SUELEEN",
+        "verb": "said",
+        "stem": "say",
+        "object": "I'm good, though. There ain't but one Sueleen Gay -- I don't mean to be conceited, but really it's true"
+      },
+      {
+        "subject": "I've",
+        "verb": "been taking",
+        "stem": "take",
+        "object": "special coaching lessons from Zeke Willard"
+      },
+      {
+        "subject": "he",
+        "verb": "teaches",
+        "stem": "teach",
+        "object": "you how to phrase"
+      },
+      {
+        "subject": "that's",
+        "verb": "is",
+        "stem": "be",
+        "object": "really important"
+      },
+      {
+        "subject": "She",
+        "verb": "looks",
+        "stem": "look",
+        "object": "down"
+      },
+      {
+        "subject": "she",
+        "verb": "begins",
+        "stem": "begin",
+        "object": "to half whisper, sing, and half do all of the gestures for a song she has written"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "Mov-93": {
+    "SVO_relationships": [
+      {
+        "subject": "she",
+        "verb": "wipes",
+        "stem": "wipe",
+        "object": "some glasses"
+      },
+      {
+        "subject": "the jukebox",
+        "verb": "continues",
+        "stem": "continue",
+        "object": "to play CONNIE WHITE"
+      },
+      {
+        "subject": "Sueleen",
+        "verb": "stops",
+        "stem": "stop",
+        "object": ""
+      },
+      {
+        "subject": "she",
+        "verb": "gets",
+        "stem": "get",
+        "object": "through the song"
+      },
+      {
+        "subject": "REESE",
+        "verb": "has been watching",
+        "stem": "watch",
+        "object": "too"
+      },
+      {
+        "subject": "She",
+        "verb": "looks",
+        "stem": "look",
+        "object": "away from him to the TRICYCLE MAN"
+      },
+      {
+        "subject": "the TRICYCLE MAN",
+        "verb": "smiles",
+        "stem": "smile",
+        "object": ""
+      },
+      {
+        "subject": "he",
+        "verb": "has finished",
+        "stem": "finish",
+        "object": "his meal"
+      },
+      {
+        "subject": "SUELEEN",
+        "verb": "said",
+        "stem": "say",
+        "object": "Oh, listen, I really do go on. Here's your check. Sure has been nice talking to you"
+      },
+      {
+        "subject": "she",
+        "verb": "removes",
+        "stem": "remove",
+        "object": "her apron"
+      },
+      {
+        "subject": "a HAVEN HAMILTON song",
+        "verb": "comes",
+        "stem": "come",
+        "object": "on the jukebox"
+      },
+      {
+        "subject": "the TRICYCLE MAN",
+        "verb": "leaves",
+        "stem": "leave",
+        "object": ""
+      }
+    ],
+    "total_SVOs": 13
+  },
+  "Mov-94": {
+    "SVO_relationships": [
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "Of course, I've seen her films and always thought she was, well, fabulous -- but, you know, million miles from the world I live in"
+      },
+      {
+        "subject": "Which",
+        "verb": "is",
+        "stem": "be",
+        "object": "here -- Notting Hill -- not a bad place to be"
+      },
+      {
+        "subject": "It's",
+        "verb": "is",
+        "stem": "be",
+        "object": "a full fruit market day"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "There's the market on weekdays, selling every fruit and vegetable known to man"
+      },
+      {
+        "subject": "A man",
+        "verb": "exits",
+        "stem": "exit",
+        "object": "the tattoo studio"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Mov-95": {
+    "SVO_relationships": [
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "The tattoo parlour -- with a guy outside who got drunk and now can't remember why he chose 'I Love Ken'"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "The racial hair-dressers where everyone comes out looking like the Cookie Monster, whether they like it or not"
+      },
+      {
+        "subject": "a girl",
+        "verb": "exits",
+        "stem": "exit",
+        "object": "with a huge threaded blue bouffant"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "Then suddenly it's the weekend, and from break of day, hundreds of stalls appears out of nowhere, filling Portobello Road right up to Notting Hill Gate"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Mov-96": {
+    "SVO_relationships": [
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "... and thousands of people buy millions of antiques, some genuine"
+      },
+      {
+        "subject": "The camera",
+        "verb": "settles",
+        "stem": "settle",
+        "object": "on a stall selling beautiful stained glass windows of various sizes"
+      },
+      {
+        "subject": "some",
+        "verb": "featuring",
+        "stem": "feature",
+        "object": "biblical scenes and saints"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "... and some not so genuine"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  
+  "Mov-97": {
+    "SVO_relationships": [
+      {
+        "subject": "he",
+        "verb": "sets",
+        "stem": "set",
+        "object": "out a board outside his restaurant"
+      },
+      {
+        "subject": "the sign",
+        "verb": "is being painted",
+        "stem": "paint",
+        "object": ""
+      },
+      {
+        "subject": "He",
+        "verb": "receives",
+        "stem": "receive",
+        "object": "a huge fresh salmon"
+      },
+      {
+        "subject": "He",
+        "verb": "approves",
+        "stem": "approve",
+        "object": "a huge fresh salmon"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "So this is where I spend my days and years -- in this small village in the middle of a city -- in a house with a blue door that my wife and I bought together... before she left me for a man who looked like Harrison Ford, only even handsomer"
+      },
+      {
+        "subject": "We",
+        "verb": "arrive",
+        "stem": "arrive",
+        "object": "outside his blue-doored house just off Portobello"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Mov-98": {
+    "SVO_relationships": [
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "and where I now lead a strange half-life with a lodger called..."
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "Spike!"
+      },
+      {
+        "subject": "The house",
+        "verb": "has",
+        "stem": "have",
+        "object": "far too many things in it"
+      },
+      {
+        "subject": "Spike",
+        "verb": "appears",
+        "stem": "appear",
+        "object": ""
+      },
+      {
+        "subject": "he",
+        "verb": "has",
+        "stem": "have",
+        "object": "unusual hair, unusual facial hair and an unusual Welsh accent"
+      },
+      {
+        "subject": "he",
+        "verb": "wears",
+        "stem": "wear",
+        "object": "only shorts"
+      },
+      {
+        "subject": "SPIKE",
+        "verb": "said",
+        "stem": "say",
+        "object": "Even he. Hey, you couldn't help me with an incredibly important decision, could you?"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "This is important in comparison to, let's say, whether they should cancel third world debt?"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "Mov-99": {
+    "SVO_relationships": [
+      {
+        "subject": "SPIKE",
+        "verb": "said",
+        "stem": "say",
+        "object": "That's right -- I'm at last going out on a date with the great Janine and I just want to be sure I've picked the right t-shirt"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "What are the choices?"
+      },
+      {
+        "subject": "SPIKE",
+        "verb": "said",
+        "stem": "say",
+        "object": "Well... wait for it..."
+      },
+      {
+        "subject": "He",
+        "verb": "pulls",
+        "stem": "pull",
+        "object": "on a t-shirt"
+      },
+      {
+        "subject": "The t-shirt",
+        "verb": "is",
+        "stem": "be",
+        "object": "white with a horrible looking plastic alien coming out of it, jaws open, blood everywhere"
+      },
+      {
+        "subject": "It",
+        "verb": "says",
+        "stem": "say",
+        "object": "'I Love Blood.'"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "Yes -- might make it hard to strike a really romantic note"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Mov-100": {
+    "SVO_relationships": [
+      {
+        "subject": "SPIKE",
+        "verb": "said",
+        "stem": "say",
+        "object": "Point taken"
+      },
+      {
+        "subject": "He",
+        "verb": "heads",
+        "stem": "head",
+        "object": "back up the stairs"
+      },
+      {
+        "subject": "he",
+        "verb": "talks",
+        "stem": "talk",
+        "object": "as he changes"
+      },
+      {
+        "subject": "SPIKE",
+        "verb": "said",
+        "stem": "say",
+        "object": "I suspect you'll prefer the next one"
+      },
+      {
+        "subject": "he",
+        "verb": "re-enters",
+        "stem": "re-enter",
+        "object": "in a white t-shirt, with a large arrow, pointing down to his flies, saying, 'Get It Here.'"
+      },
+      {
+        "subject": "SPIKE",
+        "verb": "said",
+        "stem": "say",
+        "object": "Cool, huh?"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "Yes -- she might think you don't have true love on your mind"
+      },
+      {
+        "subject": "SPIKE",
+        "verb": "said",
+        "stem": "say",
+        "object": "Wouldn't want that..."
+      },
+      {
+        "subject": "he",
+        "verb": "goes",
+        "stem": "go",
+        "object": "back up"
+      },
+      {
+        "subject": "He",
+        "verb": "comes",
+        "stem": "come",
+        "object": "down wearing it"
+      },
+      {
+        "subject": "Lots of hearts",
+        "verb": "say",
+        "stem": "say",
+        "object": "'You're the most beautiful woman in the world.'"
+      },
+      {
+        "subject": "WILLIAM",
+        "verb": "said",
+        "stem": "say",
+        "object": "Well"
+      }
+    ],
+    "total_SVOs": 12
+  }
+
+   } 
+  

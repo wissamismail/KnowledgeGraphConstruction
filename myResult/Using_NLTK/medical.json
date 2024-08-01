@@ -1,0 +1,799 @@
+{
+    "Med-1": {
+        "SVO_relationships": [
+            {
+                "subject": "pa-tients",
+                "verb": "have",
+                "stem": "have",
+                "object": "infection.our experience"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-2": {
+        "SVO_relationships": [
+            {
+                "subject": "each dog",
+                "verb": "be",
+                "stem": "be",
+                "object": "the balloon"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-3": {
+        "SVO_relationships": [
+            {
+                "subject": "examination",
+                "verb": "show",
+                "stem": "show",
+                "object": "chronic kidney disease stage III"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-4": {
+        "SVO_relationships": [
+            {
+                "subject": "Patients",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "corticosteroid treatment"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-5": {
+        "SVO_relationships": [
+            {
+                "subject": "kidney",
+                "verb": "increase",
+                "stem": "increase",
+                "object": "significantly.this compensatory hypertrophy"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-7": {
+        "SVO_relationships": [
+            {
+                "subject": "an endocrine condition",
+                "verb": "involve",
+                "stem": "involve",
+                "object": "the posterior pituitary peptide hormone"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-8": {
+        "SVO_relationships": [
+            {
+                "subject": "many small units",
+                "verb": "be",
+                "stem": "be",
+                "object": "seenwithin large bodies"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-9": {
+        "SVO_relationships": [
+            {
+                "subject": "indole+",
+                "verb": "transform",
+                "stem": "transform",
+                "object": "dna"
+            },
+            {
+                "subject": "whole phage",
+                "verb": "inactivate",
+                "stem": "inactivate",
+                "object": "withnitrogen mustard"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-10": {
+        "SVO_relationships": [
+            {
+                "subject": "chlorambucil-prednisolone therapyfor",
+                "verb": "disseminate",
+                "stem": "disseminate",
+                "object": "breast carcinomaover"
+            },
+            {
+                "subject": "patients",
+                "verb": "withdisseminated",
+                "stem": "withdisseminated",
+                "object": "breast cancer"
+            },
+            {
+                "subject": "pred-nisolone",
+                "verb": "be",
+                "stem": "be",
+                "object": "the drugs"
+            },
+            {
+                "subject": "modalities",
+                "verb": "have",
+                "stem": "have",
+                "object": "asimilar mechanism"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Med-11": {
+        "SVO_relationships": [
+            {
+                "subject": "an occipital type field defect",
+                "verb": "be",
+                "stem": "be",
+                "object": "a strong indication"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-12": {
+        "SVO_relationships": [
+            {
+                "subject": "h-2 histocompatibilitybarriers",
+                "verb": "have",
+                "stem": "have",
+                "object": "strain-specific tumors"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-13": {
+        "SVO_relationships": [
+            {
+                "subject": "behavior",
+                "verb": "follow",
+                "stem": "follow",
+                "object": "hospitalization"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-14": {
+        "SVO_relationships": [
+            {
+                "subject": "this hormone",
+                "verb": "be",
+                "stem": "be",
+                "object": "fat stores"
+            },
+            {
+                "subject": "andinorganic phosphate",
+                "verb": "be",
+                "stem": "be",
+                "object": "followingthe administration"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-17": {
+        "SVO_relationships": [
+            {
+                "subject": "family expectations",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "language development"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-18": {
+        "SVO_relationships": [
+            {
+                "subject": "cow lenses",
+                "verb": "be",
+                "stem": "be",
+                "object": "determined.the oxidation-sensitive protein fraction"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-19": {
+        "SVO_relationships": [
+            {
+                "subject": "affect.recordings",
+                "verb": "be",
+                "stem": "be",
+                "object": "multiplepen recorder"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-23": {
+        "SVO_relationships": [
+            {
+                "subject": "patients.the thesis",
+                "verb": "be",
+                "stem": "be",
+                "object": "advanced thatspecial vulnerability"
+            },
+            {
+                "subject": "separation anxiety",
+                "verb": "be",
+                "stem": "be",
+                "object": "a crucialfactor"
+            },
+            {
+                "subject": "separation anxiety andhis",
+                "verb": "attempt",
+                "stem": "attempt",
+                "object": "defenses"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-25": {
+        "SVO_relationships": [
+            {
+                "subject": "adultswith rheumatoid arthritis",
+                "verb": "be",
+                "stem": "be",
+                "object": "examinedfor localization"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-27": {
+        "SVO_relationships": [
+            {
+                "subject": "ug/100 ml",
+                "verb": "conjugate",
+                "stem": "conjugate",
+                "object": "androsterone"
+            },
+            {
+                "subject": "ug/100 ml",
+                "verb": "conjugate",
+                "stem": "conjugate",
+                "object": "dhea"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-28": {
+        "SVO_relationships": [
+            {
+                "subject": "right ventricular",
+                "verb": "rest",
+                "stem": "rest",
+                "object": "pulmonary blood"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-30": {
+        "SVO_relationships": [
+            {
+                "subject": "mothershad",
+                "verb": "contract",
+                "stem": "contract",
+                "object": "variola"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-31": {
+        "SVO_relationships": [
+            {
+                "subject": "subsequent coronary angiography",
+                "verb": "show",
+                "stem": "show",
+                "object": "minimal disease"
+            },
+            {
+                "subject": "patients",
+                "verb": "demonstrate",
+                "stem": "demonstrate",
+                "object": "a reduction"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-34": {
+        "SVO_relationships": [
+            {
+                "subject": "parents",
+                "verb": "counsel",
+                "stem": "counsel",
+                "object": "the risk"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-35": {
+        "SVO_relationships": [
+            {
+                "subject": "no abnormalities",
+                "verb": "be",
+                "stem": "be",
+                "object": "inthe tellurium-injected embryos"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-36": {
+        "SVO_relationships": [
+            {
+                "subject": "a wider area",
+                "verb": "be",
+                "stem": "be",
+                "object": "the differentiation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-38": {
+        "SVO_relationships": [
+            {
+                "subject": "the lenses",
+                "verb": "show",
+                "stem": "show",
+                "object": "linear visco-elasticity"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-40": {
+        "SVO_relationships": [
+            {
+                "subject": "con-sistent",
+                "verb": "alter",
+                "stem": "alter",
+                "object": "function"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-41": {
+        "SVO_relationships": [
+            {
+                "subject": "the adenosinetriphosphate-inorganicphosphate exchange reactionrate",
+                "verb": "be",
+                "stem": "be",
+                "object": "andadenosine triphosphataseactivity"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-43": {
+        "SVO_relationships": [
+            {
+                "subject": "japonicum",
+                "verb": "be",
+                "stem": "be",
+                "object": "recorded.worm recovery rates"
+            },
+            {
+                "subject": "atypical granulomascould",
+                "verb": "be",
+                "stem": "be",
+                "object": "reactions"
+            },
+            {
+                "subject": "formosan worms",
+                "verb": "be",
+                "stem": "be",
+                "object": "discussed.an alternative hypothesis"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-44": {
+        "SVO_relationships": [
+            {
+                "subject": "short stature",
+                "verb": "be",
+                "stem": "be",
+                "object": "aetiology"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-46": {
+        "SVO_relationships": [
+            {
+                "subject": "perfusionsthis paper",
+                "verb": "include",
+                "stem": "include",
+                "object": "open heart surgery"
+            },
+            {
+                "subject": "low molecular weight dex-tran",
+                "verb": "determine",
+                "stem": "determine",
+                "object": "the flow rate"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-48": {
+        "SVO_relationships": [
+            {
+                "subject": "the uefa-levelusually increases",
+                "verb": "regularlyduring",
+                "stem": "regularlyduring",
+                "object": "delivery"
+            },
+            {
+                "subject": "hitherto un-known factors",
+                "verb": "play",
+                "stem": "play",
+                "object": "a role"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-49": {
+        "SVO_relationships": [
+            {
+                "subject": "balance studies",
+                "verb": "indicate",
+                "stem": "indicate",
+                "object": "asharp increase"
+            },
+            {
+                "subject": "due toa",
+                "verb": "reduce",
+                "stem": "reduce",
+                "object": "urinary excretion"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-52": {
+        "SVO_relationships": [
+            {
+                "subject": "giant cells",
+                "verb": "inspire",
+                "stem": "inspire",
+                "object": "the name"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-54": {
+        "SVO_relationships": [
+            {
+                "subject": "itis",
+                "verb": "suppose",
+                "stem": "suppose",
+                "object": "antidiuretic hormone"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-55": {
+        "SVO_relationships": [
+            {
+                "subject": "fetal blood",
+                "verb": "obtain",
+                "stem": "obtain",
+                "object": "simultaneouslyat term"
+            },
+            {
+                "subject": "fetuses",
+                "verb": "utilize",
+                "stem": "utilize",
+                "object": "sensitive radioimmunoassayprocedures"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-59": {
+        "SVO_relationships": [
+            {
+                "subject": "second aim",
+                "verb": "be",
+                "stem": "be",
+                "object": "the management"
+            },
+            {
+                "subject": "-dash others",
+                "verb": "be",
+                "stem": "be",
+                "object": "affected .."
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-61": {
+        "SVO_relationships": [
+            {
+                "subject": "hormone prevents",
+                "verb": "steroid.induced",
+                "stem": "steroid.induced",
+                "object": "growth depression"
+            },
+            {
+                "subject": "mg/kg/day",
+                "verb": "cause",
+                "stem": "cause",
+                "object": "a dose dependentreduction"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-62": {
+        "SVO_relationships": [
+            {
+                "subject": "this case",
+                "verb": "be",
+                "stem": "be",
+                "object": "penicillin"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-63": {
+        "SVO_relationships": [
+            {
+                "subject": "bacteriophage sp10",
+                "verb": "infect",
+                "stem": "infect",
+                "object": "bacillus subtilis"
+            },
+            {
+                "subject": "the infected bacteria",
+                "verb": "give",
+                "stem": "give",
+                "object": "rise"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-64": {
+        "SVO_relationships": [
+            {
+                "subject": "compensatoryrenal hyperplasia",
+                "verb": "be",
+                "stem": "be",
+                "object": "tritiatedthymidine"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-71": {
+        "SVO_relationships": [
+            {
+                "subject": "dermatitis",
+                "verb": "be",
+                "stem": "be",
+                "object": "a chronic condition"
+            },
+            {
+                "subject": "an isolated disease entity",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "the skin"
+            },
+            {
+                "subject": "literature",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "the correlation"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-72": {
+        "SVO_relationships": [
+            {
+                "subject": "latencies",
+                "verb": "be",
+                "stem": "be",
+                "object": ".some amplitude asymmetries"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-75": {
+        "SVO_relationships": [
+            {
+                "subject": "increasedpulmonary surface tension",
+                "verb": "be",
+                "stem": "be",
+                "object": "in8 dogs"
+            },
+            {
+                "subject": "pulmonary surfactant",
+                "verb": "be",
+                "stem": "be",
+                "object": "lipid composition"
+            },
+            {
+                "subject": "totallipid distribution",
+                "verb": "be",
+                "stem": "be",
+                "object": "normal.esterified fatty acids"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-76": {
+        "SVO_relationships": [
+            {
+                "subject": "the othersubjects",
+                "verb": "give",
+                "stem": "give",
+                "object": "fewer-than-chancecorrect responses"
+            },
+            {
+                "subject": "conditioningtrials",
+                "verb": "elicit",
+                "stem": "elicit",
+                "object": "an increasedtendency"
+            },
+            {
+                "subject": "attention",
+                "verb": "be",
+                "stem": "be",
+                "object": "thatautistic children"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-77": {
+        "SVO_relationships": [
+            {
+                "subject": "free triiodothyronine",
+                "verb": "be",
+                "stem": "be",
+                "object": "immunoassay"
+            },
+            {
+                "subject": "The estimated glomerular filtration rate",
+                "verb": "be",
+                "stem": "be",
+                "object": "formula"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-80": {
+        "SVO_relationships": [
+            {
+                "subject": "patients",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "irradiationbecause"
+            },
+            {
+                "subject": "patients",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "irradiationbecause"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-82": {
+        "SVO_relationships": [
+            {
+                "subject": "factors",
+                "verb": "limit",
+                "stem": "limit",
+                "object": "survival"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-85": {
+        "SVO_relationships": [
+            {
+                "subject": "anomalies",
+                "verb": "cause",
+                "stem": "cause",
+                "object": "intraventricular obstruction"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-88": {
+        "SVO_relationships": [
+            {
+                "subject": "notall children",
+                "verb": "be",
+                "stem": "be",
+                "object": "the chance"
+            },
+            {
+                "subject": "a cleft palate",
+                "verb": "be",
+                "stem": "be",
+                "object": "included-out of181 cases"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-90": {
+        "SVO_relationships": [
+            {
+                "subject": "inthese patients",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "an accurate index"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-93": {
+        "SVO_relationships": [
+            {
+                "subject": "patientswith helminth diseases",
+                "verb": "show",
+                "stem": "show",
+                "object": "a non-specificrate"
+            },
+            {
+                "subject": "this high rate",
+                "verb": "be",
+                "stem": "be",
+                "object": "cross-reactions"
+            },
+            {
+                "subject": "the reactions",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "a serologic responseto"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-96": {
+        "SVO_relationships": [
+            {
+                "subject": "Thiazolidin-4-one scaffold",
+                "verb": "have",
+                "stem": "have",
+                "object": "great potential"
+            },
+            {
+                "subject": "The presented review",
+                "verb": "be",
+                "stem": "be",
+                "object": "an attempt"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-97": {
+        "SVO_relationships": [
+            {
+                "subject": "hydroquinone",
+                "verb": "give",
+                "stem": "give",
+                "object": "excellentprotection"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-99": {
+        "SVO_relationships": [
+            {
+                "subject": "total fatty acids",
+                "verb": "be",
+                "stem": "be",
+                "object": "the dietary intake"
+            },
+            {
+                "subject": "thecurves",
+                "verb": "relate",
+                "stem": "relate",
+                "object": "dietary linoleate"
+            },
+            {
+                "subject": "the exponentialequations",
+                "verb": "relate",
+                "stem": "relate",
+                "object": "dienoic"
+            }
+        ],
+        "total_SVOs": 3
+    }
+}

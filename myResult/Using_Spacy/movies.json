@@ -1,0 +1,1913 @@
+{
+    "Mov-1": {
+        "SVO_relationships": [
+            {
+                "subject": "She",
+                "verb": "files",
+                "stem": "file",
+                "object": "folders"
+            },
+            {
+                "subject": "She",
+                "verb": "cropped",
+                "stem": "crop",
+                "object": "hair"
+            },
+            {
+                "subject": "girl",
+                "verb": "share",
+                "stem": "share",
+                "object": "belief"
+            },
+            {
+                "subject": "she",
+                "verb": "shakes",
+                "stem": "shake",
+                "object": "it"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-2": {
+        "SVO_relationships": [
+            {
+                "subject": "Bobby",
+                "verb": "remember",
+                "stem": "remember",
+                "object": "him"
+            },
+            {
+                "subject": "which",
+                "verb": "begins",
+                "stem": "begin",
+                "object": "SEQUENCE"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-3": {
+        "SVO_relationships": [
+            {
+                "subject": "He",
+                "verb": "heads",
+                "stem": "head",
+                "object": "stairs"
+            },
+            {
+                "subject": "you",
+                "verb": "prefer",
+                "stem": "prefer",
+                "object": "one"
+            },
+            {
+                "subject": "he",
+                "verb": "re",
+                "stem": "re",
+                "object": "enters"
+            },
+            {
+                "subject": "you",
+                "verb": "have",
+                "stem": "have",
+                "object": "love"
+            },
+            {
+                "subject": "SPIKE",
+                "verb": "want",
+                "stem": "want",
+                "object": "that"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Mov-4": {
+        "SVO_relationships": [
+            {
+                "subject": "Mater",
+                "verb": "shows",
+                "stem": "show",
+                "object": "dent"
+            },
+            {
+                "subject": "I",
+                "verb": "planned",
+                "stem": "plan",
+                "object": "what"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-5": {
+        "SVO_relationships": [
+            {
+                "subject": "which",
+                "verb": "change",
+                "stem": "change",
+                "object": "life"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-6": {
+        "SVO_relationships": [
+            {
+                "subject": "which",
+                "verb": "sells",
+                "stem": "sell",
+                "object": "books"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-7": {
+        "SVO_relationships": [
+            {
+                "subject": "battle",
+                "verb": "reached",
+                "stem": "reach",
+                "object": "climax"
+            },
+            {
+                "subject": "apes",
+                "verb": "had",
+                "stem": "have",
+                "object": "none"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-8": {
+        "SVO_relationships": [
+            {
+                "subject": "twenty",
+                "verb": "occupied",
+                "stem": "occupy",
+                "object": "group"
+            },
+            {
+                "subject": "he",
+                "verb": "feels",
+                "stem": "feel",
+                "object": "something"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-9": {
+        "SVO_relationships": [
+            {
+                "subject": "he",
+                "verb": "carries",
+                "stem": "carry",
+                "object": "father"
+            },
+            {
+                "subject": "he",
+                "verb": "holds",
+                "stem": "hold",
+                "object": "promise"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-10": {
+        "SVO_relationships": [
+            {
+                "subject": "Moonwatcher",
+                "verb": "reach",
+                "stem": "reach",
+                "object": "stream"
+            },
+            {
+                "subject": "confrontation",
+                "verb": "lasts",
+                "stem": "last",
+                "object": "minutes"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-11": {
+        "SVO_relationships": [
+            {
+                "subject": "everyone",
+                "verb": "drinks",
+                "stem": "drink",
+                "object": "fill"
+            },
+            {
+                "subject": "group",
+                "verb": "staked",
+                "stem": "stake",
+                "object": "claim"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-13": {
+        "SVO_relationships": [
+            {
+                "subject": "lion",
+                "verb": "brings",
+                "stem": "bring",
+                "object": "one"
+            },
+            {
+                "subject": "Moonwatcher",
+                "verb": "had",
+                "stem": "have",
+                "object": "remembrance"
+            },
+            {
+                "subject": "he",
+                "verb": "finds",
+                "stem": "find",
+                "object": "hive"
+            },
+            {
+                "subject": "he",
+                "verb": "collects",
+                "stem": "collect",
+                "object": "stings"
+            },
+            {
+                "subject": "he",
+                "verb": "notices",
+                "stem": "notice",
+                "object": "them"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Mov-14": {
+        "SVO_relationships": [
+            {
+                "subject": "another",
+                "verb": "has",
+                "stem": "have",
+                "object": "shot"
+            },
+            {
+                "subject": "he",
+                "verb": "HAMMERS",
+                "stem": "hammer",
+                "object": "WILL"
+            },
+            {
+                "subject": "who",
+                "verb": "hits",
+                "stem": "hit",
+                "object": "kid"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-16": {
+        "SVO_relationships": [
+            {
+                "subject": "he",
+                "verb": "survey",
+                "stem": "survey",
+                "object": "valley"
+            },
+            {
+                "subject": "he",
+                "verb": "have",
+                "stem": "have",
+                "object": "time"
+            },
+            {
+                "subject": "he",
+                "verb": "remember",
+                "stem": "remember",
+                "object": "it"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-17": {
+        "SVO_relationships": [
+            {
+                "subject": "thought",
+                "verb": "crosses",
+                "stem": "cross",
+                "object": "mind"
+            },
+            {
+                "subject": "logic",
+                "verb": "rules",
+                "stem": "rule",
+                "object": "fancies"
+            },
+            {
+                "subject": "it",
+                "verb": "attract",
+                "stem": "attract",
+                "object": "disaster"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-18": {
+        "SVO_relationships": [
+            {
+                "subject": "tribe",
+                "verb": "lost",
+                "stem": "lose",
+                "object": "three"
+            },
+            {
+                "subject": "they",
+                "verb": "choose",
+                "stem": "choose",
+                "object": "mourning"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-19": {
+        "SVO_relationships": [
+            {
+                "subject": "Others",
+                "verb": "cross",
+                "stem": "cross",
+                "object": "river"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-20": {
+        "SVO_relationships": [
+            {
+                "subject": "Tooth",
+                "verb": "retains",
+                "stem": "retain",
+                "object": "any"
+            },
+            {
+                "subject": "he",
+                "verb": "sees",
+                "stem": "see",
+                "object": "this"
+            },
+            {
+                "subject": "He",
+                "verb": "slows",
+                "stem": "slow",
+                "object": "retreat"
+            },
+            {
+                "subject": "sensations",
+                "verb": "fill",
+                "stem": "fill",
+                "object": "mind"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-21": {
+        "SVO_relationships": [
+            {
+                "subject": "he",
+                "verb": "realizes",
+                "stem": "realize",
+                "object": "it"
+            },
+            {
+                "subject": "innovation",
+                "verb": "lay",
+                "stem": "lay",
+                "object": "thousands"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-22": {
+        "SVO_relationships": [
+            {
+                "subject": "Sailors",
+                "verb": "tell",
+                "stem": "tell",
+                "object": "you"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-23": {
+        "SVO_relationships": [
+            {
+                "subject": "Eric",
+                "verb": "pay",
+                "stem": "pay",
+                "object": "attention"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-24": {
+        "SVO_relationships": [
+            {
+                "subject": "she",
+                "verb": "has",
+                "stem": "have",
+                "object": "voice"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-25": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "think",
+                "stem": "think",
+                "object": "what"
+            },
+            {
+                "subject": "He",
+                "verb": "peppers",
+                "stem": "pepper",
+                "object": "kid"
+            },
+            {
+                "subject": "someone",
+                "verb": "throws",
+                "stem": "throw",
+                "object": "bottle"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-26": {
+        "SVO_relationships": [
+            {
+                "subject": "who",
+                "verb": "loves",
+                "stem": "love",
+                "object": "us"
+            },
+            {
+                "subject": "we",
+                "verb": "presenting",
+                "stem": "present",
+                "object": "her"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-27": {
+        "SVO_relationships": [
+            {
+                "subject": "'s",
+                "verb": "get",
+                "stem": "get",
+                "object": "outta"
+            },
+            {
+                "subject": "You",
+                "verb": "getting",
+                "stem": "get",
+                "object": "fins"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-28": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "got",
+                "stem": "get",
+                "object": "cough"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-29": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "love",
+                "stem": "love",
+                "object": "this"
+            },
+            {
+                "subject": "He",
+                "verb": "sees",
+                "stem": "see",
+                "object": "skull"
+            },
+            {
+                "subject": "you",
+                "verb": "seen",
+                "stem": "see",
+                "object": "anything"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-30": {
+        "SVO_relationships": [
+            {
+                "subject": "you",
+                "verb": "hear",
+                "stem": "hear",
+                "object": "something"
+            },
+            {
+                "subject": "Shark",
+                "verb": "chases",
+                "stem": "chase",
+                "object": "them"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-31": {
+        "SVO_relationships": [
+            {
+                "subject": "Ariel",
+                "verb": "saves",
+                "stem": "save",
+                "object": "him"
+            },
+            {
+                "subject": "you",
+                "verb": "doin'",
+                "stem": "do",
+                "object": "kid"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-32": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "found",
+                "stem": "find",
+                "object": "what"
+            },
+            {
+                "subject": "Humans",
+                "verb": "use",
+                "stem": "use",
+                "object": "babies"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-33": {
+        "SVO_relationships": [
+            {
+                "subject": "You",
+                "verb": "got",
+                "stem": "get",
+                "object": "configuration"
+            },
+            {
+                "subject": "humans",
+                "verb": "go",
+                "stem": "go",
+                "object": "nuts"
+            },
+            {
+                "subject": "they",
+                "verb": "invented",
+                "stem": "invent",
+                "object": "snarfblat"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-34": {
+        "SVO_relationships": [
+            {
+                "subject": "you",
+                "verb": "make",
+                "stem": "make",
+                "object": "planter"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-35": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "give",
+                "stem": "give",
+                "object": "'em"
+            },
+            {
+                "subject": "you",
+                "verb": "keep",
+                "stem": "keep",
+                "object": "watch"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-36": {
+        "SVO_relationships": [
+            {
+                "subject": "Champa",
+                "verb": "POUNDING",
+                "stem": "pound",
+                "object": "him"
+            },
+            {
+                "subject": "he",
+                "verb": "taking",
+                "stem": "take",
+                "object": "them"
+            },
+            {
+                "subject": "He",
+                "verb": "pummels",
+                "stem": "pummel",
+                "object": "Champa"
+            },
+            {
+                "subject": "Chuckie",
+                "verb": "pull",
+                "stem": "pull",
+                "object": "Will"
+            },
+            {
+                "subject": "they",
+                "verb": "grab",
+                "stem": "grab",
+                "object": "him"
+            },
+            {
+                "subject": "Chuckie",
+                "verb": "addresses",
+                "stem": "address",
+                "object": "them"
+            }
+        ],
+        "total_SVOs": 6
+    },
+    "Mov-37": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "forgot",
+                "stem": "forgot",
+                "object": "I"
+            },
+            {
+                "subject": "shark",
+                "verb": "chased",
+                "stem": "chase",
+                "object": "Triton"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-38": {
+        "SVO_relationships": [
+            {
+                "subject": "you",
+                "verb": "take",
+                "stem": "take",
+                "object": "tone"
+            },
+            {
+                "subject": "you",
+                "verb": "obey",
+                "stem": "obey",
+                "object": "rules"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-39": {
+        "SVO_relationships": [
+            {
+                "subject": "they",
+                "verb": "know",
+                "stem": "know",
+                "object": "everything"
+            },
+            {
+                "subject": "You",
+                "verb": "give",
+                "stem": "give",
+                "object": "them"
+            },
+            {
+                "subject": "you",
+                "verb": "think",
+                "stem": "think",
+                "object": "I"
+            },
+            {
+                "subject": "I",
+                "verb": "show",
+                "stem": "show",
+                "object": "her"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-40": {
+        "SVO_relationships": [
+            {
+                "subject": "Ariel",
+                "verb": "needs",
+                "stem": "need",
+                "object": "supervision"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-41": {
+        "SVO_relationships": [
+            {
+                "subject": "range",
+                "verb": "takes",
+                "stem": "take",
+                "object": "form"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-42": {
+        "SVO_relationships": [
+            {
+                "subject": "ROBOT",
+                "verb": "cubing",
+                "stem": "cube",
+                "object": "trash"
+            },
+            {
+                "subject": "hands",
+                "verb": "collect",
+                "stem": "collect",
+                "object": "junk"
+            },
+            {
+                "subject": "plate",
+                "verb": "closes",
+                "stem": "close",
+                "object": "waste"
+            },
+            {
+                "subject": "label",
+                "verb": "spits",
+                "stem": "spit",
+                "object": "cube"
+            },
+            {
+                "subject": "Something",
+                "verb": "catches",
+                "stem": "catch",
+                "object": "eye"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Mov-43": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "checks",
+                "stem": "check",
+                "object": "sky"
+            },
+            {
+                "subject": "we",
+                "verb": "kissed",
+                "stem": "kiss",
+                "object": "girl"
+            },
+            {
+                "subject": "He",
+                "verb": "places",
+                "stem": "place",
+                "object": "hubcap"
+            },
+            {
+                "subject": "E",
+                "verb": "attaches",
+                "stem": "attach",
+                "object": "cooler"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-44": {
+        "SVO_relationships": [
+            {
+                "subject": "Passes",
+                "verb": "haunting",
+                "stem": "haunt",
+                "object": "structures"
+            },
+            {
+                "subject": "corporation",
+                "verb": "ran",
+                "stem": "run",
+                "object": "aspect"
+            },
+            {
+                "subject": "CEO",
+                "verb": "Declares",
+                "stem": "declare",
+                "object": "Emergency"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-45": {
+        "SVO_relationships": [
+            {
+                "subject": "He",
+                "verb": "passes",
+                "stem": "pass",
+                "object": "remains"
+            },
+            {
+                "subject": "E",
+                "verb": "sports",
+                "stem": "sport",
+                "object": "treads"
+            },
+            {
+                "subject": "he",
+                "verb": "passes",
+                "stem": "pass",
+                "object": "them"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-46": {
+        "SVO_relationships": [
+            {
+                "subject": "Grandma",
+                "verb": "join",
+                "stem": "join",
+                "object": "fun"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-47": {
+        "SVO_relationships": [
+            {
+                "subject": "cop",
+                "verb": "SLAMS",
+                "stem": "slams",
+                "object": "face"
+            },
+            {
+                "subject": "cop",
+                "verb": "uses",
+                "stem": "use",
+                "object": "baton"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-48": {
+        "SVO_relationships": [
+            {
+                "subject": "RAMP",
+                "verb": "rests",
+                "stem": "rest",
+                "object": "TRUCK"
+            },
+            {
+                "subject": "E",
+                "verb": "approaches",
+                "stem": "approach",
+                "object": "rear"
+            },
+            {
+                "subject": "robot",
+                "verb": "removes",
+                "stem": "remove",
+                "object": "treads"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-49": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "opens",
+                "stem": "open",
+                "object": "cooler"
+            },
+            {
+                "subject": "He",
+                "verb": "presses",
+                "stem": "press",
+                "object": "BUTTON"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-50": {
+        "SVO_relationships": [
+            {
+                "subject": "Zippo",
+                "verb": "joins",
+                "stem": "join",
+                "object": "COLLECTION"
+            },
+            {
+                "subject": "It",
+                "verb": "Takes",
+                "stem": "take",
+                "object": "Moment"
+            },
+            {
+                "subject": "E",
+                "verb": "tilts",
+                "stem": "tilt",
+                "object": "head"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-51": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "presses",
+                "stem": "press",
+                "object": "button"
+            },
+            {
+                "subject": "It",
+                "verb": "Takes",
+                "stem": "take",
+                "object": "plays"
+            },
+            {
+                "subject": "E",
+                "verb": "raises",
+                "stem": "raise",
+                "object": "door"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-52": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "collapses",
+                "stem": "collapse",
+                "object": "himself"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-53": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "collects",
+                "stem": "collect",
+                "object": "cooler"
+            },
+            {
+                "subject": "E",
+                "verb": "resumes",
+                "stem": "resume",
+                "object": "commute"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-54": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "discovers",
+                "stem": "discover",
+                "object": "BRA"
+            },
+            {
+                "subject": "Tries",
+                "verb": "placing",
+                "stem": "place",
+                "object": "it"
+            },
+            {
+                "subject": "E",
+                "verb": "finds",
+                "stem": "find",
+                "object": "set"
+            },
+            {
+                "subject": "He",
+                "verb": "like",
+                "stem": "like",
+                "object": "it"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-55": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "finds",
+                "stem": "find",
+                "object": "EXTINGUISHER"
+            },
+            {
+                "subject": "hand",
+                "verb": "strikes",
+                "stem": "strike",
+                "object": "something"
+            },
+            {
+                "subject": "BEAM",
+                "verb": "moves",
+                "stem": "move",
+                "object": "center"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-56": {
+        "SVO_relationships": [
+            {
+                "subject": "he",
+                "verb": "extracts",
+                "stem": "extract",
+                "object": "section"
+            },
+            {
+                "subject": "E",
+                "verb": "places",
+                "stem": "place",
+                "object": "plant"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-57": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "drops",
+                "stem": "drop",
+                "object": "Igloo"
+            },
+            {
+                "subject": "dot",
+                "verb": "leads",
+                "stem": "lead",
+                "object": "E"
+            },
+            {
+                "subject": "he",
+                "verb": "notice",
+                "stem": "notice",
+                "object": "POINTS"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-58": {
+        "SVO_relationships": [
+            {
+                "subject": "who",
+                "verb": "takes",
+                "stem": "take",
+                "object": "beating"
+            },
+            {
+                "subject": "we",
+                "verb": "saw",
+                "stem": "see",
+                "object": "him"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-59": {
+        "SVO_relationships": [
+            {
+                "subject": "COLUMN",
+                "verb": "blocks",
+                "stem": "block",
+                "object": "path"
+            },
+            {
+                "subject": "Digs",
+                "verb": "carpets",
+                "stem": "carpet",
+                "object": "ground"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-60": {
+        "SVO_relationships": [
+            {
+                "subject": "He",
+                "verb": "places",
+                "stem": "place",
+                "object": "ROCK"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-61": {
+        "SVO_relationships": [
+            {
+                "subject": "capsule",
+                "verb": "falls",
+                "stem": "fall",
+                "object": "ROBOT"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-64": {
+        "SVO_relationships": [
+            {
+                "subject": "Eve",
+                "verb": "probes",
+                "stem": "probe",
+                "object": "mound"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-65": {
+        "SVO_relationships": [
+            {
+                "subject": "insect",
+                "verb": "crawl",
+                "stem": "crawl",
+                "object": "arm"
+            },
+            {
+                "subject": "Eve",
+                "verb": "picks",
+                "stem": "pick",
+                "object": "location"
+            },
+            {
+                "subject": "E",
+                "verb": "dodging",
+                "stem": "dodge",
+                "object": "blasts"
+            },
+            {
+                "subject": "Eve",
+                "verb": "holds",
+                "stem": "hold",
+                "object": "fire"
+            },
+            {
+                "subject": "She",
+                "verb": "approaches",
+                "stem": "approach",
+                "object": "E"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Mov-66": {
+        "SVO_relationships": [
+            {
+                "subject": "She",
+                "verb": "retracts",
+                "stem": "retract",
+                "object": "arm"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-67": {
+        "SVO_relationships": [
+            {
+                "subject": "They",
+                "verb": "chase",
+                "stem": "chase",
+                "object": "him"
+            },
+            {
+                "subject": "E",
+                "verb": "reaches",
+                "stem": "reach",
+                "object": "doors"
+            },
+            {
+                "subject": "She",
+                "verb": "scans",
+                "stem": "scan",
+                "object": "ground"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-68": {
+        "SVO_relationships": [
+            {
+                "subject": "Splits",
+                "verb": "open",
+                "stem": "open",
+                "object": "eyes"
+            },
+            {
+                "subject": "E",
+                "verb": "kicks",
+                "stem": "kick",
+                "object": "pipes"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-69": {
+        "SVO_relationships": [
+            {
+                "subject": "it",
+                "verb": "push",
+                "stem": "push",
+                "object": "broom"
+            },
+            {
+                "subject": "they",
+                "verb": "had",
+                "stem": "have",
+                "object": "workin"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-70": {
+        "SVO_relationships": [
+            {
+                "subject": "Wrestles",
+                "verb": "free",
+                "stem": "free",
+                "object": "herself"
+            },
+            {
+                "subject": "she",
+                "verb": "BLOWS",
+                "stem": "blow",
+                "object": "SHIP"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-72": {
+        "SVO_relationships": [
+            {
+                "subject": "She",
+                "verb": "scans",
+                "stem": "scan",
+                "object": "LOGO"
+            },
+            {
+                "subject": "She",
+                "verb": "says",
+                "stem": "say",
+                "object": "name"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-73": {
+        "SVO_relationships": [
+            {
+                "subject": "She",
+                "verb": "draws",
+                "stem": "draw",
+                "object": "gun"
+            },
+            {
+                "subject": "storm",
+                "verb": "hits",
+                "stem": "hit",
+                "object": "force"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-74": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "pulls",
+                "stem": "pull",
+                "object": "Eve"
+            },
+            {
+                "subject": "She",
+                "verb": "coughs",
+                "stem": "cough",
+                "object": "dust"
+            },
+            {
+                "subject": "E",
+                "verb": "hits",
+                "stem": "hit",
+                "object": "switch"
+            },
+            {
+                "subject": "Strings",
+                "verb": "fill",
+                "stem": "fill",
+                "object": "space"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-75": {
+        "SVO_relationships": [
+            {
+                "subject": "she",
+                "verb": "holds",
+                "stem": "hold",
+                "object": "it"
+            },
+            {
+                "subject": "she",
+                "verb": "solves",
+                "stem": "solve",
+                "object": "it"
+            },
+            {
+                "subject": "He",
+                "verb": "grabs",
+                "stem": "grab",
+                "object": "it"
+            },
+            {
+                "subject": "you",
+                "verb": "think",
+                "stem": "think",
+                "object": "What"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-76": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "stops",
+                "stem": "stop",
+                "object": "her"
+            },
+            {
+                "subject": "we",
+                "verb": "try",
+                "stem": "try",
+                "object": "move"
+            },
+            {
+                "subject": "Eve",
+                "verb": "helps",
+                "stem": "help",
+                "object": "him"
+            },
+            {
+                "subject": "E",
+                "verb": "placates",
+                "stem": "placate",
+                "object": "her"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-77": {
+        "SVO_relationships": [
+            {
+                "subject": "She",
+                "verb": "eyes",
+                "stem": "eye",
+                "object": "COLLECTION"
+            },
+            {
+                "subject": "Flicks",
+                "verb": "open",
+                "stem": "open",
+                "object": "Zippo"
+            },
+            {
+                "subject": "He",
+                "verb": "had",
+                "stem": "have",
+                "object": "idea"
+            },
+            {
+                "subject": "video",
+                "verb": "plays",
+                "stem": "play",
+                "object": "IOTAM"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-78": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "watches",
+                "stem": "watch",
+                "object": "her"
+            },
+            {
+                "subject": "he",
+                "verb": "remembers",
+                "stem": "remember",
+                "object": "vah"
+            },
+            {
+                "subject": "Eve",
+                "verb": "watches",
+                "stem": "watch",
+                "object": "him"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-79": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "holding",
+                "stem": "hold",
+                "object": "something"
+            },
+            {
+                "subject": "BEAM",
+                "verb": "snatches",
+                "stem": "snatch",
+                "object": "plant"
+            },
+            {
+                "subject": "I",
+                "verb": "do",
+                "stem": "do",
+                "object": "What"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-80": {
+        "SVO_relationships": [
+            {
+                "subject": "camera",
+                "verb": "follows",
+                "stem": "follow",
+                "object": "her"
+            },
+            {
+                "subject": "that",
+                "verb": "obscures",
+                "stem": "obscure",
+                "object": "her"
+            },
+            {
+                "subject": "People",
+                "verb": "entering",
+                "stem": "enter",
+                "object": "apartment"
+            },
+            {
+                "subject": "She",
+                "verb": "got",
+                "stem": "get",
+                "object": "eyes"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Mov-81": {
+        "SVO_relationships": [
+            {
+                "subject": "E",
+                "verb": "holds",
+                "stem": "hold",
+                "object": "UMBRELLA"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-82": {
+        "SVO_relationships": [
+            {
+                "subject": "that",
+                "verb": "protected",
+                "stem": "protect",
+                "object": "Eve"
+            },
+            {
+                "subject": "pries",
+                "verb": "open",
+                "stem": "open",
+                "object": "panel"
+            },
+            {
+                "subject": "her",
+                "verb": "pulsing",
+                "stem": "pulse",
+                "object": "BATTERY"
+            },
+            {
+                "subject": "system",
+                "verb": "blows",
+                "stem": "blow",
+                "object": "him"
+            },
+            {
+                "subject": "E",
+                "verb": "take",
+                "stem": "take",
+                "object": "Eve"
+            },
+            {
+                "subject": "E",
+                "verb": "gives",
+                "stem": "give",
+                "object": "Eve"
+            }
+        ],
+        "total_SVOs": 6
+    },
+    "Mov-83": {
+        "SVO_relationships": [
+            {
+                "subject": "ROOF",
+                "verb": "set",
+                "stem": "set",
+                "object": "TV"
+            },
+            {
+                "subject": "E",
+                "verb": "loads",
+                "stem": "load",
+                "object": "cooler"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-84": {
+        "SVO_relationships": [
+            {
+                "subject": "RUSH",
+                "verb": "blows",
+                "stem": "blow",
+                "object": "flame"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-86": {
+        "SVO_relationships": [
+            {
+                "subject": "engines",
+                "verb": "blast",
+                "stem": "blast",
+                "object": "WALL"
+            },
+            {
+                "subject": "Eve",
+                "verb": "flashes",
+                "stem": "flash",
+                "object": "LIGHT"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-87": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "want",
+                "stem": "want",
+                "object": "What"
+            },
+            {
+                "subject": "mother",
+                "verb": "said",
+                "stem": "say",
+                "object": "what"
+            },
+            {
+                "subject": "hesitancy",
+                "verb": "cost",
+                "stem": "cost",
+                "object": "you"
+            },
+            {
+                "subject": "wizard",
+                "verb": "unleashes",
+                "stem": "unleash",
+                "object": "blow"
+            },
+            {
+                "subject": "JOSH",
+                "verb": "Take",
+                "stem": "take",
+                "object": "garbage"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Mov-88": {
+        "SVO_relationships": [
+            {
+                "subject": "JOSH",
+                "verb": "Got",
+                "stem": "get",
+                "object": "it"
+            },
+            {
+                "subject": "she",
+                "verb": "grading",
+                "stem": "grade",
+                "object": "papers"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-89": {
+        "SVO_relationships": [
+            {
+                "subject": "She",
+                "verb": "got",
+                "stem": "get",
+                "object": "one"
+            },
+            {
+                "subject": "JOSH",
+                "verb": "Need",
+                "stem": "need",
+                "object": "it"
+            },
+            {
+                "subject": "geek",
+                "verb": "get",
+                "stem": "get",
+                "object": "sister"
+            },
+            {
+                "subject": "JOSH",
+                "verb": "Beats",
+                "stem": "beat",
+                "object": "me"
+            },
+            {
+                "subject": "She",
+                "verb": "likes",
+                "stem": "like",
+                "object": "you"
+            },
+            {
+                "subject": "she",
+                "verb": "likes",
+                "stem": "like",
+                "object": "you"
+            }
+        ],
+        "total_SVOs": 6
+    },
+    "Mov-90": {
+        "SVO_relationships": [
+            {
+                "subject": "MARLIN",
+                "verb": "gasps",
+                "stem": "gasp",
+                "object": "Coral"
+            },
+            {
+                "subject": "Daddy",
+                "verb": "got",
+                "stem": "get",
+                "object": "you"
+            },
+            {
+                "subject": "I",
+                "verb": "promise",
+                "stem": "promise",
+                "object": "Nemo"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-91": {
+        "SVO_relationships": [
+            {
+                "subject": "guests",
+                "verb": "enter",
+                "stem": "enter",
+                "object": "apartment"
+            },
+            {
+                "subject": "Lee",
+                "verb": "hugs",
+                "stem": "hug",
+                "object": "one"
+            },
+            {
+                "subject": "I",
+                "verb": "love",
+                "stem": "love",
+                "object": "her"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-93": {
+        "SVO_relationships": [
+            {
+                "subject": "you",
+                "verb": "have",
+                "stem": "have",
+                "object": "any"
+            },
+            {
+                "subject": "you",
+                "verb": "CAN'T",
+                "stem": "can't",
+                "object": "What"
+            },
+            {
+                "subject": "I",
+                "verb": "own",
+                "stem": "own",
+                "object": "movie"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-94": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "see",
+                "stem": "see",
+                "object": "it"
+            },
+            {
+                "subject": "you",
+                "verb": "wanted",
+                "stem": "want",
+                "object": "view"
+            },
+            {
+                "subject": "lot",
+                "verb": "had",
+                "stem": "have",
+                "object": "eyes"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-95": {
+        "SVO_relationships": [
+            {
+                "subject": "You",
+                "verb": "did",
+                "stem": "do",
+                "object": "good"
+            },
+            {
+                "subject": "we",
+                "verb": "need",
+                "stem": "need",
+                "object": "space"
+            },
+            {
+                "subject": "They",
+                "verb": "deserve",
+                "stem": "deserve",
+                "object": "best"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-96": {
+        "SVO_relationships": [
+            {
+                "subject": "they",
+                "verb": "see",
+                "stem": "see",
+                "object": "whale"
+            },
+            {
+                "subject": "MARLIN",
+                "verb": "name",
+                "stem": "name",
+                "object": "all"
+            },
+            {
+                "subject": "we",
+                "verb": "name",
+                "stem": "name",
+                "object": "Jr."
+            },
+            {
+                "subject": "I",
+                "verb": "like",
+                "stem": "like",
+                "object": "Nemo"
+            },
+            {
+                "subject": "we",
+                "verb": "name",
+                "stem": "name",
+                "object": "one"
+            },
+            {
+                "subject": "CORAL",
+                "verb": "think",
+                "stem": "think",
+                "object": "that"
+            }
+        ],
+        "total_SVOs": 6
+    },
+    "Mov-97": {
+        "SVO_relationships": [
+            {
+                "subject": "they",
+                "verb": "like",
+                "stem": "like",
+                "object": "me"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-98": {
+        "SVO_relationships": [
+            {
+                "subject": "MARLIN",
+                "verb": "gasps",
+                "stem": "gasp",
+                "object": "Coral"
+            },
+            {
+                "subject": "Daddy",
+                "verb": "got",
+                "stem": "get",
+                "object": "you"
+            },
+            {
+                "subject": "I",
+                "verb": "promise",
+                "stem": "promise",
+                "object": "Nemo"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Mov-99": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "do",
+                "stem": "do",
+                "object": "it"
+            },
+            {
+                "subject": "You",
+                "verb": "feel",
+                "stem": "feel",
+                "object": "break"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-100": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "have",
+                "stem": "have",
+                "object": "stripes"
+            },
+            {
+                "subject": "MARLIN",
+                "verb": "Answer",
+                "stem": "answer",
+                "object": "question"
+            },
+            {
+                "subject": "I",
+                "verb": "have",
+                "stem": "have",
+                "object": "one"
+            }
+        ],
+        "total_SVOs": 3
+    }
+}

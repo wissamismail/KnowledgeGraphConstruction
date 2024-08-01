@@ -1,0 +1,1687 @@
+{
+    "NPR-1": {
+    "SVO_relationships": [
+      {
+        "subject": "U.S. Government Publishing Office (GPO) Director Hugh Nathanial Halpern",
+        "verb": "announces",
+        "stem": "announce",
+        "object": "the appointment of five new members to the Depository Library Council (DLC)"
+      },
+      {
+        "subject": "DLC members",
+        "verb": "advise",
+        "stem": "advise",
+        "object": "the GPO Director on policy matters relating to the Federal Depository Library Program (FDLP) and access to U.S. Government information"
+      },
+      {
+        "subject": "the new DLC members",
+        "verb": "have",
+        "stem": "have",
+        "object": "experience with and knowledge of current developments in the fields of library science and U.S. Government information"
+      },
+      {
+        "subject": "These new members",
+        "verb": "will help position",
+        "stem": "will help position",
+        "object": "the DLC and the FDLP for future success"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-2": {
+    "SVO_relationships": [
+      {
+        "subject": "Director Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "These council members, along with all librarians and library staff across the country, are vital to GPO’s vision of an America Informed"
+      },
+      {
+        "subject": "Director Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "We look forward to the advice of these new members, each of whom has their own valuable perspective"
+      },
+      {
+        "subject": "These five new DLC members",
+        "verb": "will serve",
+        "stem": "will serve",
+        "object": "from June 1, 2024 – May 31, 2027"
+      },
+      {
+        "subject": "Charlie Amiot",
+        "verb": "is",
+        "stem": "be",
+        "object": "the Government Information & Serials Reference Librarian and FDLP Coordinator at the University of Baltimore School of Law"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-3": {
+    "SVO_relationships": [
+      {
+        "subject": "Charlie",
+        "verb": "is poised",
+        "stem": "be poised",
+        "object": "to leverage her extensive knowledge and zeal for public access to legal information"
+      },
+      {
+        "subject": "Her love",
+        "verb": "makes",
+        "stem": "make",
+        "object": "her a genuine and passionate voice in the library community"
+      },
+      {
+        "subject": "Lisa DeLuca",
+        "verb": "is",
+        "stem": "be",
+        "object": "the Assistant Dean of Public Services and Associate Professor at Seton Hall University Libraries"
+      },
+      {
+        "subject": "DeLuca",
+        "verb": "is",
+        "stem": "be",
+        "object": "an academic library administrator focused on campus collaborations, scholarly communication, and research innovation"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-4": {
+    "SVO_relationships": [
+      {
+        "subject": "DeLuca",
+        "verb": "linked",
+        "stem": "link",
+        "object": "academic audiences with appropriate, open-source research tools"
+      },
+      {
+        "subject": "She",
+        "verb": "has presented",
+        "stem": "have present",
+        "object": "information about using available Government content in more than 370 FOIA Libraries as a springboard for civic engagement"
+      },
+      {
+        "subject": "Elissa A. Lawrence",
+        "verb": "is",
+        "stem": "be",
+        "object": "the Government Documents Librarian and Regional Depository Coordinator at the State Library of Ohio"
+      },
+      {
+        "subject": "She",
+        "verb": "provides",
+        "stem": "provide",
+        "object": "guidance to Ohio’s 49 selective depository libraries"
+      },
+      {
+        "subject": "She",
+        "verb": "manages",
+        "stem": "manage",
+        "object": "the state library’s own Federal depository collection"
+      },
+      {
+        "subject": "She",
+        "verb": "provides",
+        "stem": "provide",
+        "object": "general reference services"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "NPR-5": {
+    "SVO_relationships": [
+      {
+        "subject": "She",
+        "verb": "catalogs",
+        "stem": "catalog",
+        "object": "Ohio’s state Government documents"
+      },
+      {
+        "subject": "She",
+        "verb": "has",
+        "stem": "have",
+        "object": "previous experience as a library assistant for the Ohio Department of Rehabilitation and Correction and as a school library media specialist"
+      },
+      {
+        "subject": "She",
+        "verb": "is",
+        "stem": "be",
+        "object": "currently a member of REGIL (Regional Government Information Librarians)"
+      },
+      {
+        "subject": "Stephani (Nia) Rodgers",
+        "verb": "is",
+        "stem": "be",
+        "object": "the Public Affairs Research Librarian at Virginia Commonwealth University’s Cabell Library"
+      },
+      {
+        "subject": "Nia",
+        "verb": "works",
+        "stem": "work",
+        "object": "with faculty, students, and staff in the Political Science Department, The Robertson School of Media and Culture, and the L. Douglas Wilder School of Government and Public Affairs to support their research"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-6": {
+    "SVO_relationships": [
+      {
+        "subject": "Andrea Stelljes",
+        "verb": "is",
+        "stem": "be",
+        "object": "the Librarian/Depository Library Coordinator in the Business, Science, and Government Documents Department at Hennepin County Library—Minneapolis Central"
+      },
+      {
+        "subject": "Andrea",
+        "verb": "has",
+        "stem": "have",
+        "object": "extensive experience managing and creating access to library collections and providing information services to a diverse population"
+      },
+      {
+        "subject": "she",
+        "verb": "was",
+        "stem": "be",
+        "object": "a member of the Task Force on a Digital Federal Depository Library Program in 2022"
+      },
+      {
+        "subject": "the U.S. Government Publishing Office (GPO) Director Hugh Nathanial Halpern",
+        "verb": "presented",
+        "stem": "present",
+        "object": "GPO’s FY 2025 appropriations request"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-7": {
+    "SVO_relationships": [
+      {
+        "subject": "Director Halpern",
+        "verb": "requested",
+        "stem": "request",
+        "object": "appropriations in the amount of $136,089,000, a 3.1 percent increase over GPO’s FY 2024 appropriation"
+      },
+      {
+        "subject": "Direct appropriations",
+        "verb": "represent",
+        "stem": "represent",
+        "object": "only about 10 percent of GPO’s total projected revenue for FY 2025 of $1.3 billion"
+      },
+      {
+        "subject": "The FY 2025 request",
+        "verb": "will enable",
+        "stem": "will enable",
+        "object": "GPO to meet projected requirements for congressional publishing, fund the operation of the public information programs through which GPO administers the nationwide Federal Depository Library Program, make capital investments and information technology upgrades"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "NPR-8": {
+    "SVO_relationships": [
+      {
+        "subject": "Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "We closed our books for fiscal year 2023 with a net positive income for the third consecutive year"
+      },
+      {
+        "subject": "we",
+        "verb": "had",
+        "stem": "have",
+        "object": "a net positive income of $61.1 million and did so while making the critical investments in human capital and technology needed to thrive in the years ahead"
+      },
+      {
+        "subject": "Director Halpern",
+        "verb": "highlighted",
+        "stem": "highlight",
+        "object": "GPO accomplishments and initiatives"
+      },
+      {
+        "subject": "GPO",
+        "verb": "was named",
+        "stem": "be name",
+        "object": "one of America’s Best Midsize Employers by Forbes for the third straight year"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-9": {
+    "SVO_relationships": [
+      {
+        "subject": "GPO",
+        "verb": "was named",
+        "stem": "be name",
+        "object": "one of America’s Best Employers for Veterans by Forbes for the second consecutive year"
+      },
+      {
+        "subject": "GPO",
+        "verb": "fulfilled",
+        "stem": "fulfill",
+        "object": "statutory requirements of the “Access to Congressionally Mandated Reports Act” to build a centralized repository for reports Federal agencies are required to submit to Congress or committees"
+      },
+      {
+        "subject": "GPO",
+        "verb": "marked",
+        "stem": "mark",
+        "object": "our first full year of production of the state-of-the-art Next Generation Passports, producing an impressive 22 million NextGen passports for the U.S. Department of State"
+      },
+      {
+        "subject": "GPO",
+        "verb": "initiated",
+        "stem": "initiate",
+        "object": "the Project Common Press with our congressional partners, the first attempt to modernize the look and style of key congressional publications since"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-10": {
+    "SVO_relationships": [
+      {
+        "subject": "GPO",
+        "verb": "opened",
+        "stem": "open",
+        "object": "its doors in 1861"
+      },
+      {
+        "subject": "GPO",
+        "verb": "celebrated",
+        "stem": "celebrate",
+        "object": "the 10 billionth retrieval of Government information from our websites"
+      },
+      {
+        "subject": "GPO",
+        "verb": "designed",
+        "stem": "design",
+        "object": "our first-ever employee climate survey to assess Agency morale and identify challenges"
+      },
+      {
+        "subject": "the survey",
+        "verb": "found",
+        "stem": "find",
+        "object": "that 90 percent of respondents are proud of the work they do at GPO"
+      },
+      {
+        "subject": "GPO",
+        "verb": "accepted",
+        "stem": "accept",
+        "object": "recommendations of the Task Force on a Digital Federal Depository Library Program (FDLP) to transition the program to one that is primarily digital"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-11": {
+    "SVO_relationships": [
+      {
+        "subject": "Bureau of Engraving and Printing (BEP)",
+        "verb": "was appointed",
+        "stem": "be appoint",
+        "object": "by U.S. Treasury Secretary Janet L. Yellen"
+      },
+      {
+        "subject": "Collins",
+        "verb": "is",
+        "stem": "be",
+        "object": "the first woman to hold the position in BEP’s 162-year history"
+      },
+      {
+        "subject": "Collins",
+        "verb": "leaves",
+        "stem": "leave",
+        "object": "GPO after nearly four years serving as the Agency’s second-in-command"
+      },
+      {
+        "subject": "She",
+        "verb": "led",
+        "stem": "lead",
+        "object": "GPO’s Plant Operations, Security and Intelligent Documents, Official Journals of Government and Customer Services business units"
+      },
+      {
+        "subject": "Collins",
+        "verb": "oversaw",
+        "stem": "oversee",
+        "object": "the production of the U.S. passport, materials for Congress, the White House, and Federal Agencies"
+      },
+      {
+        "subject": "GPO Chief of Staff Steve LeBlanc",
+        "verb": "will serve",
+        "stem": "will serve",
+        "object": "as GPO Acting Deputy Director"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "NPR-12": {
+    "SVO_relationships": [
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "I am sad to lose my partner in the GPO leadership team, I am thrilled for Patty and congratulate her on making history"
+      },
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "I know from experience Patty’s leadership will be positive for BEP and the Nation"
+      },
+      {
+        "subject": "the entire GPO team",
+        "verb": "thank",
+        "stem": "thank",
+        "object": "Patty for gracing GPO with her leadership, tenacity, and sense of humor"
+      },
+      {
+        "subject": "all of her teammates",
+        "verb": "wish",
+        "stem": "wish",
+        "object": "her well in her new role"
+      },
+      {
+        "subject": "Collins",
+        "verb": "was",
+        "stem": "be",
+        "object": "a Principal consultant prior to joining GPO in May 2020"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-13": {
+    "SVO_relationships": [
+      {
+        "subject": "she",
+        "verb": "focused",
+        "stem": "focus",
+        "object": "on leadership development and guiding clients through complex challenges in the public and private business sectors"
+      },
+      {
+        "subject": "She",
+        "verb": "retired",
+        "stem": "retire",
+        "object": "as a Colonel following a 24-year-career in the U.S. Army"
+      },
+      {
+        "subject": "She",
+        "verb": "spent",
+        "stem": "spend",
+        "object": "seven of those years within the Joint Special Operations Command"
+      },
+      {
+        "subject": "Collins",
+        "verb": "was deployed",
+        "stem": "be deploy",
+        "object": "to Iraq, Afghanistan, and the Balkans"
+      },
+      {
+        "subject": "Collins",
+        "verb": "was",
+        "stem": "be",
+        "object": "a pioneer in her field"
+      },
+      {
+        "subject": "Collins",
+        "verb": "was",
+        "stem": "be",
+        "object": "one of a small number of women to serve in Special Operations"
+      },
+      {
+        "subject": "Collins",
+        "verb": "was",
+        "stem": "be",
+        "object": "the first woman in the Department of Defense to"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "NPR-14": {
+    "SVO_relationships": [
+      {
+        "subject": "she",
+        "verb": "completed",
+        "stem": "complete",
+        "object": "the Military Free Fall Jumpmaster Course"
+      },
+      {
+        "subject": "she",
+        "verb": "was hit",
+        "stem": "be hit",
+        "object": "by a car while riding her bike to work"
+      },
+      {
+        "subject": "the injury",
+        "verb": "was",
+        "stem": "be",
+        "object": "so severe"
+      },
+      {
+        "subject": "Collins",
+        "verb": "elected",
+        "stem": "elect",
+        "object": "to have her leg amputated below the knee"
+      },
+      {
+        "subject": "she",
+        "verb": "continued",
+        "stem": "continue",
+        "object": "her military service for nine more years"
+      },
+      {
+        "subject": "she",
+        "verb": "retired",
+        "stem": "retire",
+        "object": "from active duty in 2015"
+      },
+      {
+        "subject": "she",
+        "verb": "represented",
+        "stem": "represent",
+        "object": "the United States at the 2016 Summer Paralympics in Rio de Janeiro, Brazil in the sport of"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "NPR-15": {
+    "SVO_relationships": [
+      {
+        "subject": "Elizabeth (Beth) Shearer",
+        "verb": "was named",
+        "stem": "be name",
+        "object": "the Agency’s Chief Human Capital Officer"
+      },
+      {
+        "subject": "Shearer",
+        "verb": "will plan",
+        "stem": "will plan",
+        "object": "and implement the human resources systems"
+      },
+      {
+        "subject": "Shearer",
+        "verb": "will oversee",
+        "stem": "will oversee",
+        "object": "the policies and procedures that guide GPO’s innovative human resources operation"
+      },
+      {
+        "subject": "the policies",
+        "verb": "were designed",
+        "stem": "be design",
+        "object": "specifically to strike a balance of honoring the culture"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-16": {
+    "SVO_relationships": [
+      {
+        "subject": "the policies",
+        "verb": "were designed",
+        "stem": "be design",
+        "object": "specifically to strike a balance of honoring the culture and values of GPO’s rich history while positioning the Agency to meet the evolving human capital demands of the future"
+      },
+      {
+        "subject": "Shearer",
+        "verb": "has served",
+        "stem": "have serve",
+        "object": "as Acting Chief Human Capital Officer since November 2023"
+      },
+      {
+        "subject": "Beth",
+        "verb": "started",
+        "stem": "start",
+        "object": "in GPO’s human capital office right out of college"
+      },
+      {
+        "subject": "Beth",
+        "verb": "gained",
+        "stem": "gain",
+        "object": "experience in various human capital roles over the last two decades"
+      },
+      {
+        "subject": "Beth",
+        "verb": "worked",
+        "stem": "work",
+        "object": "her way to her role today as Chief Human Capital Officer"
+      },
+      {
+        "subject": "she",
+        "verb": "is",
+        "stem": "be",
+        "object": "a GPO success story"
+      },
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "Federal human capital policies are hard, and I know that"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "NPR-17": {
+    "SVO_relationships": [
+      {
+        "subject": "Beth",
+        "verb": "will lead",
+        "stem": "will lead",
+        "object": "her team to create a great personnel experience both for our GPO teammates and those looking to join our award-winning Agency"
+      },
+      {
+        "subject": "I",
+        "verb": "congratulate",
+        "stem": "congratulate",
+        "object": "Beth on this well-deserved promotion"
+      },
+      {
+        "subject": "Shearer",
+        "verb": "began",
+        "stem": "begin",
+        "object": "her career at GPO as part of GPO’s Outstanding Scholars Program"
+      },
+      {
+        "subject": "She",
+        "verb": "gained",
+        "stem": "gain",
+        "object": "experience in Human Capital roles, including hiring, employee relations, benefits, policy, and more"
+      },
+      {
+        "subject": "Beth",
+        "verb": "held",
+        "stem": "hold",
+        "object": "human capital positions at the Office of Personnel Management (OPM)"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-18": {
+    "SVO_relationships": [
+      {
+        "subject": "Shearer",
+        "verb": "returned",
+        "stem": "return",
+        "object": "to GPO in 2022 to serve as Human Capital Manager (Position Management, Compensation & Benefits Division) and Acting Employee Relations Supervisor"
+      },
+      {
+        "subject": "Shearer",
+        "verb": "graduated",
+        "stem": "graduate",
+        "object": "from the University of Maryland, Baltimore County with a bachelor’s degree in psychology and a certificate in personnel/industrial relations"
+      },
+      {
+        "subject": "Jean-Claude Goubet",
+        "verb": "says",
+        "stem": "say",
+        "object": "he could feel his cheeks turn red as a cheering crowd of GPO teammates eagerly awaited the Agency’s 125th red brick building anniversary cake"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "built",
+        "stem": "build",
+        "object": "the cake"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-19": {
+    "SVO_relationships": [
+      {
+        "subject": "Jean-Claude Goubet",
+        "verb": "built",
+        "stem": "build",
+        "object": "the cake"
+      },
+      {
+        "subject": "he",
+        "verb": "remembers",
+        "stem": "remember",
+        "object": "carefully maneuvering the cart that held the cake around cables of video cameras set up to capture the event"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "said",
+        "stem": "say",
+        "object": "I was very timid in front of the large crowd at GPO, but it’s a fun memory I keep vividly in my mind"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "said",
+        "stem": "say",
+        "object": "It was a nice ambiance"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "had transported",
+        "stem": "have transport",
+        "object": "the cake from Roger’s French Bakery in Richmond, Virginia to the event"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-20": {
+    "SVO_relationships": [
+      {
+        "subject": "Goubet",
+        "verb": "went",
+        "stem": "go",
+        "object": "into the kitchen of GPO to repair the cake on the day of the anniversary"
+      },
+      {
+        "subject": "The people in the kitchen",
+        "verb": "were",
+        "stem": "be",
+        "object": "very friendly"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "says",
+        "stem": "say",
+        "object": "every part of the cake, made of spun sugar, was edible"
+      },
+      {
+        "subject": "He",
+        "verb": "used",
+        "stem": "use",
+        "object": "a postcard with an image of the GPO building on it as an example to help him design the cake"
+      },
+      {
+        "subject": "He",
+        "verb": "spent",
+        "stem": "spend",
+        "object": "five days creating just the sugar"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-21": {
+    "SVO_relationships": [
+      {
+        "subject": "Goubet",
+        "verb": "says",
+        "stem": "say",
+        "object": "You need to be patient to make this kind of cake, and it takes a lot of special tools"
+      },
+      {
+        "subject": "It",
+        "verb": "took",
+        "stem": "take",
+        "object": "longer to bake it in the oven than it did to assemble it"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "spent",
+        "stem": "spend",
+        "object": "one month working at Roger’s French Bakery while on vacation in America"
+      },
+      {
+        "subject": "His great uncle Roger Grison",
+        "verb": "owned",
+        "stem": "own",
+        "object": "the bakery and offered him a job"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "got his start",
+        "stem": "get his start",
+        "object": "as a baker at just 11 years old in France"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-22": {
+    "SVO_relationships": [
+      {
+        "subject": "Goubet",
+        "verb": "said",
+        "stem": "say",
+        "object": "I walked into a bakery and that was my very first job – pastry chef"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "spent",
+        "stem": "spend",
+        "object": "seven years of his life working as a pastry chef, first at bakeries in France, and then at Bury St. Edmunds"
+      },
+      {
+        "subject": "The home",
+        "verb": "is known",
+        "stem": "be know",
+        "object": "as Suffolk’s Foodie Capital and offers award-winning fine dining"
+      },
+      {
+        "subject": "He",
+        "verb": "worked",
+        "stem": "work",
+        "object": "at a restaurant called Priory in England"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "says",
+        "stem": "say",
+        "object": "he still bakes cakes"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-23": {
+    "SVO_relationships": [
+      {
+        "subject": "Goubet",
+        "verb": "chuckles",
+        "stem": "chuckle",
+        "object": "'I don’t make cakes that look like big buildings anymore'"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "says",
+        "stem": "say",
+        "object": "'But I can still make pretty good cakes'"
+      },
+      {
+        "subject": "Goubet",
+        "verb": "lives",
+        "stem": "live",
+        "object": "with his family in Cherbourg, a town in northwest France"
+      },
+      {
+        "subject": "Roger Grison",
+        "verb": "lived",
+        "stem": "live",
+        "object": "in the United States until his passing"
+      },
+      {
+        "subject": "His body",
+        "verb": "rests",
+        "stem": "rest",
+        "object": "in Virginia"
+      },
+      {
+        "subject": "The U.S. Government Publishing Office (GPO)",
+        "verb": "has been named",
+        "stem": "have be name",
+        "object": "one of the best employers in America by Forbes for the third year in a row"
+      },
+      {
+        "subject": "GPO",
+        "verb": "ranked",
+        "stem": "rank",
+        "object": "in the top 15 amongst mid-sized agencies in Government Services"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "NPR-24": {
+    "SVO_relationships": [
+      {
+        "subject": "the U.S. Government Publishing Office’s (GPO) GovInfo",
+        "verb": "has earned",
+        "stem": "have earn",
+        "object": "a CoreTrustSeal certification for the first time"
+      },
+      {
+        "subject": "This certification",
+        "verb": "provides",
+        "stem": "provide",
+        "object": "data producers assurance that their materials are stored in a reliable manner and to the public that digital materials are authentic and trustworthy"
+      },
+      {
+        "subject": "GPO team members",
+        "verb": "will serve",
+        "stem": "will serve",
+        "object": "as reviewers for the CoreTrustSeal process"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "NPR-25": {
+    "SVO_relationships": [
+      {
+        "subject": "GPO",
+        "verb": "continues to maintain",
+        "stem": "continue maintain",
+        "object": "yearly re-certification of ISO 16363:2012 since achieving this certification of digital trustworthiness in 2018"
+      },
+      {
+        "subject": "The Agency",
+        "verb": "continues to be",
+        "stem": "continue be",
+        "object": "the only organization in the world to hold the highest global standard of excellence for digital repositories"
+      },
+      {
+        "subject": "GPO",
+        "verb": "was evaluated",
+        "stem": "be evaluate",
+        "object": "across 109 criteria in the areas of Organizational Governance, Digital Object Management, and Infrastructure and Security Management"
+      },
+      {
+        "subject": "I",
+        "verb": "am proud of",
+        "stem": "be proud",
+        "object": "our team for earning both prestigious certifications"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-26": {
+    "SVO_relationships": [
+      {
+        "subject": "Government information",
+        "verb": "will be preserved",
+        "stem": "will be preserve",
+        "object": "accessible, and usable well into the future"
+      },
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "These certifications serve as a key component of the digital Federal Depository Library Program"
+      },
+      {
+        "subject": "these certifications",
+        "verb": "represent",
+        "stem": "represent",
+        "object": "GPO’s dedication to providing trusted products to the American people"
+      },
+      {
+        "subject": "these certifications",
+        "verb": "deliver",
+        "stem": "deliver",
+        "object": "on its vision of an America Informed"
+      },
+      {
+        "subject": "GovInfo",
+        "verb": "offers",
+        "stem": "offer",
+        "object": "approximately 2.5 million publications, all at no cost"
+      },
+      {
+        "subject": "GPO",
+        "verb": "adds",
+        "stem": "add",
+        "object": "an average of 3,000 documents to GovInfo per week on behalf of its customers"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "NPR-27": {
+    "SVO_relationships": [
+      {
+        "subject": "Halpern",
+        "verb": "testified",
+        "stem": "testify",
+        "object": "before the United States Senate Committee on Rules and Administration about the use of artificial intelligence (AI) at the Agency"
+      },
+      {
+        "subject": "The Director",
+        "verb": "outlined",
+        "stem": "outline",
+        "object": "GPO’s vision for the role of AI at the Agency"
+      },
+      {
+        "subject": "The Director",
+        "verb": "described",
+        "stem": "describe",
+        "object": "several ways the Agency already uses AI to improve productivity"
+      },
+      {
+        "subject": "The Director",
+        "verb": "hopes",
+        "stem": "hope",
+        "object": "to use AI to perform repetitive basic tasks, freeing up teammates to focus on more complex issues and making roles more enticing to young talent"
+      },
+      {
+        "subject": "GPO",
+        "verb": "is looking",
+        "stem": "be look",
+        "object": "to use AI as an opportunity to augment"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-28": {
+    "SVO_relationships": [
+      {
+        "subject": "Director Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "our team’s capabilities, improve their performance, and allow them to focus on more difficult problems"
+      },
+      {
+        "subject": "we",
+        "verb": "can relieve",
+        "stem": "can relieve",
+        "object": "pressure on our existing team to perform repetitive basic tasks"
+      },
+      {
+        "subject": "we",
+        "verb": "can make",
+        "stem": "can make",
+        "object": "some of these roles more attractive to the next generation of teammates"
+      },
+      {
+        "subject": "Director Halpern",
+        "verb": "noted",
+        "stem": "note",
+        "object": "the following potential applications of AI and large language models at GPO"
+      },
+      {
+        "subject": "Acquisitions",
+        "verb": "increase",
+        "stem": "increase",
+        "object": "the accuracy of GPO procurements and free up contract specialists to focus on more complex tasks"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-29": {
+    "SVO_relationships": [
+      {
+        "subject": "Employee Communications",
+        "verb": "assist",
+        "stem": "assist",
+        "object": "in writing headlines in routine communications with teammates"
+      },
+      {
+        "subject": "Cybersecurity",
+        "verb": "recognize",
+        "stem": "recognize",
+        "object": "cyberattacks in real time"
+      },
+      {
+        "subject": "Process Automation",
+        "verb": "allow",
+        "stem": "allow",
+        "object": "GPO to get important information to decision makers in time for it to be actionable"
+      },
+      {
+        "subject": "Quality Assurance Image Analysis",
+        "verb": "reject",
+        "stem": "reject",
+        "object": "pages for passports that do not meet GPO’s quality specifications"
+      },
+      {
+        "subject": "digital inkjet presses",
+        "verb": "include",
+        "stem": "include",
+        "object": "error checking functions"
+      },
+      {
+        "subject": "Proofreaders",
+        "verb": "correct",
+        "stem": "correct",
+        "object": "common copyediting issues by understanding errors in context"
+      },
+      {
+        "subject": "Proofreaders",
+        "verb": "learn",
+        "stem": "learn",
+        "object": "as proofreaders correct copy, increasing proofreader productivity"
+      },
+      {
+        "subject": "Cataloging",
+        "verb": "assist",
+        "stem": "assist",
+        "object": "librarians in cataloging Government documents"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "NPR-30": {
+    "SVO_relationships": [
+      {
+        "subject": "Screening for PII",
+        "verb": "scan",
+        "stem": "scan",
+        "object": "documents for PII such as social security numbers"
+      },
+      {
+        "subject": "Providing Alternative Views of Government Information",
+        "verb": "display",
+        "stem": "display",
+        "object": "information in more accessible formats"
+      },
+      {
+        "subject": "GPO",
+        "verb": "spoke",
+        "stem": "speak",
+        "object": "with Beth Simon, Social Science Research Analyst at the Centers for Medicare & Medicaid Services (CMS) and granddaughter of George R. Simon"
+      },
+      {
+        "subject": "George R. Simon",
+        "verb": "spent",
+        "stem": "spend",
+        "object": "four decades working at GPO"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-31": {
+    "SVO_relationships": [
+      {
+        "subject": "she",
+        "verb": "calls",
+        "stem": "call",
+        "object": "“Pop George”"
+      },
+      {
+        "subject": "Pop George",
+        "verb": "began",
+        "stem": "begin",
+        "object": "his career at GPO nearly 100 years ago as an Apprentice on March 1, 1926 when he was just 18 years old"
+      },
+      {
+        "subject": "He",
+        "verb": "graduated",
+        "stem": "graduate",
+        "object": "from the program in 1930"
+      },
+      {
+        "subject": "He",
+        "verb": "worked",
+        "stem": "work",
+        "object": "as a Typesetter and later became a Proofreader"
+      },
+      {
+        "subject": "He",
+        "verb": "is believed",
+        "stem": "be believe",
+        "object": "to have had a hand in the famous Smokey the Bear campaign for the U.S. Forest Service"
+      },
+      {
+        "subject": "I",
+        "verb": "have",
+        "stem": "have",
+        "object": "my Smokey Bear stuffed animal that my grandfather gave to me because we believe he worked on the campaign while at GPO"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "NPR-32": {
+    "SVO_relationships": [
+      {
+        "subject": "Simon",
+        "verb": "said",
+        "stem": "say",
+        "object": "“Smokey is still my beloved treasure. He gave one to my sister too. This bear is over 50 years old.”"
+      },
+      {
+        "subject": "Simon",
+        "verb": "helped",
+        "stem": "help",
+        "object": "a friend clean out her childhood home"
+      },
+      {
+        "subject": "the pair",
+        "verb": "found",
+        "stem": "find",
+        "object": "an old mailing envelope from GPO from the 1960s"
+      },
+      {
+        "subject": "Inside the envelope",
+        "verb": "were",
+        "stem": "be",
+        "object": "nature-themed posters that had been mailed to her friend’s late father"
+      },
+      {
+        "subject": "Simon",
+        "verb": "said",
+        "stem": "say",
+        "object": "“This prompted me to tell my friend about Pop George and how he worked at GPO around the same time that envelope was mailed.”"
+      },
+      {
+        "subject": "Simon",
+        "verb": "said",
+        "stem": "say",
+        "object": "“I immediately came home"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "NPR-33": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "went",
+        "stem": "go",
+        "object": "through my closet to find Pop George’s things and reached out to my sister who had even more"
+      },
+      {
+        "subject": "Simon and her sister",
+        "verb": "found",
+        "stem": "find",
+        "object": "memorabilia from their grandfather’s time at GPO, including an old badge, a GPO cafeteria menu from 1932, his style manual, a black and white photograph with coworkers, and his Apprenticeship graduation program from 1930"
+      },
+      {
+        "subject": "Simon",
+        "verb": "said",
+        "stem": "say",
+        "object": "“These are important materials for my family, but they feel bigger than that”"
+      },
+      {
+        "subject": "Simon",
+        "verb": "said",
+        "stem": "say",
+        "object": "“My Pop George and Grandma Lil were kind, generous, and tremendously loving people who raised two"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-34": {
+    "SVO_relationships": [
+      {
+        "subject": "Simon",
+        "verb": "said",
+        "stem": "say",
+        "object": "“These are important materials for my family, but they feel bigger than that”"
+      },
+      {
+        "subject": "Simon",
+        "verb": "said",
+        "stem": "say",
+        "object": "“My Pop George and Grandma Lil were kind, generous, and tremendously loving people who raised two very good sons”"
+      },
+      {
+        "subject": "Simon",
+        "verb": "said",
+        "stem": "say",
+        "object": "“I wish I had more stories about Pop George’s time at the GPO, but I’m really happy that Pop George’s name is going to be spoken longer.”"
+      },
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "“For three years in a row now, our teammates have rated GPO highly on this survey and landed GPO on America’s best employer list”"
+      },
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "“Our team is full of top-notch craftspeople and professionals who embrace and carry out GPO’s values”"
+      },
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "“GPO is a special place to work, and it’s all thanks to our incredible team.”"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "NPR-35": {
+    "SVO_relationships": [
+      {
+        "subject": "We",
+        "verb": "look forward to",
+        "stem": "look forward to",
+        "object": "continuing to take pride in our work and work together toward our common vision of an America Informed"
+      },
+      {
+        "subject": "GPO",
+        "verb": "is working",
+        "stem": "be work",
+        "object": "to build its team of the future with its Apprenticeship and Recent Graduate programs"
+      },
+      {
+        "subject": "GPO",
+        "verb": "onboarded",
+        "stem": "onboard",
+        "object": "190 teammates in fiscal year 2023"
+      },
+      {
+        "subject": "The Agency",
+        "verb": "produced",
+        "stem": "produce",
+        "object": "a record number of passports in one year—more than 22 million"
+      },
+      {
+        "subject": "The Agency",
+        "verb": "delivered",
+        "stem": "deliver",
+        "object": "products and services for all three branches of the U.S. Government"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-36": {
+    "SVO_relationships": [
+      {
+        "subject": "The U.S. Government Publishing Office",
+        "verb": "was selected",
+        "stem": "be select",
+        "object": "as one of America’s Best Employers 2024"
+      },
+      {
+        "subject": "The selection",
+        "verb": "was based",
+        "stem": "be base",
+        "object": "on results found through an independent survey of more than 170,000 U.S.-based workers at American companies"
+      },
+      {
+        "subject": "The evaluation",
+        "verb": "was based",
+        "stem": "be base",
+        "object": "on respondents who were asked to rate their employer and if they would recommend their employer to others"
+      },
+      {
+        "subject": "Organizations",
+        "verb": "were deemed",
+        "stem": "be deem",
+        "object": "midsize employers"
+      },
+      {
+        "subject": "Responses",
+        "verb": "were given",
+        "stem": "be give",
+        "object": "by current employees, employees who had worked for the company within the past two years, and individuals familiar with the company through friends, family, or peers in their industry"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-37": {
+    "SVO_relationships": [
+      {
+        "subject": "the U.S. Government Publishing Office’s (GPO) GovInfo",
+        "verb": "hit",
+        "stem": "hit",
+        "object": "a record number of retrievals in 2023 — 1.15 billion"
+      },
+      {
+        "subject": "This",
+        "verb": "is",
+        "stem": "be",
+        "object": "a 32% increase from the number of retrievals in 2022 and a 215% increase from the number of retrievals in 2018"
+      },
+      {
+        "subject": "The most retrieved collection of 2023",
+        "verb": "was",
+        "stem": "be",
+        "object": "the Federal Register, with more than 80 million retrievals"
+      },
+      {
+        "subject": "GPO",
+        "verb": "has garnered",
+        "stem": "have garner",
+        "object": "10.8 billion retrievals of Government information since first making Government information available online in June 1994"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-38": {
+    "SVO_relationships": [
+      {
+        "subject": "this record number of retrievals",
+        "verb": "demonstrates",
+        "stem": "demonstrate",
+        "object": "the public’s increasing need for GovInfo and GPO’s commitment to delivering on our vision of an America Informed"
+      },
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "“GPO is expanding access to digital Government information, adding new collections, and filling the gaps in existing collections. We are glad to see the American people making use of all GovInfo has to offer.”"
+      },
+      {
+        "subject": "GPO’s digital transformation",
+        "verb": "began",
+        "stem": "begin",
+        "object": "in June 1994, when GPO first began making Government information available online with GPOAccess"
+      },
+      {
+        "subject": "GPO",
+        "verb": "unveiled",
+        "stem": "unveil",
+        "object": "the next generation of digital access in January 2009"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-39": {
+    "SVO_relationships": [
+      {
+        "subject": "The U.S. Government Publishing Office (GPO)",
+        "verb": "is digitizing",
+        "stem": "be digitize",
+        "object": "historic volumes of the Congressional Directory from the 19th and 20th centuries"
+      },
+      {
+        "subject": "The first release",
+        "verb": "includes",
+        "stem": "include",
+        "object": "Directories from 1869–1888, as well as 1993"
+      },
+      {
+        "subject": "Additional digitized historic Congressional Directories",
+        "verb": "will be released",
+        "stem": "will be release",
+        "object": "on GovInfo as they are completed"
+      },
+      {
+        "subject": "the Congressional Directory",
+        "verb": "has been",
+        "stem": "have be",
+        "object": "one of the most comprehensive and detailed resources for identifying the components of the three branches of the Federal Government"
+      },
+      {
+        "subject": "It",
+        "verb": "includes",
+        "stem": "include",
+        "object": "short biographies of each member of the Senate and House, as well as terms of service"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "NPR-40": {
+    "SVO_relationships": [
+      {
+        "subject": "the Congressional Directory",
+        "verb": "provides",
+        "stem": "provide",
+        "object": "descriptions of various Executive branch departments and Judiciary information"
+      },
+      {
+        "subject": "The public",
+        "verb": "can access",
+        "stem": "can access",
+        "object": "these historic Congressional Directories on GPO’s GovInfo, the one-stop site to authentic information published by the Federal Government, free of charge"
+      },
+      {
+        "subject": "The digitization of these historic Congressional Directories",
+        "verb": "represents",
+        "stem": "represent",
+        "object": "another step toward GPO realizing its vision of an America Informed"
+      },
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "“This information on past members of Congress is vital to our democracy, and I congratulate our team”"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-41": {
+    "SVO_relationships": [
+      {
+        "subject": "GPO Director Hugh Nathanial Halpern",
+        "verb": "said",
+        "stem": "say",
+        "object": "“This information on past members of Congress is vital to our democracy, and I congratulate our team for their hard work ensuring these historic directories are made available digitally.”"
+      },
+      {
+        "subject": "A few notable people featured in these volumes",
+        "verb": "are",
+        "stem": "be",
+        "object": "Joseph Hayne Rainey, the first black person to serve in the United States House of Representatives"
+      },
+      {
+        "subject": "Robert Smalls",
+        "verb": "was",
+        "stem": "be",
+        "object": "a politician who freed himself, his crew, and their families during the Civil War by sailing a ship from Confederate-controlled waters to Union-controlled waters"
+      },
+      {
+        "subject": "Romualdo Pacheco",
+        "verb": "was",
+        "stem": "be",
+        "object": "the first Hispanic person to serve in the United States House of Representatives"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "NPR-42": {
+    "SVO_relationships": [
+      {
+        "subject": "Libraries at the University of Montana, the University of Memphis, and the University of Tennessee, Knoxville",
+        "verb": "have signed",
+        "stem": "have sign",
+        "object": "Memorandum of Agreements with the U.S. Government Publishing Office (GPO) to become Preservation Stewards"
+      },
+      {
+        "subject": "three other libraries",
+        "verb": "are adding",
+        "stem": "be add",
+        "object": "materials to their current Preservation Steward collections"
+      },
+      {
+        "subject": "The Congressional Directory",
+        "verb": "serves",
+        "stem": "serve",
+        "object": "as the official handbook for Congress and is also widely used by Federal Agency officials and the general public"
+      }
+    ],
+    "total_SVOs": 3
+  },
+   "NPR-43": {
+  "SVO_relationships": [
+    {
+      "subject": "GPO",
+      "verb": "has established",
+      "stem": "have establish",
+      "object": "Preservation Stewards to support continued public access to U.S. Government documents in print format"
+    },
+    {
+      "subject": "Preservation Stewards",
+      "verb": "contribute",
+      "stem": "contribute",
+      "object": "significantly to the effort to preserve printed documents"
+    },
+    {
+      "subject": "GPO Director Hugh Nathanial Halpern",
+      "verb": "said",
+      "stem": "say",
+      "object": "“GPO is excited to continue its partnership with these six libraries who have committed to preserving Government information and expanding their collections”"
+    },
+    {
+      "subject": "these libraries",
+      "verb": "are committing",
+      "stem": "be commit",
+      "object": "their support to preserving Government information for their communities and the Nation"
+    }
+  ],
+  "total_SVOs": 4
+},
+"NPR-44": {
+  "SVO_relationships": [
+    {
+      "subject": "Mansfield Library, University of Montana (Missoula, MT)",
+      "verb": "is permanently preserving",
+      "stem": "be permanently preserve",
+      "object": "Congressional hearings and prints going forward"
+    },
+    {
+      "subject": "Ned R. McWherter Library, University of Memphis (Memphis, TN)",
+      "verb": "is permanently preserving",
+      "stem": "be permanently preserve",
+      "object": "a historic and current collection of Peace Corps publications"
+    },
+    {
+      "subject": "University of Tennessee, Knoxville Libraries (Knoxville, TN)",
+      "verb": "is permanently preserving",
+      "stem": "be permanently preserve",
+      "object": "historic Emergency Conservation Work Agency collections, historic Civilian Conservation Corps collections, and historic Federal Security Agency collections"
+    },
+    {
+      "subject": "State Library of Ohio (Columbus, OH)",
+      "verb": "is adding",
+      "stem": "be add",
+      "object": "to its current collection: The House and Senate Journal (current)"
+    }
+  ],
+  "total_SVOs": 4
+},
+"NPR-45": {
+  "SVO_relationships": [
+    {
+      "subject": "William A. Wise Law Library, University of Colorado (Boulder, CO)",
+      "verb": "is adding",
+      "stem": "be add",
+      "object": "to its current collection: The Code of Federal Regulations (CFR), Title 3, The President (historic and current)"
+    },
+    {
+      "subject": "Kresge Law Library, University of Notre Dame (Notre Dame, IN)",
+      "verb": "is adding",
+      "stem": "be add",
+      "object": "to its current collection: Historic collection of the House Journal, Historic and current collections of the CFR, The CFR Index and Finding Aids, The Federal Register"
+    },
+    {
+      "subject": "The U.S. Government Publishing Office (GPO) Director Hugh Nathanial Halpern",
+      "verb": "has responded",
+      "stem": "have respond",
+      "object": "to the Feasibility"
+    }
+  ],
+  "total_SVOs": 3
+},
+"NPR-46": {
+  "SVO_relationships": [
+    {
+      "subject": "The U.S. Government Publishing Office (GPO) Director Hugh Nathanial Halpern",
+      "verb": "has responded",
+      "stem": "have respond",
+      "object": "to the Feasibility of a Digital Federal Depository Library Program: Report of the GPO Director’s Task Force"
+    },
+    {
+      "subject": "Director Halpern",
+      "verb": "writes",
+      "stem": "write",
+      "object": "that he broadly intends to adopt the Task Force’s recommendations to move to a digital Federal Depository Library Program (FDLP) and has accounted for those few areas where the Agency may diverge from the recommendation as written"
+    },
+    {
+      "subject": "The Task Force on a Digital Federal Depository Library Program (Task Force)",
+      "verb": "was appointed",
+      "stem": "be appoint",
+      "object": "by Director Halpern in early 2022"
+    },
+    {
+      "subject": "The Task Force",
+      "verb": "released",
+      "stem": "release",
+      "object": "its report recommending a digital FDLP in December 2022"
+    }
+  ],
+  "total_SVOs": 4
+},
+"NPR-47": {
+  "SVO_relationships": [
+    {
+      "subject": "Director Halpern",
+      "verb": "said",
+      "stem": "say",
+      "object": "“It’s remarkable that you were able to reach consensus with the Task Force’s diverse geographic representation from the depository library community, library associations, and Federal agencies”"
+    },
+    {
+      "subject": "Director Halpern",
+      "verb": "said",
+      "stem": "say",
+      "object": "“This Program is complex, and there are a lot of trade-offs to consider”"
+    },
+    {
+      "subject": "Director Halpern",
+      "verb": "said",
+      "stem": "say",
+      "object": "“The FDLP is integral to GPO’s vision of an America Informed, and it is evident that your strong relationships with the library community are vital to the Program’s success”"
+    },
+    {
+      "subject": "Director Halpern",
+      "verb": "included",
+      "stem": "include",
+      "object": "notable responses"
+    }
+  ],
+  "total_SVOs": 4
+},
+"NPR-48": {
+  "SVO_relationships": [
+    {
+      "subject": "GPO",
+      "verb": "will work",
+      "stem": "will work",
+      "object": "with libraries to explore specific needs of communities moving to a digital FDLP"
+    },
+    {
+      "subject": "GPO",
+      "verb": "will identify and engage",
+      "stem": "will identify and engage",
+      "object": "a consultant to assist with implementation planning and change management for finding, managing, and curating digital collections"
+    },
+    {
+      "subject": "GPO",
+      "verb": "will participate",
+      "stem": "will participate",
+      "object": "in dialogue to mitigate digital divides and disparities and provide access to individuals with disabilities"
+    },
+    {
+      "subject": "GPO",
+      "verb": "will build",
+      "stem": "will build",
+      "object": "on existing partnerships with the Library of Congress to expand collaboration and coordination with national libraries and agency publishers"
+    },
+    {
+      "subject": "The Task Force",
+      "verb": "is comprised",
+      "stem": "be comprise",
+      "object": "of 23 members representing the Depository Library"
+    }
+  ],
+  "total_SVOs": 5
+},
+"NPR-49": {
+  "SVO_relationships": [
+    {
+      "subject": "The U.S. Government Publishing Office (GPO)",
+      "verb": "is restarting",
+      "stem": "be restart",
+      "object": "its apprenticeship program to create the foundation for a new generation of GPO teammates"
+    },
+    {
+      "subject": "This program",
+      "verb": "is",
+      "stem": "be",
+      "object": "a critical element of securing GPO’s future"
+    },
+    {
+      "subject": "many of the Agency’s current teammates",
+      "verb": "are eligible",
+      "stem": "be eligible",
+      "object": "to retire over the next five years"
+    },
+    {
+      "subject": "The graduates",
+      "verb": "will help maintain",
+      "stem": "will help maintain",
+      "object": "a first-rate workforce that is in line with the Agency’s future growth and vision"
+    }
+  ],
+  "total_SVOs": 4
+},
+"NPR-50": {
+  "SVO_relationships": [
+    {
+      "subject": "The Agency",
+      "verb": "is expanding",
+      "stem": "be expand",
+      "object": "future classes to other trades and production areas this year"
+    },
+    {
+      "subject": "Qualifying candidates",
+      "verb": "can apply",
+      "stem": "can apply",
+      "object": "on USAJOBS for the three-year program"
+    },
+    {
+      "subject": "GPO",
+      "verb": "has developed",
+      "stem": "have develop",
+      "object": "the next generation of skilled craftspeople for our team and to carry out the work we do for the Federal Government"
+    },
+    {
+      "subject": "GPO Director Hugh Nathanial Halpern",
+      "verb": "said",
+      "stem": "say",
+      "object": "“It’s our responsibility to ensure that we continue GPO’s 161 years of exceptional service”"
+    },
+    {
+      "subject": "By passing on institutional knowledge and insight to new hires",
+      "verb": "we can be",
+      "stem": "can be",
+      "object": "effective in our mission"
+    }
+  ],
+  "total_SVOs": 5
+}
+
+}

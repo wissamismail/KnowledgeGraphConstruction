@@ -1,0 +1,262 @@
+{
+    "Mov-1": {
+        "SVO_relationships": [
+            {
+                "subject": "The girl",
+                "verb": "be",
+                "stem": "be",
+                "object": "SUMMER FINN"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-4": {
+        "SVO_relationships": [
+            {
+                "subject": "Mater",
+                "verb": "be",
+                "stem": "be",
+                "object": "BLASTED"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-9": {
+        "SVO_relationships": [
+            {
+                "subject": "head",
+                "verb": "be",
+                "stem": "be",
+                "object": "nearer man"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-18": {
+        "SVO_relationships": [
+            {
+                "subject": "The Others",
+                "verb": "be",
+                "stem": "be",
+                "object": "desperate"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-19": {
+        "SVO_relationships": [
+            {
+                "subject": "own territory",
+                "verb": "be",
+                "stem": "be",
+                "object": "a great badness"
+            },
+            {
+                "subject": "the river",
+                "verb": "be",
+                "stem": "be",
+                "object": "death"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-29": {
+        "SVO_relationships": [
+            {
+                "subject": "danger",
+                "verb": "lurk",
+                "stem": "lurk",
+                "object": "every corn- YAAAAHHHHHHHH"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-34": {
+        "SVO_relationships": [
+            {
+                "subject": "The concert",
+                "verb": "be",
+                "stem": "be",
+                "object": "today"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-36": {
+        "SVO_relationships": [
+            {
+                "subject": "VIOLENT Whatever demons",
+                "verb": "be",
+                "stem": "be",
+                "object": "Will"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-37": {
+        "SVO_relationships": [
+            {
+                "subject": "this shark",
+                "verb": "chase",
+                "stem": "chase",
+                "object": "Triton"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-40": {
+        "SVO_relationships": [
+            {
+                "subject": "YOU",
+                "verb": "be",
+                "stem": "be",
+                "object": "the crab"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-41": {
+        "SVO_relationships": [
+            {
+                "subject": "The mountains",
+                "verb": "be",
+                "stem": "be",
+                "object": "piles"
+            },
+            {
+                "subject": "The entire surface",
+                "verb": "be",
+                "stem": "be",
+                "object": "nothing"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-44": {
+        "SVO_relationships": [
+            {
+                "subject": "CEO",
+                "verb": "give",
+                "stem": "give",
+                "object": "a weak smile"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-46": {
+        "SVO_relationships": [
+            {
+                "subject": "Grandma",
+                "verb": "join",
+                "stem": "join",
+                "object": "the fun"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-47": {
+        "SVO_relationships": [
+            {
+                "subject": "The cop",
+                "verb": "hold",
+                "stem": "hold",
+                "object": "SLAMS"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-49": {
+        "SVO_relationships": [
+            {
+                "subject": "The image",
+                "verb": "be",
+                "stem": "be",
+                "object": "poor quality"
+            },
+            {
+                "subject": "the hubcap",
+                "verb": "be",
+                "stem": "be",
+                "object": "a hat"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-68": {
+        "SVO_relationships": [
+            {
+                "subject": "Begins",
+                "verb": "weld",
+                "stem": "weld",
+                "object": "something"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-69": {
+        "SVO_relationships": [
+            {
+                "subject": "Management",
+                "verb": "be",
+                "stem": "be",
+                "object": "restructurin"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-73": {
+        "SVO_relationships": [
+            {
+                "subject": "Calmly",
+                "verb": "take",
+                "stem": "take",
+                "object": "Eve"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-81": {
+        "SVO_relationships": [
+            {
+                "subject": "Wall-E",
+                "verb": "hold",
+                "stem": "hold",
+                "object": "an UMBRELLA"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-82": {
+        "SVO_relationships": [
+            {
+                "subject": "cockroach",
+                "verb": "take",
+                "stem": "take",
+                "object": "Eve"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-83": {
+        "SVO_relationships": [
+            {
+                "subject": "WALL-E [",
+                "verb": "defeat",
+                "stem": "defeat",
+                "object": "sigh ] EXT"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-87": {
+        "SVO_relationships": [
+            {
+                "subject": "JOSH",
+                "verb": "Take",
+                "stem": "Take",
+                "object": "the garbage"
+            }
+        ],
+        "total_SVOs": 1
+    }
+}

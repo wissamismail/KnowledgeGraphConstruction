@@ -1,0 +1,1927 @@
+{
+    "Fin-2": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "distribution"
+            },
+            {
+                "subject": "who",
+                "verb": "meet",
+                "stem": "meet",
+                "object": "criteria"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-3": {
+        "SVO_relationships": [
+            {
+                "subject": "distribution",
+                "verb": "benefit",
+                "stem": "benefit",
+                "object": "shareholders"
+            },
+            {
+                "subject": "focus",
+                "verb": "ensures",
+                "stem": "ensure",
+                "object": "process"
+            },
+            {
+                "subject": "investors",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-4": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "inaugurated",
+                "stem": "inaugurate",
+                "object": "factory"
+            },
+            {
+                "subject": "launch",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-5": {
+        "SVO_relationships": [
+            {
+                "subject": "collaboration",
+                "verb": "indicates",
+                "stem": "indicate",
+                "object": "commitment"
+            },
+            {
+                "subject": "Investors",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "improvements"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-6": {
+        "SVO_relationships": [
+            {
+                "subject": "Naseej",
+                "verb": "signed",
+                "stem": "sign",
+                "object": "contract"
+            },
+            {
+                "subject": "Naseej",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            },
+            {
+                "subject": "agreement",
+                "verb": "strengthen",
+                "stem": "strengthen",
+                "object": "position"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-7": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "accepting",
+                "stem": "accept",
+                "object": "nominations"
+            },
+            {
+                "subject": "candidates",
+                "verb": "submit",
+                "stem": "submit",
+                "object": "applications"
+            },
+            {
+                "subject": "process",
+                "verb": "supports",
+                "stem": "support",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-8": {
+        "SVO_relationships": [
+            {
+                "subject": "Board",
+                "verb": "invites",
+                "stem": "invite",
+                "object": "shareholders"
+            },
+            {
+                "subject": "meeting",
+                "verb": "offers",
+                "stem": "offer",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-9": {
+        "SVO_relationships": [
+            {
+                "subject": "Board",
+                "verb": "distribute",
+                "stem": "distribute",
+                "object": "dividends"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-10": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "results"
+            },
+            {
+                "subject": "they",
+                "verb": "indicate",
+                "stem": "indicate",
+                "object": "performance"
+            },
+            {
+                "subject": "growth",
+                "verb": "highlights",
+                "stem": "highlight",
+                "object": "ability"
+            },
+            {
+                "subject": "opinion",
+                "verb": "adds",
+                "stem": "add",
+                "object": "credibility"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-11": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "inaugurated",
+                "stem": "inaugurate",
+                "object": "branch"
+            },
+            {
+                "subject": "growth",
+                "verb": "highlights",
+                "stem": "highlight",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-12": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "appointed",
+                "stem": "appoint",
+                "object": "Ghamdi"
+            },
+            {
+                "subject": "appointment",
+                "verb": "marks",
+                "stem": "mark",
+                "object": "milestone"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-13": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "recommendation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-14": {
+        "SVO_relationships": [
+            {
+                "subject": "Authority",
+                "verb": "authorized",
+                "stem": "authorize",
+                "object": "offering"
+            },
+            {
+                "subject": "investors",
+                "verb": "review",
+                "stem": "review",
+                "object": "risks"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-15": {
+        "SVO_relationships": [
+            {
+                "subject": "Authority",
+                "verb": "approved",
+                "stem": "approve",
+                "object": "request"
+            },
+            {
+                "subject": "Limited",
+                "verb": "expand",
+                "stem": "expand",
+                "object": "offerings"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-16": {
+        "SVO_relationships": [
+            {
+                "subject": "Alqemam",
+                "verb": "granted",
+                "stem": "grant",
+                "object": "project"
+            },
+            {
+                "subject": "contract",
+                "verb": "represents",
+                "stem": "represent",
+                "object": "milestone"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-17": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "declared",
+                "stem": "declare",
+                "object": "distribution"
+            },
+            {
+                "subject": "dividend",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "investors"
+            },
+            {
+                "subject": "who",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "return"
+            },
+            {
+                "subject": "they",
+                "verb": "meet",
+                "stem": "meet",
+                "object": "criteria"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-18": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "released",
+                "stem": "release",
+                "object": "results"
+            },
+            {
+                "subject": "results",
+                "verb": "indicate",
+                "stem": "indicate",
+                "object": "year"
+            },
+            {
+                "subject": "increase",
+                "verb": "suggest",
+                "stem": "suggest",
+                "object": "developments"
+            },
+            {
+                "subject": "reversal",
+                "verb": "indicates",
+                "stem": "indicate",
+                "object": "performance"
+            },
+            {
+                "subject": "Investors",
+                "verb": "monitor",
+                "stem": "monitor",
+                "object": "strategies"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Fin-19": {
+        "SVO_relationships": [
+            {
+                "subject": "AZM",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "award"
+            },
+            {
+                "subject": "win",
+                "verb": "represents",
+                "stem": "represent",
+                "object": "contribution"
+            },
+            {
+                "subject": "collaboration",
+                "verb": "highlights",
+                "stem": "highlight",
+                "object": "expertise"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-20": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "reports",
+                "stem": "report",
+                "object": "increase"
+            },
+            {
+                "subject": "results",
+                "verb": "highlight",
+                "stem": "highlight",
+                "object": "performance"
+            },
+            {
+                "subject": "increase",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "ability"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-21": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "received",
+                "stem": "receive",
+                "object": "license"
+            },
+            {
+                "subject": "customers",
+                "verb": "increased",
+                "stem": "increase",
+                "object": "access"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-22": {
+        "SVO_relationships": [
+            {
+                "subject": "International",
+                "verb": "appointed",
+                "stem": "appoint",
+                "object": "Capital"
+            },
+            {
+                "subject": "appointment",
+                "verb": "signifies",
+                "stem": "signify",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-23": {
+        "SVO_relationships": [
+            {
+                "subject": "subsidiary",
+                "verb": "secured",
+                "stem": "secure",
+                "object": "project"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-24": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "acknowledges",
+                "stem": "acknowledge",
+                "object": "transfer"
+            },
+            {
+                "subject": "State",
+                "verb": "remaining",
+                "stem": "remain",
+                "object": "shareholder"
+            },
+            {
+                "subject": "transfer",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "operations"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-25": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "formed",
+                "stem": "form",
+                "object": "Committee"
+            },
+            {
+                "subject": "formation",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-26": {
+        "SVO_relationships": [
+            {
+                "subject": "Authority",
+                "verb": "approved",
+                "stem": "approve",
+                "object": "request"
+            },
+            {
+                "subject": "company",
+                "verb": "expand",
+                "stem": "expand",
+                "object": "scope"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-27": {
+        "SVO_relationships": [
+            {
+                "subject": "Authority",
+                "verb": "authorized",
+                "stem": "authorize",
+                "object": "offering"
+            },
+            {
+                "subject": "Investors",
+                "verb": "examine",
+                "stem": "examine",
+                "object": "Terms"
+            },
+            {
+                "subject": "investors",
+                "verb": "evaluate",
+                "stem": "evaluate",
+                "object": "risks"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-28": {
+        "SVO_relationships": [
+            {
+                "subject": "release",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "transparency"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-29": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "commenced",
+                "stem": "commence",
+                "object": "operations"
+            },
+            {
+                "subject": "facility",
+                "verb": "increases",
+                "stem": "increase",
+                "object": "capacity"
+            },
+            {
+                "subject": "launch",
+                "verb": "signifies",
+                "stem": "signify",
+                "object": "expansion"
+            },
+            {
+                "subject": "Investors",
+                "verb": "anticipate",
+                "stem": "anticipate",
+                "object": "impacts"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-30": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "approved",
+                "stem": "approve",
+                "object": "distribution"
+            },
+            {
+                "subject": "approval",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            },
+            {
+                "subject": "amount",
+                "verb": "highlights",
+                "stem": "highlight",
+                "object": "performance"
+            },
+            {
+                "subject": "which",
+                "verb": "boost",
+                "stem": "boost",
+                "object": "returns"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-31": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "increase"
+            },
+            {
+                "subject": "distribution",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-32": {
+        "SVO_relationships": [
+            {
+                "subject": "Aramco",
+                "verb": "reports",
+                "stem": "report",
+                "object": "decline"
+            },
+            {
+                "subject": "results",
+                "verb": "indicate",
+                "stem": "indicate",
+                "object": "year"
+            },
+            {
+                "subject": "Investors",
+                "verb": "monitor",
+                "stem": "monitor",
+                "object": "performance"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-33": {
+        "SVO_relationships": [
+            {
+                "subject": "International",
+                "verb": "granted",
+                "stem": "grant",
+                "object": "contract"
+            },
+            {
+                "subject": "win",
+                "verb": "marks",
+                "stem": "mark",
+                "object": "milestone"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-34": {
+        "SVO_relationships": [
+            {
+                "subject": "buyback",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-35": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "conducted",
+                "stem": "conduct",
+                "object": "meeting"
+            },
+            {
+                "subject": "meeting",
+                "verb": "elected",
+                "stem": "elect",
+                "object": "members"
+            },
+            {
+                "subject": "election",
+                "verb": "bring",
+                "stem": "bring",
+                "object": "perspectives"
+            },
+            {
+                "subject": "Shareholders",
+                "verb": "anticipate",
+                "stem": "anticipate",
+                "object": "updates"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-36": {
+        "SVO_relationships": [
+            {
+                "subject": "Group",
+                "verb": "held",
+                "stem": "hold",
+                "object": "Meeting"
+            },
+            {
+                "subject": "approval",
+                "verb": "indicates",
+                "stem": "indicate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-38": {
+        "SVO_relationships": [
+            {
+                "subject": "dividend",
+                "verb": "highlights",
+                "stem": "highlight",
+                "object": "focus"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-39": {
+        "SVO_relationships": [
+            {
+                "subject": "move",
+                "verb": "strengthen",
+                "stem": "strengthen",
+                "object": "position"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-40": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "released",
+                "stem": "release",
+                "object": "results"
+            },
+            {
+                "subject": "results",
+                "verb": "indicate",
+                "stem": "indicate",
+                "object": "decline"
+            },
+            {
+                "subject": "losses",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "%"
+            },
+            {
+                "subject": "Investors",
+                "verb": "monitor",
+                "stem": "monitor",
+                "object": "performance"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-41": {
+        "SVO_relationships": [
+            {
+                "subject": "distribution",
+                "verb": "indicates",
+                "stem": "indicate",
+                "object": "performance"
+            },
+            {
+                "subject": "criteria",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "dividend"
+            },
+            {
+                "subject": "announcement",
+                "verb": "infl",
+                "stem": "infl",
+                "object": "uence"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-42": {
+        "SVO_relationships": [
+            {
+                "subject": "announcement",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "confidence"
+            },
+            {
+                "subject": "commitment",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "approach"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-43": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "released",
+                "stem": "release",
+                "object": "results"
+            },
+            {
+                "subject": "results",
+                "verb": "demonstrate",
+                "stem": "demonstrate",
+                "object": "success"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-44": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "opening"
+            },
+            {
+                "subject": "shareholders",
+                "verb": "submit",
+                "stem": "submit",
+                "object": "applications"
+            },
+            {
+                "subject": "call",
+                "verb": "offers",
+                "stem": "offer",
+                "object": "shareholders"
+            },
+            {
+                "subject": "candidates",
+                "verb": "have",
+                "stem": "have",
+                "object": "chance"
+            },
+            {
+                "subject": "they",
+                "verb": "meet",
+                "stem": "meet",
+                "object": "criteria"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Fin-45": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "released",
+                "stem": "release",
+                "object": "results"
+            },
+            {
+                "subject": "decline",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "position"
+            },
+            {
+                "subject": "Investors",
+                "verb": "monitor",
+                "stem": "monitor",
+                "object": "performance"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-46": {
+        "SVO_relationships": [
+            {
+                "subject": "agreement",
+                "verb": "marks",
+                "stem": "mark",
+                "object": "milestone"
+            },
+            {
+                "subject": "it",
+                "verb": "expands",
+                "stem": "expand",
+                "object": "presence"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-47": {
+        "SVO_relationships": [
+            {
+                "subject": "AZM",
+                "verb": "corrects",
+                "stem": "correct",
+                "object": "date"
+            },
+            {
+                "subject": "announcement",
+                "verb": "contain",
+                "stem": "contain",
+                "object": "impact"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-48": {
+        "SVO_relationships": [
+            {
+                "subject": "KSA",
+                "verb": "corrects",
+                "stem": "correct",
+                "object": "results"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-49": {
+        "SVO_relationships": [
+            {
+                "subject": "decision",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "structure"
+            },
+            {
+                "subject": "change",
+                "verb": "influence",
+                "stem": "influence",
+                "object": "position"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-50": {
+        "SVO_relationships": [
+            {
+                "subject": "AICTEC",
+                "verb": "reports",
+                "stem": "report",
+                "object": "increase"
+            },
+            {
+                "subject": ",Investors",
+                "verb": "note",
+                "stem": "note",
+                "object": "discrepancy"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-51": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "signed",
+                "stem": "sign",
+                "object": "agreement"
+            },
+            {
+                "subject": "decision",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-52": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "results"
+            },
+            {
+                "subject": "performance",
+                "verb": "indicates",
+                "stem": "indicate",
+                "object": "trajectory"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-53": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "invited",
+                "stem": "invite",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-54": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "disclose",
+                "stem": "disclose",
+                "object": "outcomes"
+            },
+            {
+                "subject": "publication",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "transparency"
+            },
+            {
+                "subject": "investors",
+                "verb": "gain",
+                "stem": "gain",
+                "object": "insights"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-55": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "approval"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-56": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "disclosed",
+                "stem": "disclose",
+                "object": "outcomes"
+            },
+            {
+                "subject": "assembly",
+                "verb": "approved",
+                "stem": "approve",
+                "object": "election"
+            },
+            {
+                "subject": "authorization",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "shareholders"
+            },
+            {
+                "subject": "approval",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-57": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "appointed",
+                "stem": "appoint",
+                "object": "Members"
+            },
+            {
+                "subject": "appointment",
+                "verb": "brings",
+                "stem": "bring",
+                "object": "expertise"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-58": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "held",
+                "stem": "hold",
+                "object": "Meeting"
+            },
+            {
+                "subject": "outcome",
+                "verb": "highlights",
+                "stem": "highlight",
+                "object": "commitment"
+            },
+            {
+                "subject": "auditors",
+                "verb": "reinforces",
+                "stem": "reinforce",
+                "object": "integrity"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-59": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "released",
+                "stem": "release",
+                "object": "results"
+            },
+            {
+                "subject": "losses",
+                "verb": "increased",
+                "stem": "increase",
+                "object": "expenses"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-60": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "distribution"
+            },
+            {
+                "subject": "Eligibility",
+                "verb": "requires",
+                "stem": "require",
+                "object": "ownership"
+            },
+            {
+                "subject": "distribution",
+                "verb": "benefit",
+                "stem": "benefit",
+                "object": "shareholders"
+            },
+            {
+                "subject": "who",
+                "verb": "meet",
+                "stem": "meet",
+                "object": "criteria"
+            },
+            {
+                "subject": "members",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "dividends"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Fin-61": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "decision"
+            },
+            {
+                "subject": "distribution",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-62": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "signed",
+                "stem": "sign",
+                "object": "agreement"
+            },
+            {
+                "subject": "company",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "developments"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-63": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "released",
+                "stem": "release",
+                "object": "results"
+            },
+            {
+                "subject": "results",
+                "verb": "indicate",
+                "stem": "indicate",
+                "object": "performance"
+            },
+            {
+                "subject": "profit",
+                "verb": "benefited",
+                "stem": "benefit",
+                "object": "measures"
+            },
+            {
+                "subject": "results",
+                "verb": "suggest",
+                "stem": "suggest",
+                "object": "outlook"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-64": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "renewed",
+                "stem": "renew",
+                "object": "agreement"
+            },
+            {
+                "subject": "renewal",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "relationship"
+            },
+            {
+                "subject": "financing",
+                "verb": "support",
+                "stem": "support",
+                "object": "needs"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-65": {
+        "SVO_relationships": [
+            {
+                "subject": "approval",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            },
+            {
+                "subject": "Company",
+                "verb": "trial",
+                "stem": "trial",
+                "object": "technologies"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-66": {
+        "SVO_relationships": [
+            {
+                "subject": "Authority",
+                "verb": "licenses",
+                "stem": "license",
+                "object": "Company"
+            },
+            {
+                "subject": "announcement",
+                "verb": "highlights",
+                "stem": "highlight",
+                "object": "commitment"
+            },
+            {
+                "subject": "companies",
+                "verb": "meet",
+                "stem": "meet",
+                "object": "standards"
+            },
+            {
+                "subject": "licensing",
+                "verb": "manage",
+                "stem": "manage",
+                "object": "investments"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-67": {
+        "SVO_relationships": [
+            {
+                "subject": "Authority",
+                "verb": "approved",
+                "stem": "approve",
+                "object": "request"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-68": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "deposited",
+                "stem": "deposit",
+                "object": "securities"
+            },
+            {
+                "subject": "Company",
+                "verb": "completed",
+                "stem": "complete",
+                "object": "process"
+            },
+            {
+                "subject": "investors",
+                "verb": "view",
+                "stem": "view",
+                "object": "shares"
+            },
+            {
+                "subject": "development",
+                "verb": "highlights",
+                "stem": "highlight",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-69": {
+        "SVO_relationships": [
+            {
+                "subject": "amendment",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "results"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-70": {
+        "SVO_relationships": [
+            {
+                "subject": "Factory",
+                "verb": "reached",
+                "stem": "reach",
+                "object": "level"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-71": {
+        "SVO_relationships": [
+            {
+                "subject": "NBM",
+                "verb": "received",
+                "stem": "receive",
+                "object": "funding"
+            },
+            {
+                "subject": "announcement",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "information"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-72": {
+        "SVO_relationships": [
+            {
+                "subject": "NBM",
+                "verb": "obtained",
+                "stem": "obtain",
+                "object": "funding"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-73": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "performance"
+            },
+            {
+                "subject": "performance",
+                "verb": "indicates",
+                "stem": "indicate",
+                "object": "trend"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-74": {
+        "SVO_relationships": [
+            {
+                "subject": "Industries",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "call"
+            },
+            {
+                "subject": "candidates",
+                "verb": "submit",
+                "stem": "submit",
+                "object": "applications"
+            },
+            {
+                "subject": "elections",
+                "verb": "offer",
+                "stem": "offer",
+                "object": "opportunity"
+            },
+            {
+                "subject": "candidates",
+                "verb": "have",
+                "stem": "have",
+                "object": "chance"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-75": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "corrected",
+                "stem": "correct",
+                "object": "names"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-76": {
+        "SVO_relationships": [
+            {
+                "subject": "Arabia",
+                "verb": "concludes",
+                "stem": "conclude",
+                "object": "offering"
+            },
+            {
+                "subject": "completion",
+                "verb": "marks",
+                "stem": "mark",
+                "object": "milestone"
+            },
+            {
+                "subject": "demand",
+                "verb": "indicates",
+                "stem": "indicate",
+                "object": "sentiment"
+            },
+            {
+                "subject": "process",
+                "verb": "promotes",
+                "stem": "promote",
+                "object": "fairness"
+            },
+            {
+                "subject": "ratio",
+                "verb": "highlights",
+                "stem": "highlight",
+                "object": "interest"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Fin-77": {
+        "SVO_relationships": [
+            {
+                "subject": "Capital",
+                "verb": "appointed",
+                "stem": "appoint",
+                "object": "Howaimel"
+            },
+            {
+                "subject": "appointment",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-78": {
+        "SVO_relationships": [
+            {
+                "subject": "Capital",
+                "verb": "appointed",
+                "stem": "appoint",
+                "object": "Howaimel"
+            },
+            {
+                "subject": "appointment",
+                "verb": "bring",
+                "stem": "bring",
+                "object": "perspectives"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-79": {
+        "SVO_relationships": [
+            {
+                "subject": "shares",
+                "verb": "offered",
+                "stem": "offer",
+                "object": "to"
+            },
+            {
+                "subject": "announcement",
+                "verb": "indicates",
+                "stem": "indicate",
+                "object": "demand"
+            },
+            {
+                "subject": "This",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "capitalization"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-80": {
+        "SVO_relationships": [
+            {
+                "subject": "Authority",
+                "verb": "approved",
+                "stem": "approve",
+                "object": "application"
+            },
+            {
+                "subject": "approval",
+                "verb": "constitute",
+                "stem": "constitute",
+                "object": "advice"
+            },
+            {
+                "subject": "approval",
+                "verb": "signify",
+                "stem": "signify",
+                "object": "recommendation"
+            },
+            {
+                "subject": "investors",
+                "verb": "perform",
+                "stem": "perform",
+                "object": "evaluation"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-81": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "creation"
+            },
+            {
+                "subject": "274/1",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-82": {
+        "SVO_relationships": [
+            {
+                "subject": "Authority",
+                "verb": "approved",
+                "stem": "approve",
+                "object": "application"
+            },
+            {
+                "subject": "company",
+                "verb": "raise",
+                "stem": "raise",
+                "object": "capital"
+            },
+            {
+                "subject": "move",
+                "verb": "boost",
+                "stem": "boost",
+                "object": "plans"
+            },
+            {
+                "subject": "investors",
+                "verb": "evaluate",
+                "stem": "evaluate",
+                "object": "opportunity"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-83": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "granted",
+                "stem": "grant",
+                "object": "permission"
+            },
+            {
+                "subject": "company",
+                "verb": "explore",
+                "stem": "explore",
+                "object": "opportunities"
+            },
+            {
+                "subject": "move",
+                "verb": "supports",
+                "stem": "support",
+                "object": "innovation"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-84": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "fulfilling",
+                "stem": "fulfil",
+                "object": "prerequisites"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-85": {
+        "SVO_relationships": [
+            {
+                "subject": "Authority",
+                "verb": "approved",
+                "stem": "approve",
+                "object": "request"
+            },
+            {
+                "subject": "approval",
+                "verb": "bolster",
+                "stem": "bolster",
+                "object": "position"
+            },
+            {
+                "subject": "investors",
+                "verb": "view",
+                "stem": "view",
+                "object": "bank"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-86": {
+        "SVO_relationships": [
+            {
+                "subject": "listing",
+                "verb": "marks",
+                "stem": "mark",
+                "object": "milestone"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-87": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "resignation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-88": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "completed",
+                "stem": "complete",
+                "object": "issuance"
+            },
+            {
+                "subject": "offering",
+                "verb": "expands",
+                "stem": "expand",
+                "object": "Sukuk"
+            },
+            {
+                "subject": "issuance",
+                "verb": "offers",
+                "stem": "offer",
+                "object": "investors"
+            },
+            {
+                "subject": "move",
+                "verb": "reflects",
+                "stem": "reflect",
+                "object": "position"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-89": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "named",
+                "stem": "name",
+                "object": "Company"
+            },
+            {
+                "subject": "appointment",
+                "verb": "marks",
+                "stem": "mark",
+                "object": "step"
+            },
+            {
+                "subject": "move",
+                "verb": "enhance",
+                "stem": "enhance",
+                "object": "visibility"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-90": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "distribution"
+            },
+            {
+                "subject": "they",
+                "verb": "meet",
+                "stem": "meet",
+                "object": "criteria"
+            },
+            {
+                "subject": "distribution",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-92": {
+        "SVO_relationships": [
+            {
+                "subject": "Capital",
+                "verb": "announced",
+                "stem": "announce",
+                "object": "distributions"
+            },
+            {
+                "subject": "Company",
+                "verb": "handle",
+                "stem": "handle",
+                "object": "transfers"
+            },
+            {
+                "subject": "announcement",
+                "verb": "impacts",
+                "stem": "impact",
+                "object": "Unitholders"
+            },
+            {
+                "subject": "who",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "dividends"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-93": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "reported",
+                "stem": "report",
+                "object": "results"
+            },
+            {
+                "subject": "performance",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "growth"
+            },
+            {
+                "subject": "results",
+                "verb": "suggest",
+                "stem": "suggest",
+                "object": "position"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-94": {
+        "SVO_relationships": [
+            {
+                "subject": "Capital",
+                "verb": "released",
+                "stem": "release",
+                "object": "reports"
+            },
+            {
+                "subject": "investors",
+                "verb": "gain",
+                "stem": "gain",
+                "object": "insights"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-95": {
+        "SVO_relationships": [
+            {
+                "subject": "Board",
+                "verb": "invites",
+                "stem": "invite",
+                "object": "shareholders"
+            },
+            {
+                "subject": "meeting",
+                "verb": "address",
+                "stem": "address",
+                "object": "amendment"
+            },
+            {
+                "subject": "Meeting",
+                "verb": "offers",
+                "stem": "offer",
+                "object": "shareholders"
+            },
+            {
+                "subject": "outcome",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "structure"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-96": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "released",
+                "stem": "release",
+                "object": "results"
+            },
+            {
+                "subject": "costs",
+                "verb": "impacted",
+                "stem": "impact",
+                "object": "line"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-97": {
+        "SVO_relationships": [
+            {
+                "subject": "Board",
+                "verb": "invites",
+                "stem": "invite",
+                "object": "shareholders"
+            },
+            {
+                "subject": "Shareholders",
+                "verb": "discuss",
+                "stem": "discuss",
+                "object": "topics"
+            },
+            {
+                "subject": "participation",
+                "verb": "promotes",
+                "stem": "promote",
+                "object": "accessibility"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-98": {
+        "SVO_relationships": [
+            {
+                "subject": "BURGERIZZR",
+                "verb": "hosting",
+                "stem": "host",
+                "object": "Meeting"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-99": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "renewed",
+                "stem": "renew",
+                "object": "agreement"
+            },
+            {
+                "subject": "agreement",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "relationship"
+            },
+            {
+                "subject": "financing",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "company"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-100": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "hold",
+                "stem": "hold",
+                "object": "call"
+            },
+            {
+                "subject": "Company",
+                "verb": "share",
+                "stem": "share",
+                "object": "results"
+            }
+        ],
+        "total_SVOs": 2
+    }
+}

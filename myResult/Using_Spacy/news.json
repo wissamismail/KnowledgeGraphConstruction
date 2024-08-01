@@ -1,0 +1,1792 @@
+{
+    "New-1": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "appointment"
+            },
+            {
+                "subject": "members",
+                "verb": "advise",
+                "stem": "advise",
+                "object": "Director"
+            },
+            {
+                "subject": "members",
+                "verb": "have",
+                "stem": "have",
+                "object": "experience"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-2": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "opened",
+                "stem": "open",
+                "object": "doors"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-3": {
+        "SVO_relationships": [
+            {
+                "subject": "School",
+                "verb": "expanded",
+                "stem": "expand",
+                "object": "partnership"
+            },
+            {
+                "subject": "libraries",
+                "verb": "meet",
+                "stem": "meet",
+                "object": "needs"
+            },
+            {
+                "subject": "GPO",
+                "verb": "established",
+                "stem": "establish",
+                "object": "Stewards"
+            },
+            {
+                "subject": "libraries",
+                "verb": "join",
+                "stem": "join",
+                "object": "partners"
+            },
+            {
+                "subject": "libraries",
+                "verb": "play",
+                "stem": "play",
+                "object": "role"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "New-4": {
+        "SVO_relationships": [
+            {
+                "subject": "app",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "users"
+            },
+            {
+                "subject": "app",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "links"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-5": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "supported",
+                "stem": "support",
+                "object": "Library"
+            },
+            {
+                "subject": "event",
+                "verb": "took",
+                "stem": "take",
+                "object": "place"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-6": {
+        "SVO_relationships": [
+            {
+                "subject": "States",
+                "verb": "celebrating",
+                "stem": "celebrate",
+                "object": "anniversary"
+            },
+            {
+                "subject": "GPO",
+                "verb": "produces",
+                "stem": "produce",
+                "object": "version"
+            },
+            {
+                "subject": "GPO",
+                "verb": "produced",
+                "stem": "produce",
+                "object": "copies"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-7": {
+        "SVO_relationships": [
+            {
+                "subject": "We",
+                "verb": "thank",
+                "stem": "thank",
+                "object": "libraries"
+            },
+            {
+                "subject": "GPO",
+                "verb": "realize",
+                "stem": "realize",
+                "object": "vision"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-8": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "appointment"
+            },
+            {
+                "subject": "members",
+                "verb": "advise",
+                "stem": "advise",
+                "object": "Director"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-9": {
+        "SVO_relationships": [
+            {
+                "subject": "members",
+                "verb": "have",
+                "stem": "have",
+                "object": "experience"
+            },
+            {
+                "subject": "GPO",
+                "verb": "welcomes",
+                "stem": "welcome",
+                "object": "expertise"
+            },
+            {
+                "subject": "GPO",
+                "verb": "realize",
+                "stem": "realize",
+                "object": "vision"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-10": {
+        "SVO_relationships": [
+            {
+                "subject": "citizens",
+                "verb": "have",
+                "stem": "have",
+                "object": "access"
+            },
+            {
+                "subject": "Sinclair",
+                "verb": "has",
+                "stem": "have",
+                "object": "years"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-11": {
+        "SVO_relationships": [
+            {
+                "subject": "Finnell",
+                "verb": "leads",
+                "stem": "lead",
+                "object": "initiatives"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-13": {
+        "SVO_relationships": [
+            {
+                "subject": "documents",
+                "verb": "use",
+                "stem": "use",
+                "object": "studies"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-14": {
+        "SVO_relationships": [
+            {
+                "subject": "WASHINGTON",
+                "verb": "celebrating",
+                "stem": "celebrate",
+                "object": "years"
+            },
+            {
+                "subject": "GPO",
+                "verb": "opened",
+                "stem": "open",
+                "object": "facility"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-15": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "produced",
+                "stem": "produce",
+                "object": "passports"
+            },
+            {
+                "subject": "teammates",
+                "verb": "proved",
+                "stem": "prove",
+                "object": "value"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-16": {
+        "SVO_relationships": [
+            {
+                "subject": "Collins",
+                "verb": "leaves",
+                "stem": "leave",
+                "object": "GPO"
+            },
+            {
+                "subject": "She",
+                "verb": "led",
+                "stem": "lead",
+                "object": "Operations"
+            },
+            {
+                "subject": "Collins",
+                "verb": "oversaw",
+                "stem": "oversee",
+                "object": "production"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-17": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "needed",
+                "stem": "need",
+                "object": "location"
+            },
+            {
+                "subject": "Mississippi",
+                "verb": "answered",
+                "stem": "answer",
+                "object": "call"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-18": {
+        "SVO_relationships": [
+            {
+                "subject": "Office",
+                "verb": "won",
+                "stem": "win",
+                "object": "Awards"
+            },
+            {
+                "subject": "magazine",
+                "verb": "selected",
+                "stem": "select",
+                "object": "GPO"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-19": {
+        "SVO_relationships": [
+            {
+                "subject": "team",
+                "verb": "offers",
+                "stem": "offer",
+                "object": "branding"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-20": {
+        "SVO_relationships": [
+            {
+                "subject": "GDUSA",
+                "verb": "sponsors",
+                "stem": "sponsor",
+                "object": "Awards"
+            },
+            {
+                "subject": "that",
+                "verb": "spotlights",
+                "stem": "spotlight",
+                "object": "areas"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "named",
+                "stem": "name",
+                "object": "McCarthy"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-22": {
+        "SVO_relationships": [
+            {
+                "subject": "Jay",
+                "verb": "brings",
+                "stem": "bring",
+                "object": "wealth"
+            },
+            {
+                "subject": "he",
+                "verb": "takes",
+                "stem": "take",
+                "object": "work"
+            },
+            {
+                "subject": "he",
+                "verb": "developed",
+                "stem": "develop",
+                "object": "requests"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-23": {
+        "SVO_relationships": [
+            {
+                "subject": "Jay",
+                "verb": "performed",
+                "stem": "perform",
+                "object": "oversight"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-24": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "has",
+                "stem": "have",
+                "object": "history"
+            },
+            {
+                "subject": "who",
+                "verb": "make",
+                "stem": "make",
+                "object": "third"
+            },
+            {
+                "subject": "Agency",
+                "verb": "hosted",
+                "stem": "host",
+                "object": "Program"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-25": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "do",
+                "stem": "do",
+                "object": "for"
+            },
+            {
+                "subject": "I",
+                "verb": "thank",
+                "stem": "thank",
+                "object": "veterans"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-26": {
+        "SVO_relationships": [
+            {
+                "subject": "Forbes",
+                "verb": "selected",
+                "stem": "select",
+                "object": "GPO"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-27": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "thank",
+                "stem": "thank",
+                "object": "Patty"
+            },
+            {
+                "subject": "all",
+                "verb": "wish",
+                "stem": "wish",
+                "object": "her"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-28": {
+        "SVO_relationships": [
+            {
+                "subject": "Office",
+                "verb": "honors",
+                "stem": "honor",
+                "object": "University"
+            },
+            {
+                "subject": "library",
+                "verb": "organized",
+                "stem": "organize",
+                "object": "website"
+            },
+            {
+                "subject": "which",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "navigation"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-29": {
+        "SVO_relationships": [
+            {
+                "subject": "Guide",
+                "verb": "benefits",
+                "stem": "benefit",
+                "object": "students"
+            },
+            {
+                "subject": "We",
+                "verb": "want",
+                "stem": "want",
+                "object": "showcase"
+            },
+            {
+                "subject": "I",
+                "verb": "encourage",
+                "stem": "encourage",
+                "object": "libraries"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-30": {
+        "SVO_relationships": [
+            {
+                "subject": "Office",
+                "verb": "names",
+                "stem": "name",
+                "object": "Library"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-31": {
+        "SVO_relationships": [
+            {
+                "subject": "collaboration",
+                "verb": "creates",
+                "stem": "create",
+                "object": "collection"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-32": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "encourage",
+                "stem": "encourage",
+                "object": "libraries"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-33": {
+        "SVO_relationships": [
+            {
+                "subject": "It",
+                "verb": "helps",
+                "stem": "help",
+                "object": "depositories"
+            },
+            {
+                "subject": "they",
+                "verb": "launch",
+                "stem": "launch",
+                "object": "projects"
+            },
+            {
+                "subject": "GPO",
+                "verb": "fulfilled",
+                "stem": "fulfil",
+                "object": "responsibility"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-34": {
+        "SVO_relationships": [
+            {
+                "subject": "Part",
+                "verb": "meeting",
+                "stem": "meet",
+                "object": "deadlines"
+            },
+            {
+                "subject": "GPO",
+                "verb": "started",
+                "stem": "start",
+                "object": "implementation"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-35": {
+        "SVO_relationships": [
+            {
+                "subject": "launch",
+                "verb": "represents",
+                "stem": "represent",
+                "object": "way"
+            },
+            {
+                "subject": "GPO",
+                "verb": "fulfilling",
+                "stem": "fulfil",
+                "object": "vision"
+            },
+            {
+                "subject": "that",
+                "verb": "submitted",
+                "stem": "submit",
+                "object": "reports"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-37": {
+        "SVO_relationships": [
+            {
+                "subject": "program",
+                "verb": "awarded",
+                "stem": "award",
+                "object": "million"
+            },
+            {
+                "subject": "GPO",
+                "verb": "awards",
+                "stem": "award",
+                "object": "contracts"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-38": {
+        "SVO_relationships": [
+            {
+                "subject": "She",
+                "verb": "spent",
+                "stem": "spend",
+                "object": "seven"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-39": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "awarded",
+                "stem": "award",
+                "object": "jobs"
+            },
+            {
+                "subject": "program",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "opportunity"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-40": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "saw",
+                "stem": "see",
+                "object": "lot"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-41": {
+        "SVO_relationships": [
+            {
+                "subject": "Office",
+                "verb": "achieved",
+                "stem": "achieve",
+                "object": "milestone"
+            },
+            {
+                "subject": "site",
+                "verb": "gives",
+                "stem": "give",
+                "object": "access"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-42": {
+        "SVO_relationships": [
+            {
+                "subject": "people",
+                "verb": "find",
+                "stem": "find",
+                "object": "information"
+            },
+            {
+                "subject": "milestone",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "commitment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-43": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "unveiled",
+                "stem": "unveil",
+                "object": "system"
+            },
+            {
+                "subject": "GPO",
+                "verb": "launched",
+                "stem": "launch",
+                "object": "govinfo"
+            },
+            {
+                "subject": "GPO",
+                "verb": "made",
+                "stem": "make",
+                "object": "history"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-44": {
+        "SVO_relationships": [
+            {
+                "subject": "Ltd.",
+                "verb": "awarded",
+                "stem": "award",
+                "object": "certification"
+            },
+            {
+                "subject": "certification",
+                "verb": "reinforces",
+                "stem": "reinforce",
+                "object": "govinfo"
+            },
+            {
+                "subject": "that",
+                "verb": "performs",
+                "stem": "perform",
+                "object": "practices"
+            },
+            {
+                "subject": "GPO",
+                "verb": "increased",
+                "stem": "increase",
+                "object": "amount"
+            },
+            {
+                "subject": "GPO",
+                "verb": "submitted",
+                "stem": "submit",
+                "object": "packages"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "New-45": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "presented",
+                "stem": "present",
+                "object": "request"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "requested",
+                "stem": "request",
+                "object": "appropriations"
+            },
+            {
+                "subject": "This",
+                "verb": "marks",
+                "stem": "mark",
+                "object": "time"
+            },
+            {
+                "subject": "GPO",
+                "verb": "requested",
+                "stem": "request",
+                "object": "increase"
+            },
+            {
+                "subject": "request",
+                "verb": "incorporates",
+                "stem": "incorporate",
+                "object": "costs"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "New-46": {
+        "SVO_relationships": [
+            {
+                "subject": "request",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "GPO"
+            },
+            {
+                "subject": "GPO",
+                "verb": "posted",
+                "stem": "post",
+                "object": "income"
+            },
+            {
+                "subject": "income",
+                "verb": "represents",
+                "stem": "represent",
+                "object": "year"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-47": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "rolled",
+                "stem": "roll",
+                "object": "telework"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-48": {
+        "SVO_relationships": [
+            {
+                "subject": "world",
+                "verb": "celebrated",
+                "stem": "celebrate",
+                "object": "retrieval"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "appointment"
+            },
+            {
+                "subject": "members",
+                "verb": "advise",
+                "stem": "advise",
+                "object": "Director"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-49": {
+        "SVO_relationships": [
+            {
+                "subject": "she",
+                "verb": "continued",
+                "stem": "continue",
+                "object": "service"
+            },
+            {
+                "subject": "which",
+                "verb": "included",
+                "stem": "include",
+                "object": "deployment"
+            },
+            {
+                "subject": "she",
+                "verb": "represented",
+                "stem": "represent",
+                "object": "States"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-50": {
+        "SVO_relationships": [
+            {
+                "subject": "world",
+                "verb": "celebrated",
+                "stem": "celebrate",
+                "object": "retrieval"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "appointment"
+            },
+            {
+                "subject": "members",
+                "verb": "advise",
+                "stem": "advise",
+                "object": "Director"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-51": {
+        "SVO_relationships": [
+            {
+                "subject": "members",
+                "verb": "have",
+                "stem": "have",
+                "object": "experience"
+            },
+            {
+                "subject": "GPO",
+                "verb": "welcomes",
+                "stem": "welcome",
+                "object": "members"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-52": {
+        "SVO_relationships": [
+            {
+                "subject": "which",
+                "verb": "manages",
+                "stem": "manage",
+                "object": "aspects"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-53": {
+        "SVO_relationships": [
+            {
+                "subject": "Mead",
+                "verb": "focuses",
+                "stem": "focus",
+                "object": "career"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-54": {
+        "SVO_relationships": [
+            {
+                "subject": "she",
+                "verb": "assists",
+                "stem": "assist",
+                "object": "users"
+            },
+            {
+                "subject": "which",
+                "verb": "won",
+                "stem": "win",
+                "object": "Award"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-56": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "extended",
+                "stem": "extend",
+                "object": "tenure"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-57": {
+        "SVO_relationships": [
+            {
+                "subject": "he",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "support"
+            },
+            {
+                "subject": "II",
+                "verb": "fork",
+                "stem": "fork",
+                "object": "trucks"
+            },
+            {
+                "subject": "GPO",
+                "verb": "required",
+                "stem": "require",
+                "object": "services"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-58": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "send",
+                "stem": "send",
+                "object": "truck"
+            },
+            {
+                "subject": "he",
+                "verb": "revealed",
+                "stem": "reveal",
+                "object": "connection"
+            },
+            {
+                "subject": "he",
+                "verb": "begun",
+                "stem": "begin",
+                "object": "work"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-59": {
+        "SVO_relationships": [
+            {
+                "subject": "Chambers",
+                "verb": "read",
+                "stem": "read",
+                "object": "manual"
+            },
+            {
+                "subject": "Chambers",
+                "verb": "trained",
+                "stem": "train",
+                "object": "coworkers"
+            },
+            {
+                "subject": "I",
+                "verb": "doing",
+                "stem": "do",
+                "object": "what"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-60": {
+        "SVO_relationships": [
+            {
+                "subject": "native",
+                "verb": "holds",
+                "stem": "hold",
+                "object": "Master"
+            },
+            {
+                "subject": "that",
+                "verb": "guide",
+                "stem": "guide",
+                "object": "operation"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-61": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "use",
+                "stem": "use",
+                "object": "computer"
+            },
+            {
+                "subject": "He",
+                "verb": "learned",
+                "stem": "learn",
+                "object": "lot"
+            },
+            {
+                "subject": "Chambers",
+                "verb": "produced",
+                "stem": "produce",
+                "object": "reports"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-62": {
+        "SVO_relationships": [
+            {
+                "subject": "me",
+                "verb": "utilize",
+                "stem": "utilize",
+                "object": "skills"
+            },
+            {
+                "subject": "I",
+                "verb": "had",
+                "stem": "have",
+                "object": "supervisors"
+            },
+            {
+                "subject": "who",
+                "verb": "recognized",
+                "stem": "recognize",
+                "object": "potential"
+            },
+            {
+                "subject": "Chambers",
+                "verb": "began",
+                "stem": "begin",
+                "object": "position"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "New-63": {
+        "SVO_relationships": [
+            {
+                "subject": "We",
+                "verb": "used",
+                "stem": "use",
+                "object": "typewriters"
+            },
+            {
+                "subject": "he",
+                "verb": "get",
+                "stem": "get",
+                "object": "budget"
+            },
+            {
+                "subject": "he",
+                "verb": "do",
+                "stem": "do",
+                "object": "what"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-64": {
+        "SVO_relationships": [
+            {
+                "subject": "Chambers",
+                "verb": "had",
+                "stem": "have",
+                "object": "opportunity"
+            },
+            {
+                "subject": "Grennon",
+                "verb": "trained",
+                "stem": "train",
+                "object": "Chambers"
+            },
+            {
+                "subject": "Chambers",
+                "verb": "credits",
+                "stem": "credit",
+                "object": "supervisor"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-65": {
+        "SVO_relationships": [
+            {
+                "subject": "that",
+                "verb": "unleashed",
+                "stem": "unleash",
+                "object": "potential"
+            },
+            {
+                "subject": "Bill",
+                "verb": "encouraged",
+                "stem": "encourage",
+                "object": "me"
+            },
+            {
+                "subject": "IT",
+                "verb": "trained",
+                "stem": "train",
+                "object": "him"
+            },
+            {
+                "subject": "he",
+                "verb": "developed",
+                "stem": "develop",
+                "object": "notes"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "New-66": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "had",
+                "stem": "have",
+                "object": "pleasure"
+            },
+            {
+                "subject": "He",
+                "verb": "embraces",
+                "stem": "embrace",
+                "object": "concept"
+            },
+            {
+                "subject": "He",
+                "verb": "trained",
+                "stem": "train",
+                "object": "employees"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-67": {
+        "SVO_relationships": [
+            {
+                "subject": "he",
+                "verb": "upgraded",
+                "stem": "upgrade",
+                "object": "computers"
+            },
+            {
+                "subject": "he",
+                "verb": "continued",
+                "stem": "continue",
+                "object": "work"
+            },
+            {
+                "subject": "GPO",
+                "verb": "reduced",
+                "stem": "reduce",
+                "object": "amount"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-68": {
+        "SVO_relationships": [
+            {
+                "subject": "He",
+                "verb": "keeps",
+                "stem": "keep",
+                "object": "team"
+            },
+            {
+                "subject": "he",
+                "verb": "uploads",
+                "stem": "upload",
+                "object": "files"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-69": {
+        "SVO_relationships": [
+            {
+                "subject": "They",
+                "verb": "have",
+                "stem": "have",
+                "object": "sons"
+            },
+            {
+                "subject": "dad",
+                "verb": "had",
+                "stem": "have",
+                "object": "connection"
+            },
+            {
+                "subject": "cars",
+                "verb": "fork",
+                "stem": "fork",
+                "object": "trucks"
+            },
+            {
+                "subject": "GPO",
+                "verb": "required",
+                "stem": "require",
+                "object": "services"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "New-70": {
+        "SVO_relationships": [
+            {
+                "subject": "he",
+                "verb": "revealed",
+                "stem": "reveal",
+                "object": "connection"
+            },
+            {
+                "subject": "he",
+                "verb": "begun",
+                "stem": "begin",
+                "object": "work"
+            },
+            {
+                "subject": "I",
+                "verb": "enjoy",
+                "stem": "enjoy",
+                "object": "work"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-71": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "know",
+                "stem": "know",
+                "object": "that"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-72": {
+        "SVO_relationships": [
+            {
+                "subject": "Office",
+                "verb": "kicked",
+                "stem": "kick",
+                "object": "Initiative"
+            },
+            {
+                "subject": "teammates",
+                "verb": "visit",
+                "stem": "visit",
+                "object": "libraries"
+            },
+            {
+                "subject": "GPO",
+                "verb": "selected",
+                "stem": "select",
+                "object": "Library"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-73": {
+        "SVO_relationships": [
+            {
+                "subject": "us",
+                "verb": "deliver",
+                "stem": "deliver",
+                "object": "information"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-74": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "digitize",
+                "stem": "digitize",
+                "object": "publications"
+            },
+            {
+                "subject": "GPO",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "selections"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-75": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "soliciting",
+                "stem": "solicit",
+                "object": "comments"
+            },
+            {
+                "subject": "Director",
+                "verb": "welcomes",
+                "stem": "welcome",
+                "object": "comments"
+            },
+            {
+                "subject": "Agency",
+                "verb": "review",
+                "stem": "review",
+                "object": "comments"
+            },
+            {
+                "subject": "it",
+                "verb": "finalizes",
+                "stem": "finalize",
+                "object": "plan"
+            },
+            {
+                "subject": "plan",
+                "verb": "proposes",
+                "stem": "propose",
+                "object": "updates"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "New-76": {
+        "SVO_relationships": [
+            {
+                "subject": "plan",
+                "verb": "represents",
+                "stem": "represent",
+                "object": "what"
+            },
+            {
+                "subject": "that",
+                "verb": "recognizes",
+                "stem": "recognize",
+                "object": "present"
+            },
+            {
+                "subject": "We",
+                "verb": "welcome",
+                "stem": "welcome",
+                "object": "comments"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-78": {
+        "SVO_relationships": [
+            {
+                "subject": "Hall",
+                "verb": "informed",
+                "stem": "inform",
+                "object": "Office"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-79": {
+        "SVO_relationships": [
+            {
+                "subject": "Laurie",
+                "verb": "joined",
+                "stem": "join",
+                "object": "team"
+            },
+            {
+                "subject": "I",
+                "verb": "support",
+                "stem": "support",
+                "object": "decision"
+            },
+            {
+                "subject": "We",
+                "verb": "begin",
+                "stem": "begin",
+                "object": "search"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-80": {
+        "SVO_relationships": [
+            {
+                "subject": "community",
+                "verb": "continued",
+                "stem": "continue",
+                "object": "access"
+            },
+            {
+                "subject": "I",
+                "verb": "joined",
+                "stem": "join",
+                "object": "GPO"
+            },
+            {
+                "subject": "public",
+                "verb": "use",
+                "stem": "use",
+                "object": "devices"
+            },
+            {
+                "subject": "I",
+                "verb": "appreciate",
+                "stem": "appreciate",
+                "object": "Halpern"
+            },
+            {
+                "subject": "me",
+                "verb": "hand",
+                "stem": "hand",
+                "object": "baton"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "New-81": {
+        "SVO_relationships": [
+            {
+                "subject": "Crandall",
+                "verb": "held",
+                "stem": "hold",
+                "object": "position"
+            },
+            {
+                "subject": "incumbent",
+                "verb": "leads",
+                "stem": "lead",
+                "object": "GPO"
+            },
+            {
+                "subject": "Superintendent",
+                "verb": "focuses",
+                "stem": "focus",
+                "object": "efforts"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-82": {
+        "SVO_relationships": [
+            {
+                "subject": "Beth",
+                "verb": "lead",
+                "stem": "lead",
+                "object": "team"
+            },
+            {
+                "subject": "I",
+                "verb": "congratulate",
+                "stem": "congratulate",
+                "object": "Beth"
+            },
+            {
+                "subject": "Shearer",
+                "verb": "began",
+                "stem": "begin",
+                "object": "career"
+            },
+            {
+                "subject": "she",
+                "verb": "gained",
+                "stem": "gain",
+                "object": "experience"
+            },
+            {
+                "subject": "Beth",
+                "verb": "held",
+                "stem": "hold",
+                "object": "positions"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "New-83": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "joined",
+                "stem": "join",
+                "object": "Department"
+            },
+            {
+                "subject": "Director",
+                "verb": "led",
+                "stem": "lead",
+                "object": "effort"
+            },
+            {
+                "subject": "GPO",
+                "verb": "implement",
+                "stem": "implement",
+                "object": "telework"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-84": {
+        "SVO_relationships": [
+            {
+                "subject": "I",
+                "verb": "known",
+                "stem": "know",
+                "object": "what"
+            },
+            {
+                "subject": "customers",
+                "verb": "have",
+                "stem": "have",
+                "object": "experience"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-85": {
+        "SVO_relationships": [
+            {
+                "subject": "award",
+                "verb": "validates",
+                "stem": "validate",
+                "object": "efforts"
+            },
+            {
+                "subject": "Forbes",
+                "verb": "selected",
+                "stem": "select",
+                "object": "GPO"
+            },
+            {
+                "subject": "survey",
+                "verb": "evaluated",
+                "stem": "evaluate",
+                "object": "employers"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-86": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "appointed",
+                "stem": "appoint",
+                "object": "force"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "charging",
+                "stem": "charge",
+                "object": "Force"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-87": {
+        "SVO_relationships": [
+            {
+                "subject": "This",
+                "verb": "include",
+                "stem": "include",
+                "object": "examination"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-88": {
+        "SVO_relationships": [
+            {
+                "subject": "It",
+                "verb": "deliver",
+                "stem": "deliver",
+                "object": "report"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-89": {
+        "SVO_relationships": [
+            {
+                "subject": "force",
+                "verb": "investigate",
+                "stem": "investigate",
+                "object": "model"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "named",
+                "stem": "name",
+                "object": "Hendricks"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-90": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "resolution"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-91": {
+        "SVO_relationships": [
+            {
+                "subject": "Hendricks",
+                "verb": "brings",
+                "stem": "bring",
+                "object": "decades"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-92": {
+        "SVO_relationships": [
+            {
+                "subject": "She",
+                "verb": "joined",
+                "stem": "join",
+                "object": "GPO"
+            },
+            {
+                "subject": "she",
+                "verb": "earned",
+                "stem": "earn",
+                "object": "Degree"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-93": {
+        "SVO_relationships": [
+            {
+                "subject": "Goubet",
+                "verb": "built",
+                "stem": "build",
+                "object": "cake"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-94": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "offered",
+                "stem": "offer",
+                "object": "insights"
+            },
+            {
+                "subject": "who",
+                "verb": "spent",
+                "stem": "spend",
+                "object": "decades"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-95": {
+        "SVO_relationships": [
+            {
+                "subject": "experience",
+                "verb": "gives",
+                "stem": "give",
+                "object": "me"
+            },
+            {
+                "subject": "product",
+                "verb": "match",
+                "stem": "match",
+                "object": "manuscript"
+            },
+            {
+                "subject": "GPO",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "files"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-96": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "makes",
+                "stem": "make",
+                "object": "changes"
+            },
+            {
+                "subject": "process",
+                "verb": "prepares",
+                "stem": "prepare",
+                "object": "files"
+            },
+            {
+                "subject": "plant",
+                "verb": "produces",
+                "stem": "produce",
+                "object": "copies"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-97": {
+        "SVO_relationships": [
+            {
+                "subject": "Libraries",
+                "verb": "expands",
+                "stem": "expand",
+                "object": "agreement"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-98": {
+        "SVO_relationships": [
+            {
+                "subject": "Libraries",
+                "verb": "preserve",
+                "stem": "preserve",
+                "object": "following"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-99": {
+        "SVO_relationships": [
+            {
+                "subject": "collection",
+                "verb": "includes",
+                "stem": "include",
+                "object": "types"
+            },
+            {
+                "subject": "we",
+                "verb": "select",
+                "stem": "select",
+                "object": "%"
+            }
+        ],
+        "total_SVOs": 2
+    }
+}

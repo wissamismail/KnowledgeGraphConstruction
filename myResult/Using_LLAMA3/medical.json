@@ -1,0 +1,2273 @@
+{
+  "med-1": {
+    "SVO_relationships": [
+      {
+        "subject": "ventriculo-venous shunts",
+        "verb": "has been presented",
+        "stem": "present",
+        "object": "review"
+      },
+      {
+        "subject": "we",
+        "verb": "have discussed",
+        "stem": "discuss",
+        "object": "shunt complications and revisions"
+      },
+      {
+        "subject": "the overall",
+        "verb": "is",
+        "stem": "be",
+        "object": "survival rate"
+      },
+      {
+        "subject": "the major cause",
+        "verb": "has been",
+        "stem": "be",
+        "object": "infection"
+      },
+      {
+        "subject": "our experience",
+        "verb": "supports",
+        "stem": "support",
+        "object": "spontaneous arrest observation"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-2": {
+    "SVO_relationships": [
+      {
+        "subject": "otologic care",
+        "verb": "was to review",
+        "stem": "review",
+        "object": "ear pathology"
+      },
+      {
+        "subject": "the purpose of this study",
+        "verb": "was",
+        "stem": "be",
+        "object": "to review ear pathology in 480 patients"
+      },
+      {
+        "subject": "despite concern over speech regression",
+        "verb": "was carried out",
+        "stem": "carry out",
+        "object": "tonsil and adenoid surgery on 66 of these patients"
+      },
+      {
+        "subject": "this was accomplished",
+        "verb": "was",
+        "stem": "be",
+        "object": "with considerable overall improvement"
+      },
+      {
+        "subject": "sixteen cases",
+        "verb": "had exact documentation of results by virtue of",
+        "stem": "have",
+        "object": "speech recording and accurate audiometric records"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-3": {
+    "SVO_relationships": [
+      {
+        "subject": "evoked response",
+        "verb": "have been recorded",
+        "stem": "record",
+        "object": "from eyelid and lateral occipital electrodes"
+      },
+      {
+        "subject": "ver",
+        "verb": "was found",
+        "stem": "find",
+        "object": "to be composed of an early triphasic potential"
+      },
+      {
+        "subject": "wave I",
+        "verb": "was present",
+        "stem": "be present",
+        "object": "in 67 percent of subjects"
+      },
+      {
+        "subject": "wave II",
+        "verb": "was found",
+        "stem": "find",
+        "object": "to be in 97 percent of subjects"
+      },
+      {
+        "subject": "wave III",
+        "verb": "was present",
+        "stem": "be present",
+        "object": "in 100 percent of subjects"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-4": {
+    "SVO_relationships": [
+      {
+        "subject": "Suicide",
+        "verb": "is",
+        "stem": "be",
+        "object": "a major public health problem and a cause of premature mortality"
+      },
+      {
+        "subject": "research",
+        "verb": "has been devoted",
+        "stem": "devote",
+        "object": "to the determinants of suicide"
+      },
+      {
+        "subject": "social environment",
+        "verb": "has also been studied",
+        "stem": "study",
+        "object": "social isolation"
+      },
+      {
+        "subject": "this paper",
+        "verb": "examines",
+        "stem": "examine",
+        "object": "the social dimension"
+      },
+      {
+        "subject": "evoked response",
+        "verb": "have been recorded",
+        "stem": "record",
+        "object": "from visual disorders"
+      },
+      {
+        "subject": "ver",
+        "verb": "was found",
+        "stem": "find",
+        "object": "to be composed of an early triphasic potential"
+      },
+      {
+        "subject": "wave I",
+        "verb": "was present",
+        "stem": "be present",
+        "object": "in 67 percent of subjects"
+      },
+      {
+        "subject": "wave II",
+        "verb": "was found",
+        "stem": "find",
+        "object": "to be in 97 percent of subjects"
+      },
+      {
+        "subject": "wave III",
+        "verb": "was present",
+        "stem": "be present",
+        "object": "in 100 percent of subjects"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "med-5": {
+    "SVO_relationships": [
+      {
+        "subject": "cardiac performance",
+        "verb": "has been studied",
+        "stem": "study",
+        "object": "in hypothermia"
+      },
+      {
+        "subject": "leftventricular power",
+        "verb": "has been measured",
+        "stem": "measure",
+        "object": "in dogs cooled to 20 c"
+      },
+      {
+        "subject": "oxygen consumption",
+        "verb": "has been measured",
+        "stem": "measure",
+        "object": "in dogsmultiple cardiac parameters have been measured in 30 dogs cooled to 20 c"
+      },
+      {
+        "subject": "efficiency",
+        "verb": "has been measured",
+        "stem": "measure",
+        "object": "in dogsmultiple cardiac parameters have been measured in 30 dogs cooled to 20 c"
+      },
+      {
+        "subject": "parameters",
+        "verb": "have been expressed",
+        "stem": "express",
+        "object": "both as absolute values and as percentages of normothermic values"
+      },
+      {
+        "subject": "normothermia",
+        "verb": "had",
+        "stem": "have",
+        "object": "dogs with closed chest"
+      },
+      {
+        "subject": "ascending aorta flow",
+        "verb": "was reduced",
+        "stem": "reduce",
+        "object": "to 25% of normothermic level at 20 c"
+      },
+      {
+        "subject": "left circumflex coronary artery flow",
+        "verb": "was reduced",
+        "stem": "reduce",
+        "object": "to 25% of normothermic level at 20 c"
+      },
+      {
+        "subject": "aortic arch mean pressure",
+        "verb": "was reduced",
+        "stem": "reduce",
+        "object": "to 50% of normothermic level at 20 c"
+      },
+      {
+        "subject": "total peripheral resistance",
+        "verb": "was increased",
+        "stem": "increase",
+        "object": "to 205% of normothermic level at 20 c"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "med-6": {
+    "SVO_relationships": [
+      {
+        "subject": "lymphomas",
+        "verb": "were observed",
+        "stem": "observe",
+        "object": "of African children during 1963"
+      },
+      {
+        "subject": "cytopathogenic, filtrable agents",
+        "verb": "were frequently encountered",
+        "stem": "encounter",
+        "object": "in cultures of embryonic human kidney cells "
+      },
+      {
+        "subject": "amnion cultures",
+        "verb": "had been exposed to",
+        "stem": "expose",
+        "object": "extracts of tumors and other specimens from East African children with malignant lymphomas"
+      },
+      {
+        "subject": "results",
+        "verb": "seemed noteworthy",
+        "stem": "note",
+        "object": "because they suggested an intimate association"
+      },
+      {
+        "subject": "agents",
+        "verb": "suggested an intimate association",
+        "stem": "suggest",
+        "object": "between the agents and the disease"
+      },
+      {
+        "subject": "isolations",
+        "verb": "involved two phenomena",
+        "stem": "involve",
+        "object": "an initial induction of a peculiar spindling and twisting of the amnion cells"
+      },
+      {
+        "subject": "amnion cells",
+        "verb": "were induced",
+        "stem": "induce",
+        "object": "to a peculiar spindling and twisting"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "med-7": {
+    "SVO_relationships": [
+      {
+        "subject": "central arteriovenous shunts",
+        "verb": "were studied",
+        "stem": "study",
+        "object": "by precordial recording of radioalbumin dilution curves"
+      },
+      {
+        "subject": "precordial dilution curves",
+        "verb": "were studied",
+        "stem": "study",
+        "object": "of 185 patients"
+      },
+      {
+        "subject": "collimation",
+        "verb": "was not used",
+        "stem": "not use",
+        "object": "allowing only minimal quantities of radioactive material to be utilized"
+      },
+      {
+        "subject": "radioactive material",
+        "verb": "was utilized",
+        "stem": "utilize",
+        "object": "in the range of 0.5-2.2 uc. of I 131-tagged albumin"
+      },
+      {
+        "subject": "precordial focusing zone",
+        "verb": "was a critical factor",
+        "stem": "be critical",
+        "object": "in this technique"
+      },
+      {
+        "subject": "different discrimination factors",
+        "verb": "made possible the diagnosis",
+        "stem": "make possible",
+        "object": "in 46 of the 48 patients with shunts, using an index proposed here"
+      },
+      {
+        "subject": "method",
+        "verb": "was shown to be as sensitive",
+        "stem": "be sensitive",
+        "object": "as classical oximetry done during cardiac catheterization"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "med-8": {
+    "SVO_relationships": [
+      {
+        "subject": "statistically determined criterion",
+        "verb": "successfully identifies",
+        "stem": "identify",
+        "object": "most patients with hemianopic "
+      },
+      {
+        "subject": "wave II",
+        "verb": "successfully identifies",
+        "stem": "identify",
+        "object": "patients with hemianopic defects"
+      },
+      {
+        "subject": "latency asymmetry",
+        "verb": "is seen",
+        "stem": "see",
+        "object": "in some patients "
+      },
+      {
+        "subject": "aberrant wave forms",
+        "verb": "are seen",
+        "stem": "see",
+        "object": "in some patients with diffuse cerebral disease and hemianopic defects"
+      },
+      {
+        "subject": "severe or diffuse retinal disease",
+        "verb": "is associated with",
+        "stem": "associate",
+        "object": "alteration or loss of ERG and VER on stimulation of the involved eye"
+      },
+      {
+        "subject": "optic nerve disease",
+        "verb": "is indicated by",
+        "stem": "indicate",
+        "object": "bilateral loss or suppression of VER on stimulation of the involved eye, with normal ERG"
+      },
+      {
+        "subject": "bilateral prechiasmal involvement",
+        "verb": "is associated with",
+        "stem": "associate",
+        "object": "complete suppression of VER"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "med-9": {
+    "SVO_relationships": [
+      {
+        "subject": "experiments",
+        "verb": "contribute",
+        "stem": "contribute",
+        "object": "to prenatal growth in Rathypophyseoprivus"
+      },
+      {
+        "subject": "somatotrophin",
+        "verb": "induce",
+        "stem": "induce",
+        "object": "prenatal growth in fetal rat by decapitating the fetus in utero, retarding fetal growth"
+      },
+      {
+        "subject": "injected somatotrophin",
+        "verb": "prevent",
+        "stem": "prevent",
+        "object": "the effect of decapitation on fetal growth"
+      },
+      {
+        "subject": "fetal somatotrophin",
+        "verb": "govern",
+        "stem": "govern",
+        "object": "prenatal growth in part, shortly before birth in the normal rat"
+      },
+      {
+        "subject": "complete hypophysectomy",
+        "verb": "retard",
+        "stem": "retard",
+        "object": "fetal growth of a pregnant rat"
+      },
+      {
+        "subject": "combined hypophysectomy",
+        "verb": "retard",
+        "stem": "retard",
+        "object": "fetal growth"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "med-10": {
+    "SVO_relationships": [
+      {
+        "subject": "systemic hypothermia",
+        "verb": "induce",
+        "stem": "induce",
+        "object": "via gastric cooling in eight dogs"
+      },
+      {
+        "subject": "each dog",
+        "verb": "cool",
+        "stem": "cool",
+        "object": "with the balloon "
+      },
+      {
+        "subject": "latter procedure",
+        "verb": "be",
+        "stem": "be",
+        "object": "more efficient, averaging 2.6 times as rapid for all degrees of hypothermia"
+      },
+      {
+        "subject": "decrease in core temperature",
+        "verb": "require",
+        "stem": "require",
+        "object": "an average of only 28.4 minutes to achieve a decrease by 7°C"
+      },
+      {
+        "subject": "gastric cooling",
+        "verb": "induce",
+        "stem": "induce",
+        "object": "systemic hypothermia in eight dogs"
+      },
+      {
+        "subject": "usual gastric cooling",
+        "verb": "note",
+        "stem": "note",
+        "object": "an improved efficiency of two-fold to three-fold"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "med-11": {
+    "SVO_relationships": [
+      {
+        "subject": "growth hormone",
+        "verb": "influence",
+        "stem": "influence",
+        "object": "protein, fat, carbohydrate, and mineral metabolism"
+      },
+      {
+        "subject": "growth hormone",
+        "verb": "promote",
+        "stem": "promote",
+        "object": "nitrogen retention"
+      },
+      {
+        "subject": "growth hormone",
+        "verb": "mobilize",
+        "stem": "mobilize",
+        "object": "free fatty acids from adipose tissue"
+      },
+      {
+        "subject": "growth hormone",
+        "verb": "increase",
+        "stem": "increase",
+        "object": "serum concentration of free fatty acids"
+      },
+      {
+        "subject": "long-term administration of growth hormone",
+        "verb": "follow",
+        "stem": "follow",
+        "object": "depletion of body fat stores and inhibition of fatty acid synthesis"
+      },
+      {
+        "subject": "growth hormone administration",
+        "verb": "be followed by",
+        "stem": "be followed by",
+        "object": "hyperglycemia, glycosuria, and ketosis in diabetic subjects"
+      },
+      {
+        "subject": "growth hormone administration",
+        "verb": "have an effect on",
+        "stem": "have an effect on",
+        "object": "carbohydrate metabolism in normal subjects"
+      },
+      {
+        "subject": "growth hormone administration",
+        "verb": "retain",
+        "stem": "retain",
+        "object": "sodium, potassium, and inorganic phosphate"
+      },
+      {
+        "subject": "growth hormone treatment",
+        "verb": "accompany",
+        "stem": "accompany",
+        "object": "hypercalciuria, an effect mediated through the parathyroid glands"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "med-12": {
+    "SVO_relationships": [
+      {
+        "subject": "immunopathologic changes",
+        "verb": "occur",
+        "stem": "occur",
+        "object": "in rheumatoid arthritis synovium"
+      },
+      {
+        "subject": "synovial tissue",
+        "verb": "examine",
+        "stem": "examine",
+        "object": "for localization of immunoglobulinss"
+      },
+      {
+        "subject": "three cases",
+        "verb": "have",
+        "stem": "have",
+        "object": "C' and immunoglobulins within the cytoplasm of synovial cells"
+      },
+      {
+        "subject": "four cases",
+        "verb": "have",
+        "stem": "have",
+        "object": "discrete localization within the connective tissue stroma"
+      },
+      {
+        "subject": "remaining 7 cases",
+        "verb": "demonstrate",
+        "stem": "demonstrate",
+        "object": "larger, more weakly staining collections which were found more diffusely throughout the synovium"
+      },
+      {
+        "subject": "immunoglobulin and complement localization",
+        "verb": "not be present in",
+        "stem": "not be present in",
+        "object": "10 out of 11 additional patients with forms of joint disease other than rheumatoid arthritis"
+      },
+      {
+        "subject": "results",
+        "verb": "correlate",
+        "stem": "correlate",
+        "object": "with the clinical findings and joint fluid C' assays"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "med-13": {
+    "SVO_relationships": [
+      {
+        "subject": "klinik der polyarthrosen",
+        "verb": "discuss",
+        "stem": "discuss",
+        "object": "among the degenerative affections of joints"
+      },
+      {
+        "subject": "arthrosis of the fingers with Heberden nodes",
+        "verb": "have symptoms",
+        "stem": "have symptoms",
+        "object": "of joint affections"
+      },
+      {
+        "subject": "Bouchard-nodes of interdigital joints",
+        "verb": "have symptoms",
+        "stem": "have symptoms",
+        "object": "of joint affections"
+      },
+      {
+        "subject": "polyarthrosis",
+        "verb": "be discussed",
+        "stem": "be discussed",
+        "object": "by Coe and Forestier, and by LFB too"
+      },
+      {
+        "subject": "arthropathies of chronic gout",
+        "verb": "be discussed more thoroughly",
+        "stem": "be discussed more thoroughly",
+        "object": ""
+      },
+      {
+        "subject": "rare conditions",
+        "verb": "be mentioned",
+        "stem": "be mentioned",
+        "object": "such as arthrotic changes in hemophilia, psoriasis and metabolic disorders"
+      },
+      {
+        "subject": "degenerative diseases",
+        "verb": "be differentiated from",
+        "stem": "be differentiated from",
+        "object": "inflammatory diseases"
+      },
+      {
+        "subject": "gout",
+        "verb": "occur more often",
+        "stem": "occur more often",
+        "object": "in our days than some years ago"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "med-14": {
+    "SVO_relationships": [
+      {
+        "subject": "nicl2",
+        "verb": "have an effect on",
+        "stem": "have an effect on",
+        "object": "an isolated Ranvier node"
+      },
+      {
+        "subject": "extreme prolongation of the nodal potential",
+        "verb": "be explained by",
+        "stem": "be explained by",
+        "object": "0.1-1.0 mm nicl2 in terms of the ionic theory"
+      },
+      {
+        "subject": "effects of nicl2 at room temperature",
+        "verb": "be similar to",
+        "stem": "be similar to",
+        "object": "those of temperature reduction"
+      },
+      {
+        "subject": "nicl2",
+        "verb": "decrease",
+        "stem": "decrease",
+        "object": "maximum rate of rise of the action potential"
+      },
+      {
+        "subject": "nicl2",
+        "verb": "lengthen",
+        "stem": "lengthen",
+        "object": "action potential duration"
+      },
+      {
+        "subject": "nicl2",
+        "verb": "elevate",
+        "stem": "elevate",
+        "object": "threshold"
+      },
+      {
+        "subject": "nicl2",
+        "verb": "increase",
+        "stem": "increase",
+        "object": "tendency for repetitive activity"
+      },
+      {
+        "subject": "nicl2",
+        "verb": "slightly increase",
+        "stem": "slightly increase",
+        "object": "amplitude of the action potential"
+      },
+      {
+        "subject": "long-lasting plateaus of the responses",
+        "verb": "be shortened by",
+        "stem": "be shortened by",
+        "object": "cathodal polarization, strong anodal polarization and decrease of (Na)0"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "med-15": {
+    "SVO_relationships": [
+      {
+        "subject": "selelium",
+        "verb": "have an effect on",
+        "stem": "have an effect on",
+        "object": "the upper respiratory passages"
+      },
+      {
+        "subject": "results",
+        "verb": "be reported of",
+        "stem": "be reported of",
+        "object": "examination of workers exposed to selenium"
+      },
+      {
+        "subject": "findings",
+        "verb": "be the same as",
+        "stem": "be the same as",
+        "object": "reported in the literature"
+      },
+      {
+        "subject": "teleangiectasias",
+        "verb": "occur on",
+        "stem": "occur on",
+        "object": "the uvula, posterior palatinal arcs and epiglottis"
+      },
+      {
+        "subject": "poisoning with selenium xyde",
+        "verb": "be reported as the first in this country",
+        "stem": "be reported as the first in this country",
+        "object": ""
+      },
+      {
+        "subject": "poisoning",
+        "verb": "heal within a few days under",
+        "stem": "heal within a few days under",
+        "object": "symptomatic treatment"
+      },
+      {
+        "subject": "patient",
+        "verb": "have to be transferred into another shop owing to",
+        "stem": "have to be transferred into another shop owing to",
+        "object": "frequent symptoms due to toxic effect of selenium"
+      },
+      {
+        "subject": "results",
+        "verb": "be reported also on",
+        "stem": "be reported also on",
+        "object": "secondary findings in examination of chronic changes"
+      },
+      {
+        "subject": "finding",
+        "verb": "be emphasized particularly as",
+        "stem": "be emphasized particularly as",
+        "object": "professional selenium external otitis"
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "med-16": {
+    "SVO_relationships": [
+      {
+        "subject": "changes in weight and adenosine triphosphate content",
+        "verb": "occur in",
+        "stem": "occur in",
+        "object": "the lens of the xylose-fed rat"
+      },
+      {
+        "subject": "xylitol and sorbitol",
+        "verb": "accumulate in",
+        "stem": "accumulate in",
+        "object": "the lens of the xylose-fed rat, two days before loss of adenosine triphosphate and cataractous changes"
+      },
+      {
+        "subject": "maximum degree of cataract",
+        "verb": "occur when the level of the polyols is at its highest",
+        "stem": "occur when the level of the polyols is at its highest",
+        "object": ""
+      },
+      {
+        "subject": "regression of cataract",
+        "verb": "be accompanied by",
+        "stem": "be accompanied by",
+        "object": "decrease in polyol concentration and restoration of the level of ATP"
+      },
+      {
+        "subject": "lens of the xylose-fed rat",
+        "verb": "not usually increase in weight",
+        "stem": "not usually increase in weight",
+        "object": ""
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-17": {
+    "SVO_relationships": [
+      {
+        "subject": "radiotherapy",
+        "verb": "be used for",
+        "stem": "be used for",
+        "object": "malignant rectal and anal tumors"
+      },
+      {
+        "subject": "methods and results",
+        "verb": "be given of the treatment",
+        "stem": "be given of the treatment",
+        "object": "in 271 cases"
+      },
+      {
+        "subject": "results",
+        "verb": "be given of the treatment",
+        "stem": "be given of the treatment",
+        "object": "of 271 patients"
+      },
+      {
+        "subject": "surgical treatment",
+        "verb": "have a survey of the literature made by",
+        "stem": "have a survey of the literature made by",
+        "object": "Reifferscheid"
+      },
+      {
+        "subject": "surgical treatment",
+        "verb": "have a survey of the literature made by",
+        "stem": "have a survey of the literature made by",
+        "object": "Guleke"
+      },
+      {
+        "subject": "surgical treatment",
+        "verb": "have a survey of the literature made by",
+        "stem": "have a survey of the literature made by",
+        "object": "Ottenheimer"
+      },
+      {
+        "subject": "patients",
+        "verb": "receive irradiation after",
+        "stem": "receive irradiation after",
+        "object": "questionable radical surgery"
+      },
+      {
+        "subject": "patients",
+        "verb": "receive palliative irradiation after",
+        "stem": "receive palliative irradiation after",
+        "object": "palliative surgery"
+      },
+      {
+        "subject": "patients",
+        "verb": "receive irradiation because of",
+        "stem": "receive irradiation because of",
+        "object": "recurrence after apparent radical surgery"
+      },
+      {
+        "subject": "patients",
+        "verb": "receive irradiation because of",
+        "stem": "receive irradiation because of",
+        "object": "metastases after apparent radical surgery"
+      }
+    ],
+    "total_SVOs": 11
+  },
+  "med-18": {
+    "SVO_relationships": [
+      {
+        "subject": "occurrence of biologic crystals",
+        "verb": "occur ",
+        "stem": "occur ",
+        "object": "in tumor cultures"
+      },
+      {
+        "subject": "crystalline structures",
+        "verb": "be found in",
+        "stem": "be found in",
+        "object": "primary tissue cultures of neoplastic tissues"
+      },
+      {
+        "subject": "crystals",
+        "verb": "be found in varying incidence in",
+        "stem": "be found in varying incidence in",
+        "object": "cultures of several other tissues"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "med-19": {
+    "SVO_relationships": [
+      {
+        "subject": "LECITHIN thin-layer-chromatographic examinations",
+        "verb": "showed",
+        "stem": "show",
+        "object": "different rise of the triglycerides"
+      },
+      {
+        "subject": "thin-layer-chromatographic examinations",
+        "verb": "showed",
+        "stem": "show",
+        "object": "different rise of the triglycerides"
+      },
+      {
+        "subject": "FRACTIONS thin-layer-chromatographic examinations",
+        "verb": "showed",
+        "stem": "show",
+        "object": "different rise of the triglycerides"
+      },
+      {
+        "subject": "the fractions examined",
+        "verb": "had no striking changes in the content of",
+        "stem": "have no striking changes in the content of",
+        "object": "free cholesterol and lipid phosphorus"
+      },
+      {
+        "subject": "PLACENTA CORRESPOND",
+        "verb": "correspond to",
+        "stem": "correspond to",
+        "object": "phospholipid- and triglyceride concentrations of the placenta"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-20": {
+    "SVO_relationships": [
+      {
+        "subject": "insulin",
+        "verb": "requires",
+        "stem": "require",
+        "object": "reliable information"
+      },
+      {
+        "subject": "we",
+        "verb": "deal with",
+        "stem": "deal with",
+        "object": "problems"
+      },
+      {
+        "subject": "many useful hints",
+        "verb": "flow out of",
+        "stem": "flow out of",
+        "object": "the nature of the molecule"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "med-21": {
+    "SVO_relationships": [
+      {
+        "subject": "the distinction",
+        "verb": "was made",
+        "stem": "make",
+        "object": "between"
+      },
+      {
+        "subject": "a brief review",
+        "verb": "was undertaken",
+        "stem": "undertake",
+        "object": "studies"
+      },
+      {
+        "subject": "it",
+        "verb": "was postulated",
+        "stem": "postulate",
+        "object": "that"
+      },
+      {
+        "subject": "these studies",
+        "verb": "relate",
+        "stem": "relate",
+        "object": "to"
+      },
+      {
+        "subject": "deafness",
+        "verb": "creates",
+        "stem": "create",
+        "object": "telegraphic speech"
+      },
+      {
+        "subject": "the deaf",
+        "verb": "seems",
+        "stem": "seem",
+        "object": "to contain"
+      },
+      {
+        "subject": "the speech of the deaf",
+        "verb": "contains",
+        "stem": "contain",
+        "object": "mostly"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "med-22": {
+    "SVO_relationships": [
+      {
+        "subject": "the simultaneous use",
+        "verb": "uses",
+        "stem": "use",
+        "object": "extracorporal circulation and hypothermia"
+      },
+      {
+        "subject": "the operative technique",
+        "verb": "is described",
+        "stem": "describe",
+        "object": "of cardiac surgery"
+      },
+      {
+        "subject": "the patients",
+        "verb": "were cooled",
+        "stem": "cool",
+        "object": "with water at 2 c."
+      },
+      {
+        "subject": "the perfusion volume",
+        "verb": "was reduced",
+        "stem": "reduce",
+        "object": "by more than 50%"
+      },
+      {
+        "subject": "others",
+        "verb": "maintained",
+        "stem": "maintain",
+        "object": "a gradient of 10 c. between blood and water"
+      },
+      {
+        "subject": "the data presented",
+        "verb": "show",
+        "stem": "show",
+        "object": "that neither technique"
+      },
+      {
+        "subject": "the overall mortality",
+        "verb": "was",
+        "stem": "be",
+        "object": "14.8%"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "med-23": {
+    "SVO_relationships": [
+      {
+        "subject": "compensating kidneys",
+        "verb": "proliferate",
+        "stem": "proliferate",
+        "object": "and synthesize"
+      },
+      {
+        "subject": "compensatory enlargement",
+        "verb": "occurred",
+        "stem": "occur",
+        "object": "of the kidney"
+      },
+      {
+        "subject": "the surviving renal tissue",
+        "verb": "weighed",
+        "stem": "weigh",
+        "object": "23 per cent more than single kidneys from sham-operated animals"
+      },
+      {
+        "subject": "the hyperplastic response",
+        "verb": "was",
+        "stem": "be",
+        "object": "8 times greater than that seen in the same zone of kidneys from sham-operated animals"
+      },
+      {
+        "subject": "the mitotic index",
+        "verb": "returned",
+        "stem": "return",
+        "object": "to control values"
+      },
+      {
+        "subject": "the outer medulla",
+        "verb": "underwent",
+        "stem": "undergo",
+        "object": "hyperplasia"
+      },
+      {
+        "subject": "mitotic activity",
+        "verb": "was found",
+        "stem": "find",
+        "object": "in the inner medulla of surviving kidneys, but it was not statistically significant"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "med-24": {
+    "SVO_relationships": [
+      {
+        "subject": "protein synthesis",
+        "verb": "has been shown",
+        "stem": "show",
+        "object": "to be present in"
+      },
+      {
+        "subject": "polyribosomes",
+        "verb": "have been examined",
+        "stem": "examine",
+        "object": "by electron microscopy"
+      },
+      {
+        "subject": "polyribosomes",
+        "verb": "appear",
+        "stem": "appear",
+        "object": "to be composed of long strands of ribonucleic acid, ranging from 7,000 a to 20,000 a"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "med-25": {
+    "SVO_relationships": [
+      {
+        "subject": "small lymphoid cells",
+        "verb": "appeared",
+        "stem": "appear",
+        "object": "in the bone marrow"
+      },
+      {
+        "subject": "heavily labeled small lymphoid cells",
+        "verb": "increased",
+        "stem": "increase",
+        "object": "in number up to 6 days"
+      },
+      {
+        "subject": "the labeling indices of these cells",
+        "verb": "were",
+        "stem": "be",
+        "object": "significantly lower than those of control marrow"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "med-26": {
+    "SVO_relationships": [
+      {
+        "subject": "purified and concentrated formalin-killed vaccines",
+        "verb": "were prepared",
+        "stem": "prepare",
+        "object": "from M. pneumoniae propagated in serum-free artificial medium"
+      },
+      {
+        "subject": "the vaccines",
+        "verb": "were",
+        "stem": "be",
+        "object": "aqueous or were incorporated in alum or emulsified peanut oil (adjuvant 65)"
+      },
+      {
+        "subject": "two or three different concentrations of M. pneumoniae",
+        "verb": "were included",
+        "stem": "include",
+        "object": "in each preparation"
+      },
+      {
+        "subject": "serum neutralizing and CF antibody responses",
+        "verb": "were measured",
+        "stem": "measure",
+        "object": "in hamsters, monkeys, and in institutionalized persons "
+      },
+      {
+        "subject": "all of the preparations",
+        "verb": "were",
+        "stem": "be",
+        "object": "highly antigenic in animals and in man"
+      },
+      {
+        "subject": "alum vaccines",
+        "verb": "appeared",
+        "stem": "appear",
+        "object": "to give the best results"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "med-27": {
+    "SVO_relationships": [
+      {
+        "subject": "RNA",
+        "verb": "have followed",
+        "stem": "follow",
+        "object": "the evolution of DNA, RNA and PL in the livers of rat foeti "
+      },
+      {
+        "subject": "RAT",
+        "verb": "have followed",
+        "stem": "follow",
+        "object": "the evolution of DNA, RNA and PL in the livers of rat foeti"
+      },
+      {
+        "subject": "GROWTH",
+        "verb": "is",
+        "stem": "be",
+        "object": "a stage of growth through hyperplasia without hypertrophy"
+      },
+      {
+        "subject": "NUCLEIC ACID",
+        "verb": "have followed",
+        "stem": "follow",
+        "object": "changes of the nucleic acid and phospholipid levels of the livers"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "med-28": {
+    "SVO_relationships": [
+      {
+        "subject": "congenital atresia",
+        "verb": "is",
+        "stem": "be",
+        "object": "almost always fatal"
+      },
+      {
+        "subject": "exception",
+        "verb": "becomes",
+        "stem": "become",
+        "object": "of interest"
+      },
+      {
+        "subject": "one such infant",
+        "verb": "was reported",
+        "stem": "report",
+        "object": "in 1960"
+      },
+      {
+        "subject": "he",
+        "verb": "was",
+        "stem": "be",
+        "object": "in good health, developing normally and free of jaundice"
+      },
+      {
+        "subject": "he",
+        "verb": "is",
+        "stem": "be",
+        "object": "still free of jaundice and is again in good health"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-29": {
+    "SVO_relationships": [
+      {
+        "subject": "chlorothiazide",
+        "verb": "was found",
+        "stem": "find",
+        "object": "to decrease urine volume"
+      },
+      {
+        "subject": "chlorothiazide",
+        "verb": "was found",
+        "stem": "find",
+        "object": "and increase urine concentration"
+      },
+      {
+        "subject": "there was",
+        "verb": "no change",
+        "stem": "change",
+        "object": "in GFR"
+      },
+      {
+        "subject": "there was",
+        "verb": "no change",
+        "stem": "change",
+        "object": "in RPF"
+      },
+      {
+        "subject": "there was",
+        "verb": "no change",
+        "stem": "change",
+        "object": "in TMPAH"
+      },
+      {
+        "subject": "the one consistent altered function",
+        "verb": "was",
+        "stem": "be",
+        "object": "a decrease in 'free water' clearance"
+      },
+      {
+        "subject": "diazoxide and mercuhydrin",
+        "verb": "were not",
+        "stem": "not",
+        "object": "antidiuretic"
+      },
+      {
+        "subject": "it is believed",
+        "verb": "that the antidiuretic action is dependent on",
+        "stem": "be dependent on",
+        "object": "chlorothiazide-induced saluresis"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "med-30": {
+    "SVO_relationships": [
+      {
+        "subject": "the mechanism of genetic recombination",
+        "verb": "has been studied",
+        "stem": "study",
+        "object": "in transforming Bacillus subtilis"
+      },
+      {
+        "subject": "the molecular fate",
+        "verb": "has been studied",
+        "stem": "study",
+        "object": "of transforming DNA in competent Bacillus subtilis"
+      },
+      {
+        "subject": "the physical differentiation",
+        "verb": "was effected by",
+        "stem": "effect",
+        "object": "employing the isotopes N and P"
+      },
+      {
+        "subject": "competent bacteria labeled with N and P",
+        "verb": "were allowed",
+        "stem": "allow",
+        "object": "to incorporate N-P-labeled transforming DNA intracellularly"
+      },
+      {
+        "subject": "DNA was isolated",
+        "verb": "from these recipient cells",
+        "stem": "isolate",
+        "object": "and centrifuged in cesium chloride"
+      },
+      {
+        "subject": "the presence of radioactivity",
+        "verb": "was shown",
+        "stem": "show",
+        "object": "in a region of density corresponding to recipient DNA"
+      },
+      {
+        "subject": "material contribution from donor DNA",
+        "verb": "did not occur when",
+        "stem": "not occur",
+        "object": "genetically inert Bacillus cereus DNA was substituted for homologous DNA"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "med-31": {
+    "SVO_relationships": [
+      {
+        "subject": "the distribution of transfused tritiated cytidine-labeled leukocytes and red cells",
+        "verb": "was observed",
+        "stem": "observe",
+        "object": "in the bone marrow of normal and irradiated rat"
+      },
+      {
+        "subject": "labeled nucleated cells, most of which were lymphocyte-like cells",
+        "verb": "readily migrated",
+        "stem": "migrate",
+        "object": "into the marrow parenchyma in normal animals"
+      },
+      {
+        "subject": "following irradiation to at least 27-51 hr.",
+        "verb": "this migration appeared",
+        "stem": "appear",
+        "object": "to be relatively increased"
+      },
+      {
+        "subject": "labeled red cells",
+        "verb": "were rarely observed",
+        "stem": "observe",
+        "object": "to enter parenchyma "
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "med-32": {
+    "SVO_relationships": [
+      {
+        "subject": "the effects of arginine deprivation",
+        "verb": "were studied",
+        "stem": "study",
+        "object": "on cultured KB cells"
+      },
+      {
+        "subject": "cultured KB cells",
+        "verb": "were injured by",
+        "stem": "injure",
+        "object": "one of three agents"
+      },
+      {
+        "subject": "the different agents",
+        "verb": "produced changes in",
+        "stem": "produce",
+        "object": "nucleolar structure and varying accumulations of triglyceride and glycogen"
+      },
+      {
+        "subject": "all three agents",
+        "verb": "produced an increase in",
+        "stem": "increase",
+        "object": "number and size of lysosomes"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "med-33": {
+    "SVO_relationships": [
+      {
+        "subject": "B. subtilis strain NRS 231",
+        "verb": "was found",
+        "stem": "find",
+        "object": "an adequate common host sensitive to all the examined temperate phages"
+      },
+      {
+        "subject": "this strain",
+        "verb": "was found",
+        "stem": "find",
+        "object": "suitable for the titration of subtilis phages"
+      },
+      {
+        "subject": "certain cultural differences",
+        "verb": "have been revealed",
+        "stem": "reveal",
+        "object": "among substrains of B. subtilis 168 ind auxotrophs maintained in various laboratories"
+      },
+      {
+        "subject": "cells in one of these cultures",
+        "verb": "were partly capable and partly incapable",
+        "stem": "be",
+        "object": "of using ammonia"
+      },
+      {
+        "subject": "ammonia assimilation",
+        "verb": "was transducible",
+        "stem": "transduce",
+        "object": "to ammonia negative bacteria"
+      },
+      {
+        "subject": "this finding",
+        "verb": "is probably analogous to that of Seaman et al.",
+        "stem": "be",
+        "object": "concerning PBSX defective phages"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-34": {
+    "SVO_relationships": [
+      {
+        "subject": "it",
+        "verb": "was found",
+        "stem": "find",
+        "object": "that autistic and control imbecile children "
+      },
+      {
+        "subject": "the present experiment",
+        "verb": "presented",
+        "stem": "present",
+        "object": "a light and a sound, or a light and a verbal command "
+      },
+      {
+        "subject": "results",
+        "verb": "showed",
+        "stem": "show",
+        "object": "that independent of modality, high intensities affected all groups"
+      },
+      {
+        "subject": "non-mongol imbecile children",
+        "verb": "responded",
+        "stem": "respond",
+        "object": "significantly more frequently to the verbal than to the sound stimulus"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "med-35": {
+    "SVO_relationships": [
+      {
+        "subject": "investigations",
+        "verb": "revealed",
+        "stem": "reveal",
+        "object": "the following facts"
+      },
+      {
+        "subject": "lens protein and microelectrophoresis of hydro-soluble protein",
+        "verb": "were carried out",
+        "stem": "carry",
+        "object": "in senile cataract"
+      },
+      {
+        "subject": "the following facts",
+        "verb": "were found to be",
+        "stem": "find",
+        "object": "(1) in opaque lenses, a diminution of the total protein and the soluble protein takes place..."
+      },
+      {
+        "subject": "the decrease in the quantity of soluble protein",
+        "verb": "is higher than",
+        "stem": "be",
+        "object": "the increase of insoluble protein"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "med-36": {
+    "SVO_relationships": [
+      {
+        "subject": "biliary enteric decompression",
+        "verb": "was performed",
+        "stem": "perform",
+        "object": "on 18 of the 27 patients"
+      },
+      {
+        "subject": "these figures",
+        "verb": "are higher than",
+        "stem": "be",
+        "object": "the cure rate of 8% previously reported"
+      },
+      {
+        "subject": "five additional patients with extrahepatic atresia",
+        "verb": "underwent",
+        "stem": "undergo",
+        "object": "biliary decompression by means of a hepatic lymphatico-jejunostomy"
+      },
+      {
+        "subject": "any corrective surgery",
+        "verb": "may be performed",
+        "stem": "perform",
+        "object": "before advanced biliary cirrhosis develops"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "med-37": {
+    "SVO_relationships": [
+      {
+        "subject": "a 1-year-old child",
+        "verb": "has",
+        "stem": "have",
+        "object": "hypoglycemia, growth retardation, and probable isolated growth hormone deficiency"
+      },
+      {
+        "subject": "human growth hormone (HGH)",
+        "verb": "was administered",
+        "stem": "administer",
+        "object": "3 mg. a day for 7 days"
+      },
+      {
+        "subject": "treatment with 1 mg. of HGH",
+        "verb": "produced",
+        "stem": "produce",
+        "object": "a growth of 7 inches in 3 months"
+      },
+      {
+        "subject": "the previous 13 months",
+        "verb": "saw",
+        "stem": "see",
+        "object": "a growth of 1 inch"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "med-38": {
+    "SVO_relationships": [
+      {
+        "subject": "myocardial toxicity of contrast agents used in angiography",
+        "verb": "has been studied",
+        "stem": "study",
+        "object": "in dogs"
+      },
+      {
+        "subject": "iodine-containing radicals",
+        "verb": "are identified",
+        "stem": "identify",
+        "object": "with which the contrast agents"
+      },
+      {
+        "subject": "final salification products",
+        "verb": "appear to be",
+        "stem": "be",
+        "object": "responsible for the widely divergent degrees of myocardial toxicity of contrast agents"
+      },
+      {
+        "subject": "contrast agents",
+        "verb": "behave as",
+        "stem": "behave",
+        "object": "entirely different agents both chemically and biologically"
+      },
+      {
+        "subject": "results",
+        "verb": "seem to indicate",
+        "stem": "indicate",
+        "object": "the dominance of sodium ion and/or the protective effect of methylglucamine salts"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-39": {
+    "SVO_relationships": [
+      {
+        "subject": "dehydroepiandrosterone",
+        "verb": "has an effect on",
+        "stem": "have",
+        "object": "the dehydroxycorticosteroids in the plasmas in various stages of breast cancer and mastopathy"
+      },
+      {
+        "subject": "dehydroepiandrosterone",
+        "verb": "is depressing",
+        "stem": "be depressed",
+        "object": "on plasma corticosteroids"
+      },
+      {
+        "subject": "effect of dehydroepiandrosterone",
+        "verb": "is shortened",
+        "stem": "shorten",
+        "object": "in advanced breast cancer (stage iv)"
+      },
+      {
+        "subject": "corticosteroid values",
+        "verb": "have been found",
+        "stem": "find",
+        "object": "with the three groups of patients 6 hours after infusion of dehydroepiandrosterone phosphate"
+      },
+      {
+        "subject": "effect of dehydroepiandrosterone",
+        "verb": "is still provable",
+        "stem": "prove",
+        "object": "after 12 hours with the group suffering from mastopathy"
+      },
+      {
+        "subject": "breast cancer group of stage iv",
+        "verb": "had already reached",
+        "stem": "reach",
+        "object": "the level of the initial values at this time"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "med-40": {
+    "SVO_relationships": [
+      {
+        "subject": "treatment and prevention",
+        "verb": "is reviewed",
+        "stem": "review",
+        "object": "of chronic haemorrhagic arthropathy and contractures in haemophilia over a period of seven years"
+      },
+      {
+        "subject": "forms of treatment",
+        "verb": "are discussed",
+        "stem": "discuss",
+        "object": "include open operation, manipulation under general anesthesia"
+      },
+      {
+        "subject": "amount of intravenous therapy",
+        "verb": "is indicated",
+        "stem": "indicate",
+        "object": "for each form of treatment"
+      },
+      {
+        "subject": "prevention of joint deformity",
+        "verb": "is discussed",
+        "stem": "discuss",
+        "object": "the histories of a further eighteen patients are taken into account"
+      },
+      {
+        "subject": "conclusion",
+        "verb": "is drawn",
+        "stem": "draw",
+        "object": "that initially painless haemarthroses provide the main threat to joint deformity in haemophilia"
+      },
+      {
+        "subject": "best preventive treatment",
+        "verb": "is identified",
+        "stem": "identify",
+        "object": "early immobilisation followed by prolonged splintage and physiotherapy"
+      },
+      {
+        "subject": "intravenous therapy",
+        "verb": "plays a less important role",
+        "stem": "play",
+        "object": "here than in other forms of haemorrhage"
+      },
+      {
+        "subject": "evidence",
+        "verb": "is presented",
+        "stem": "present",
+        "object": "that joint deformity in severe haemophilia can often be entirely avoided"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "med-41": {
+    "SVO_relationships": [
+      {
+        "subject": "frequent contamination",
+        "verb": "is reported",
+        "stem": "report",
+        "object": "of animal cell lines )"
+      },
+      {
+        "subject": "consequence",
+        "verb": "is of obvious consequence",
+        "stem": "be",
+        "object": "to research workers using tissue culture systems"
+      },
+      {
+        "subject": "presence",
+        "verb": "could influence",
+        "stem": "influence",
+        "object": "results obtained in diverse studies"
+      },
+      {
+        "subject": "PPLO",
+        "verb": "are present",
+        "stem": "be",
+        "object": "for example, of nutritional requirements of the cells or of viral antigens grown in them"
+      },
+      {
+        "subject": "cultural methods",
+        "verb": "have been somewhat complicated",
+        "stem": "be",
+        "object": "but they are not difficult with the medium of Barile, Yaguchi, and Eveland (1958)"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-42": {
+    "SVO_relationships": [
+      {
+        "subject": "effect",
+        "verb": "was studied",
+        "stem": "study",
+        "object": "of testosterone propionate and growth hormone"
+      },
+      {
+        "subject": "testosterone",
+        "verb": "stimulated",
+        "stem": "stimulate",
+        "object": "growth in the levator ani muscle and seminal vesicles"
+      },
+      {
+        "subject": "testosterone",
+        "verb": "had no effect",
+        "stem": "have no effect",
+        "object": "on the other tissues studied"
+      },
+      {
+        "subject": "growth hormone",
+        "verb": "accelerated",
+        "stem": "accelerate",
+        "object": "growth in all tissues except the seminal vesicles"
+      },
+      {
+        "subject": "testosterone",
+        "verb": "did not enhance",
+        "stem": "not enhance",
+        "object": "the growth-promoting effect of growth hormone in any tissue except the levator ani muscle"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "med-43": {
+    "SVO_relationships": [
+      {
+        "subject": "radiocardiography",
+        "verb": "show",
+        "stem": "show",
+        "object": "the importance of radiocardiography"
+      },
+      {
+        "subject": "technical aspects",
+        "verb": "are particularly concerned with",
+        "stem": "concern",
+        "object": "some technical aspects which are very important to collect data"
+      },
+      {
+        "subject": "collimator position",
+        "verb": "is discussed",
+        "stem": "discuss",
+        "object": "on the precordium"
+      },
+      {
+        "subject": "isotope injection",
+        "verb": "is discussed",
+        "stem": "discuss",
+        "object": "through a catheter, just behind the ventricle near the tricuspid valve"
+      },
+      {
+        "subject": "velocity of paper",
+        "verb": "is discussed",
+        "stem": "discuss",
+        "object": "on the recorder"
+      },
+      {
+        "subject": "way to read curve",
+        "verb": "is discussed",
+        "stem": "discuss",
+        "object": "the area of the curve"
+      },
+      {
+        "subject": "formula",
+        "verb": "is presented",
+        "stem": "present",
+        "object": "to calculate cardiac output, ventricular volumes and pulmonary blood volumes"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "med-44": {
+    "SVO_relationships": [
+      {
+        "subject": "glucose 6-phosphate dehydrogenase",
+        "verb": "were measured",
+        "stem": "measure",
+        "object": "in the lens and erythrocytes of man and several other species"
+      },
+      {
+        "subject": "activities",
+        "verb": "were measured",
+        "stem": "measure",
+        "object": "of glucose 6-phosphate and 6-phosphogluconate dehydrogenase"
+      },
+      {
+        "subject": "glucose 6-phosphate dehydrogenase and 6-phosphogluconate dehydrogenase",
+        "verb": "were measured",
+        "stem": "measure",
+        "object": "in the lens and erythrocytes of man and several other species"
+      },
+      {
+        "subject": "glucose 6-phosphate and 6-phosphogluconate dehydrogenase",
+        "verb": "were measured",
+        "stem": "measure",
+        "object": "in the lens and blood of different species"
+      },
+      {
+        "subject": "there is",
+        "verb": "is",
+        "stem": "be",
+        "object": "a wide variation between individuals of the same species"
+      },
+      {
+        "subject": "there seemed",
+        "verb": "seemed",
+        "stem": "seem",
+        "object": "no correlation between the activity of either enzymes"
+      },
+      {
+        "subject": "glucose 6-phosphate dehydrogenase and 6-phosphogluconate dehydrogenase",
+        "verb": "have",
+        "stem": "have",
+        "object": "a wide range of activity in the lens and in the blood of different species"
+      },
+      {
+        "subject": "several species",
+        "verb": "had",
+        "stem": "have",
+        "object": "glucose 6-phosphate dehydrogenase activity in erythrocytes"
+      },
+      {
+        "subject": "the lens",
+        "verb": "was not correlated",
+        "stem": "correlate",
+        "object": "with glucose 6-phosphate dehydrogenase activity"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "med-45": {
+    "SVO_relationships": [
+      {
+        "subject": "maternal anxiety",
+        "verb": "during",
+        "stem": "be during",
+        "object": "pregnancy"
+      },
+      {
+        "subject": "mother and child adjustment",
+        "verb": "was",
+        "stem": "be",
+        "object": "adequate eight months following childbirth"
+      },
+      {
+        "subject": "fifty pregnant women",
+        "verb": "were administered",
+        "stem": "administer",
+        "object": "a battery of psychological tests"
+      },
+      {
+        "subject": "these pregnant women",
+        "verb": "were dichotomized",
+        "stem": "dichotomy",
+        "object": "into a /high anxiety/ group and a /low anxiety/ group"
+      },
+      {
+        "subject": "eight months following childbirth",
+        "verb": "the mothers and children were seen",
+        "stem": "see",
+        "object": "for a psychological assessment"
+      },
+      {
+        "subject": "the women in the /high anxious/ group",
+        "verb": "evidenced",
+        "stem": "evidence",
+        "object": "significantly more negative childrearing attitudes"
+      },
+      {
+        "subject": "the /high anxious/ mothers",
+        "verb": "obtained",
+        "stem": "get",
+        "object": "significantly higher scores on the hostility and control factors measured by the PARI"
+      },
+      {
+        "subject": "the women who were highly anxious during pregnancy",
+        "verb": "received",
+        "stem": "receive",
+        "object": "much less favorable personality ratings at the time of the 8-month assessment"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "med-46": {
+    "SVO_relationships": [
+      {
+        "subject": "antigen",
+        "verb": "be extracted from",
+        "stem": "be extracted from",
+        "object": "homogenate of Dirofilaria immitis"
+      },
+      {
+        "subject": "antigen",
+        "verb": "be purified by",
+        "stem": "be purified by",
+        "object": "Sephadex G-100 gel filtration"
+      },
+      {
+        "subject": "finally purified antigen (FSCD1)",
+        "verb": "have",
+        "stem": "have",
+        "object": "a protein with a small amount of carbohydrate"
+      },
+      {
+        "subject": "antigen",
+        "verb": "give",
+        "stem": "give",
+        "object": "relatively broad band by electrophoresis on cellulose film"
+      },
+      {
+        "subject": "amino acids",
+        "verb": "be detected by",
+        "stem": "be detected by",
+        "object": "high-voltage paper-electrophoresis of the acid hydrolyzate of the antigen"
+      },
+      {
+        "subject": "wheals and erythema",
+        "verb": "appear within",
+        "stem": "appear within",
+        "object": "15 minutes of injection of the antigen on proved filariasis patients"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "med-47": {
+    "SVO_relationships": [
+      {
+        "subject": "congenital nephrogenic diabetes insipidus",
+        "verb": "be caused by",
+        "stem": "be caused by",
+        "object": "mutations in AVPR2 gene"
+      },
+      {
+        "subject": "AVPR2 gene mutations",
+        "verb": "result from",
+        "stem": "result from",
+        "object": "mutations on chromosome Xq28 and AQP2 on chromosome 12q13"
+      },
+      {
+        "subject": "CNDI",
+        "verb": "include",
+        "stem": "include",
+        "object": "polyuria"
+      },
+      {
+        "subject": "rare case of CNDI",
+        "verb": "have",
+        "stem": "have",
+        "object": "sustained polyuria, polydipsia, and irritability for more than 20 months"
+      },
+      {
+        "subject": "laboratory examinations",
+        "verb": "show",
+        "stem": "show",
+        "object": "no obvious abnormality in blood sodium and chloride levels"
+      },
+      {
+        "subject": "imaging findings",
+        "verb": "be",
+        "stem": "be",
+        "object": "normal"
+      },
+      {
+        "subject": "genetic analysis",
+        "verb": "reveal",
+        "stem": "reveal",
+        "object": "a C > T transition leading to T273M missense mutations in AVPR2"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "med-48": {
+    "SVO_relationships": [
+      {
+        "subject": "developmentally small kidneys",
+        "verb": "be",
+        "stem": "be",
+        "object": "renal hypoplasia"
+      },
+      {
+        "subject": "renal hypoplasia",
+        "verb": "take",
+        "stem": "take",
+        "object": "several forms"
+      },
+      {
+        "subject": "one form of renal hypoplasia",
+        "verb": "be",
+        "stem": "be",
+        "object": "renal dysplasia"
+      },
+      {
+        "subject": "renal dysplasia",
+        "verb": "have",
+        "stem": "have",
+        "object": "maldeveloped parenchyma"
+      },
+      {
+        "subject": "other forms of hypoplasia",
+        "verb": "exist",
+        "stem": "exist",
+        "object": "in which the renal parenchyma is normally formed but merely diminished in amount"
+      },
+      {
+        "subject": "these forms of hypoplasia",
+        "verb": "have",
+        "stem": "have",
+        "object": "severe clinical consequences"
+      },
+      {
+        "subject": "finding at post-mortem examination",
+        "verb": "prompt",
+        "stem": "prompt",
+        "object": "the thought that renal tubular insufficiency may result from renal hypoplasia"
+      }
+    ],
+    "total_SVOs": 8
+  },
+ 
+  "med-50": {
+    "SVO_relationships": [
+      {
+        "subject": "PLACENTAS",
+        "verb": "have",
+        "stem": "have",
+        "object": "total lipid elevated in the placentas of preeclamptic women"
+      },
+      {
+        "subject": "PLACENTAS",
+        "verb": "have",
+        "stem": "have",
+        "object": "arachidonic acid elevated in the placentas of preeclamptic women"
+      },
+      {
+        "subject": "HYPERTENSION",
+        "verb": "examine",
+        "stem": "examine",
+        "object": "the amount and fatty acid composition of total lipid extract from serum"
+      },
+      {
+        "subject": "FINDINGS",
+        "verb": "compare",
+        "stem": "compare",
+        "object": "with those obtained from animals developing eclampsia on an experimental basis"
+      },
+      {
+        "subject": "SERUM PALMITATE",
+        "verb": "be",
+        "stem": "be",
+        "object": "mildly but significantly elevated in preeclampsia"
+      }
+    ],
+    "total_SVOs": 5
+  },
+   "Med-58": {
+    "SVO_relationships": [
+      {
+        "subject": "perfusion-temperature",
+        "verb": "influences",
+        "stem": "influence",
+        "object": "the rate of heparin-loss during extracorporeal circulation"
+      },
+      {
+        "subject": "heparin half-lives",
+        "verb": "were calculated",
+        "stem": "calculate",
+        "object": "during perfusions conducted at average temperatures of 31.5 and 22.6 c"
+      },
+      {
+        "subject": "the rate of heparin-loss",
+        "verb": "is",
+        "stem": "be",
+        "object": "inconstant in an individual, and variable between individuals"
+      },
+      {
+        "subject": "neutralization",
+        "verb": "requires",
+        "stem": "require",
+        "object": "an accurate estimation of the heparin concentration present at the end of perfusion"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Med-59": {
+    "SVO_relationships": [
+      {
+        "subject": "twenty patients",
+        "verb": "were treated",
+        "stem": "treat",
+        "object": "with a nasal solution of synthetic lysine vasopressin"
+      },
+      {
+        "subject": "use of the nasal spray",
+        "verb": "controlled",
+        "stem": "control",
+        "object": "polyuria in all patients"
+      },
+      {
+        "subject": "one pregnant patient",
+        "verb": "was controlled",
+        "stem": "control",
+        "object": "to term without undesirable uterine stimulation"
+      },
+      {
+        "subject": "this synthetic preparation",
+        "verb": "is recommended",
+        "stem": "recommend",
+        "object": "for clinical use"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Med-60": {
+    "SVO_relationships": [
+      {
+        "subject": "balance data",
+        "verb": "are presented",
+        "stem": "present",
+        "object": "from three patients with hypoparathyroidism"
+      },
+      {
+        "subject": "the data",
+        "verb": "demonstrate",
+        "stem": "demonstrate",
+        "object": "losses of phosphate, magnesium, sodium and potassium"
+      },
+      {
+        "subject": "preferential depletion",
+        "verb": "must be presumed",
+        "stem": "presume",
+        "object": "from bone, or loss from non-osseous tissues"
+      },
+      {
+        "subject": "the exchange of ca45, mg28, and p32",
+        "verb": "has been studied",
+        "stem": "study",
+        "object": "in a spectrum of rat tissues"
+      },
+      {
+        "subject": "the effects of parathyroidectomy",
+        "verb": "were determined",
+        "stem": "determine",
+        "object": "on the development of magnesium deficiency"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Med-61": {
+    "SVO_relationships": [
+      {
+        "subject": "the principles",
+        "verb": "have been discussed",
+        "stem": "discuss",
+        "object": "for measuring blood viscosity"
+      },
+      {
+        "subject": "blood",
+        "verb": "does not behave",
+        "stem": "behave",
+        "object": "in a newtonian manner"
+      },
+      {
+        "subject": "the data",
+        "verb": "are useful",
+        "stem": "be",
+        "object": "obtained in in vitro measurement"
+      },
+      {
+        "subject": "a modified simple method",
+        "verb": "has been described",
+        "stem": "describe",
+        "object": "for measuring blood viscosity relative to normal saline"
+      },
+      {
+        "subject": "there",
+        "verb": "is",
+        "stem": "be",
+        "object": "essentially no difference in viscosity between fresh blood and heparinized blood and between plasma and serum"
+      },
+      {
+        "subject": "viscosity",
+        "verb": "varies",
+        "stem": "vary",
+        "object": "with the quantity and nature of proteins in plasma and the cellular concentration"
+      },
+      {
+        "subject": "halothane and thiopental sodium",
+        "verb": "reduce",
+        "stem": "reduce",
+        "object": "blood viscosity"
+      },
+      {
+        "subject": "cyclopropane, hypothermia, and norepinephrine",
+        "verb": "tend",
+        "stem": "tend",
+        "object": "to raise blood viscosity"
+      }
+    ],
+    "total_SVOs": 8
+  },
+
+  "Med-98": {
+    "SVO_relationships": [
+      {
+        "subject": "immunologic competence and induction of neoplasms by polyoma virus",
+        "verb": "resulted",
+        "stem": "result",
+        "object": "in a strikingly increased frequency of neoplasms following infection with polyoma virus"
+      },
+      {
+        "subject": "thymectomy",
+        "verb": "extended",
+        "stem": "extend",
+        "object": "age susceptibility to at least 30 days of age in highly resistant C57BL mice"
+      },
+      {
+        "subject": "the methods",
+        "verb": "were also effective",
+        "stem": "be effective",
+        "object": "in restoring the capacity to resist polyoma virus tumor induction"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "Med-99": {
+    "SVO_relationships": [
+      {
+        "subject": "physicians",
+        "verb": "may be directed",
+        "stem": "direct",
+        "object": "the care of the patient with \"incurable\" cancer"
+      },
+      {
+        "subject": "the physician",
+        "verb": "is prone to be influenced",
+        "stem": "influence",
+        "object": "by still prevalent attitudes of therapeutic futility or by equally unjustified premature claims"
+      },
+      {
+        "subject": "radiation therapy",
+        "verb": "must be allowed",
+        "stem": "allow",
+        "object": "indications and contraindications like any therapeutic modality"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "Med-100": {
+    "SVO_relationships": [
+      {
+        "subject": "Diabetes insipidus",
+        "verb": "can be",
+        "stem": "be",
+        "object": "a common cause of polyuria and hydronephrosis in the kidneys"
+      },
+      {
+        "subject": "urinary obstruction",
+        "verb": "induced",
+        "stem": "induce",
+        "object": "nephrogenic diabetes insipidus"
+      },
+      {
+        "subject": "a 60-year-old Chinese man",
+        "verb": "came",
+        "stem": "come",
+        "object": "to our hospital with the complaints of polydipsia and polyuria for 1 month"
+      }
+    ],
+    "total_SVOs": 3
+  }
+}
+
+
+
+
+
+
+
+  
+

@@ -1,0 +1,1688 @@
+{
+  "Fin-1": {
+    "SVO_relationships": [
+      {
+        "subject": "Bawan Co.",
+        "verb": "announces",
+        "stem": "announce",
+        "object": "the distribution of cash dividends for the second half of 2023"
+      },
+      {
+        "subject": "shareholders",
+        "verb": "meet",
+        "stem": "meet",
+        "object": "the eligibility criteria"
+      },
+      {
+        "subject": "Bawan Co.",
+        "verb": "will pay",
+        "stem": "pay",
+        "object": "cash dividends to eligible shareholders"
+      },
+      {
+        "subject": "stakeholders",
+        "verb": "are advised",
+        "stem": "advise",
+        "object": "to update their personal information and link bank accounts"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-2": {
+    "SVO_relationships": [
+      {
+        "subject": "SABIC Agri-Nutrients Company",
+        "verb": "have agreed",
+        "stem": "agree",
+        "object": "to extend the MoU with SALIC"
+      },
+      {
+        "subject": "SABIC Agri-Nutrients Company and SALIC",
+        "verb": "will explore",
+        "stem": "explore",
+        "object": "global commercial and innovation opportunities"
+      },
+      {
+        "subject": "the extension of the MoU",
+        "verb": "demonstrates",
+        "stem": "demonstrate",
+        "object": "a commitment to food security and environmental sustainability"
+      },
+      {
+        "subject": "the extension",
+        "verb": "does not have",
+        "stem": "have",
+        "object": "a material financial impact on the company"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-3": {
+    "SVO_relationships": [
+      {
+        "subject": "GAS Arabian Services Co.",
+        "verb": "has signed",
+        "stem": "sign",
+        "object": "a contract with Saudi Power Procurement Company"
+      },
+      {
+        "subject": "the contract",
+        "verb": "is for",
+        "stem": "be",
+        "object": "the Engineering, Procurement and Construction of Taiba GAS Pipeline"
+      },
+      {
+        "subject": "the contract value",
+        "verb": "is",
+        "stem": "be",
+        "object": "SAR 256,109,696 excluding VAT"
+      },
+      {
+        "subject": "the contract duration",
+        "verb": "is",
+        "stem": "be",
+        "object": "22 months"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-4": {
+    "SVO_relationships": [
+      {
+        "subject": "GAS Arabian Services Co.",
+        "verb": "has signed",
+        "stem": "sign",
+        "object": "a contract with Saudi Power Procurement Company"
+      },
+      {
+        "subject": "the contract",
+        "verb": "is for",
+        "stem": "be",
+        "object": "Engineering, Procurement and Construction of Qassim GAS Pipeline"
+      },
+      {
+        "subject": "the contract value",
+        "verb": "is",
+        "stem": "be",
+        "object": "SAR 341,903,686 excluding VAT"
+      },
+      {
+        "subject": "the contract duration",
+        "verb": "is",
+        "stem": "be",
+        "object": "22 months"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-5": {
+    "SVO_relationships": [
+      {
+        "subject": "Advanced Petrochemical Company",
+        "verb": "has resumed operations",
+        "stem": "resume",
+        "object": "of its propylene and polypropylene plants"
+      },
+      {
+        "subject": "the resumption",
+        "verb": "follows",
+        "stem": "follow",
+        "object": "the successful completion of scheduled maintenance activities"
+      },
+      {
+        "subject": "the operations",
+        "verb": "are in line with",
+        "stem": "be in line with",
+        "object": "occupational safety and health standards"
+      },
+      {
+        "subject": "the financial impact of the shutdown",
+        "verb": "remains unchanged",
+        "stem": "remain unchanged",
+        "object": "with no adverse effects on the company's financial results"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-6": {
+    "SVO_relationships": [
+      {
+        "subject": "Thobe Al-Aseel",
+        "verb": "announces",
+        "stem": "announce",
+        "object": "a change in major shareholders due to Mr. Al-Jedaie's share transfer"
+      },
+      {
+        "subject": "Mr. Faisal Abdullah Al-Jedaie",
+        "verb": "transferred",
+        "stem": "transfer",
+        "object": "2.5% of his shares to his sons"
+      },
+      {
+        "subject": "the share transfer",
+        "verb": "causes",
+        "stem": "cause",
+        "object": "a shift in Thobe Al-Aseel's major shareholders list"
+      },
+      {
+        "subject": "investors",
+        "verb": "should take note",
+        "stem": "take note",
+        "object": "of the change in shareholding"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-7": {
+    "SVO_relationships": [
+      {
+        "subject": "Group Five Pipe Saudi Co.",
+        "verb": "has appointed",
+        "stem": "appoint",
+        "object": "a new audit committee member effective March 1, 2024"
+      },
+      {
+        "subject": "the appointment",
+        "verb": "was made",
+        "stem": "make",
+        "object": "during a board meeting on February 29, 2024"
+      },
+      {
+        "subject": "Group Five Pipe Saudi Co.",
+        "verb": "demonstrates",
+        "stem": "demonstrate",
+        "object": "a commitment to strong corporate governance practices"
+      },
+      {
+        "subject": "the new audit committee member",
+        "verb": "will contribute to",
+        "stem": "contribute to",
+        "object": "the oversight of financial reporting and internal control processes"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-8": {
+    "SVO_relationships": [
+      {
+        "subject": "Group Five Pipe Saudi Co.",
+        "verb": "disclosed",
+        "stem": "disclose",
+        "object": "the results of its Extraordinary General Assembly Meeting"
+      },
+      {
+        "subject": "the meeting",
+        "verb": "was held on",
+        "stem": "hold",
+        "object": "February 29, 2024"
+      },
+      {
+        "subject": "82.4%",
+        "verb": "of",
+        "stem": "be",
+        "object": "attending shareholders"
+      },
+      {
+        "subject": "details of the meeting proceedings",
+        "verb": "are available in",
+        "stem": "be available in",
+        "object": "the Arabic version"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-9": {
+    "SVO_relationships": [
+      {
+        "subject": "NBM",
+        "verb": "held",
+        "stem": "hold",
+        "object": "a General Assembly meeting on February 29, 2024, at 7:00 PM"
+      },
+      {
+        "subject": "the meeting's attendance, voting results, and attending board members' names",
+        "verb": "are available in",
+        "stem": "be available in",
+        "object": "the Arabic version"
+      },
+      {
+        "subject": "the announcement",
+        "verb": "is informational",
+        "stem": "be informational",
+        "object": "regarding NBM's General Assembly meeting"
+      },
+      {
+        "subject": "investors and stakeholders",
+        "verb": "should refer to",
+        "stem": "refer to",
+        "object": "the Arabic version for details on governance and decision-making"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-10": {
+    "SVO_relationships": [
+      {
+        "subject": "ZAIN KSA",
+        "verb": "recommends",
+        "stem": "recommend",
+        "object": "distributing cash dividends to shareholders for the fiscal year 2023"
+      },
+      {
+        "subject": "the total dividend distribution",
+        "verb": "is",
+        "stem": "be",
+        "object": "449.365 million SAR"
+      },
+      {
+        "subject": "the dividend distribution",
+        "verb": "equates to",
+        "stem": "equate to",
+        "object": "5% of the share par value"
+      },
+      {
+        "subject": "eligible shareholders",
+        "verb": "will receive",
+        "stem": "receive",
+        "object": "the cash dividends"
+      },
+      {
+        "subject": "ZAIN KSA",
+        "verb": "encourages",
+        "stem": "encourage",
+        "object": "shareholders to update their banking information for smooth dividend payout"
+      },
+      {
+        "subject": "foreign investors",
+        "verb": "should take note",
+        "stem": "take note",
+        "object": "of the potential 5% withholding tax on cash dividends"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  
+  
+  "Fin-11": {
+    "SVO_relationships": [
+      {
+        "subject": "The Capital Market Authority",
+        "verb": "has approved",
+        "stem": "approve",
+        "object": "KKR Saudi Limited's request to amend its Business Profile"
+      },
+      {
+        "subject": "KKR Saudi Limited",
+        "verb": "is authorized to perform",
+        "stem": "authorize to perform",
+        "object": "Arranging, Managing Investments, and Operating Funds activities in the Securities Business"
+      },
+      {
+        "subject": "the amendment",
+        "verb": "allows KKR Saudi Limited to",
+        "stem": "allow",
+        "object": "expand its service offerings in the Saudi Arabian market"
+      },
+      {
+        "subject": "the expansion",
+        "verb": "is expected to",
+        "stem": "expect to",
+        "object": "enhance the company's presence and capabilities in the region"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-12": {
+    "SVO_relationships": [
+      {
+        "subject": "The Capital Market Authority (CMA)",
+        "verb": "has approved",
+        "stem": "approve",
+        "object": "KKR Saudi Limited's request to amend its Business Profile"
+      },
+      {
+        "subject": "the amendment",
+        "verb": "authorizes KKR Saudi Limited to",
+        "stem": "authorize to",
+        "object": "perform Arranging, Managing Investments, and Operating Funds activities in the Securities Business"
+      },
+      {
+        "subject": "the CMA's approval",
+        "verb": "is expected to",
+        "stem": "expect to",
+        "object": "contribute to the growth and diversification of the local securities industry"
+      },
+      {
+        "subject": "the expanded scope of services",
+        "verb": "will provide",
+        "stem": "provide",
+        "object": "additional investment opportunities for local and international investors"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-13": {
+    "SVO_relationships": [
+      {
+        "subject": "Saudi Exchange Company",
+        "verb": "has authorized",
+        "stem": "authorize",
+        "object": "Al Rajhi Capital to perform Market Making activities for Edarat Communication and Information Technology Co. (9557) on Nomu â€“ Parallel Market"
+      },
+      {
+        "subject": "the authorization",
+        "verb": "is effective starting",
+        "stem": "be effective starting",
+        "object": "04/03/2024G"
+      },
+      {
+        "subject": "Al Rajhi Capital's Market Making activities",
+        "verb": "are expected to",
+        "stem": "expect to",
+        "object": "contribute to enhanced market liquidity and tighter bid-ask spreads"
+      },
+      {
+        "subject": "the enhanced market liquidity",
+        "verb": "will ultimately benefit",
+        "stem": "benefit",
+        "object": "investors and promote a more efficient market"
+      }
+    ],
+    "total_SVOs": 4
+  },
+
+  "Fin-21": {
+    "SVO_relationships": [
+      {
+        "subject": "SAL Saudi Logistics Services Co.",
+        "verb": "announces",
+        "stem": "announce",
+        "object": "the distribution of cash dividends for the fourth quarter of fiscal year 2023"
+      },
+      {
+        "subject": "the total dividend distribution",
+        "verb": "is",
+        "stem": "be",
+        "object": "120,800,000 SAR"
+      },
+      {
+        "subject": "the dividends will be distributed to",
+        "verb": "be distributed to",
+        "stem": "distribute to",
+        "object": "80 million eligible shares"
+      },
+      {
+        "subject": "the dividend distribution",
+        "verb": "represents",
+        "stem": "represent",
+        "object": "a 15.1% return on share par value"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-22": {
+    "SVO_relationships": [
+      {
+        "subject": "SAL Saudi Logistics Services Co.",
+        "verb": "has announced",
+        "stem": "announce",
+        "object": "its FY2023 financial results"
+      },
+      {
+        "subject": "the company's sales",
+        "verb": "have increased by",
+        "stem": "increase by",
+        "object": "19.06% YoY"
+      },
+      {
+        "subject": "the gross profit",
+        "verb": "has grown by",
+        "stem": "grow by",
+        "object": "31.24%"
+      },
+      {
+        "subject": "the net profit",
+        "verb": "has expanded by",
+        "stem": "expand by",
+        "object": "40.65%"
+      },
+      {
+        "subject": "the revenue growth",
+        "verb": "is attributed to",
+        "stem": "be attributed to",
+        "object": "increased tonnage handled and logistics solutions"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Fin-23": {
+    "SVO_relationships": [
+      {
+        "subject": "SAL Saudi Logistics Services Co.",
+        "verb": "has corrected",
+        "stem": "correct",
+        "object": "the eligibility date for distributing cash dividends for Q4 2023"
+      },
+      {
+        "subject": "the correction",
+        "verb": "amends the previously announced",
+        "stem": "amend",
+        "object": "eligibility date for dividend distribution"
+      },
+      {
+        "subject": "investors",
+        "verb": "should take note of",
+        "stem": "take note of",
+        "object": "the revised eligibility date"
+      },
+      {
+        "subject": "the revised eligibility criteria",
+        "verb": "will impact",
+        "stem": "impact",
+        "object": "the distribution of cash dividends for the fourth quarter of fiscal year 2023"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  
+"Fin-24": {
+"SVO_relationships": [
+{
+"subject": "Fawaz Abdulaziz Alhokair & Co",
+"verb": "has agreed",
+"stem": "agree",
+"object": "to open eight international brands"
+},
+{
+"subject": "Cenomi Retail",
+"verb": "highlights",
+"stem": "highlight",
+"object": "the company's strategic growth and commitment"
+},
+{
+"subject": "the company",
+"verb": "is poised",
+"stem": "poised",
+"object": "to benefit from the evolving consumer habits"
+}
+],
+"total_SVOs": 3
+},
+
+"Fin-25": {
+"SVO_relationships": [
+{
+"subject": "Al Rajhi Bank",
+"verb": "has revealed",
+"stem": "reveal",
+"object": "plans to issue U.S. Dollar-denominated sustainable Sukuk"
+},
+{
+"subject": "Al Rajhi Bank",
+"verb": "reflects",
+"stem": "reflect",
+"object": "its commitment to sustainable finance and strategic objectives"
+},
+{
+"subject": "the offering",
+"verb": "will provide",
+"stem": "provide",
+"object": "eligible investors with the opportunity to participate"
+}
+],
+"total_SVOs": 3
+},
+
+"Fin-26": {
+"SVO_relationships": [
+{
+"subject": "Sipchem",
+"verb": "discloses",
+"stem": "disclose",
+"object": "its 2023 financial results"
+},
+{
+"subject": "Sipchem's financial results",
+"verb": "show",
+"stem": "show",
+"object": "a substantial decrease in key metrics"
+},
+{
+"subject": "the reasons",
+"verb": "include",
+"stem": "include",
+"object": "lower selling prices, reduced sales volumes, maintenance activities, and decreased profits from joint ventures"
+},
+{
+"subject": "Sipchem's financial decline",
+"verb": "may raise",
+"stem": "raise",
+"object": "concerns among investors"
+},
+{
+"subject": "the substantial reductions",
+"verb": "could potentially",
+"stem": "potentially",
+"object": "impact the company's share price and investor confidence"
+},
+{
+"subject": "the unmodified opinion",
+"verb": "indicates",
+"stem": "indicate",
+"object": "that the financial statements are accurate and fair"
+}
+],
+"total_SVOs": 6
+},
+
+"Fin-27": {
+"SVO_relationships": [
+{
+"subject": "Saudi Reinsurance Company (Saudi Re)",
+"verb": "has agreed",
+"stem": "agree",
+"object": "to sell its 49.9% stake in Probitas Holdings (Bermuda) Limited (PHBL)"
+},
+{
+"subject": "the sale",
+"verb": "will have",
+"stem": "have",
+"object": "a positive impact on the company's financials in 2024"
+},
+{
+"subject": "the transaction proceeds",
+"verb": "will enable",
+"stem": "enable",
+"object": "Saudi Re to strengthen its financial position and capitalize on growth opportunities"
+}
+],
+"total_SVOs": 3
+},
+
+"Fin-28": {
+"SVO_relationships": [
+{
+"subject": "Capital Market Authority (CMA)",
+"verb": "has approved",
+"stem": "approve",
+"object": "Al-Khabeer Capital Company's request to list 'Alkhabeer Diversified Income Traded Fund 2030' units"
+},
+{
+"subject": "the fund",
+"verb": "will be listed",
+"stem": "list",
+"object": "on the Saudi Stock Exchange (Tadawul) as a Close-ended Traded Fund"
+},
+{
+"subject": "investors",
+"verb": "should carefully review",
+"stem": "review",
+"object": "the T&Cs before making an investment decision"
+}
+],
+"total_SVOs": 3
+},
+
+"Fin-29": {
+"SVO_relationships": [
+{
+"subject": "Capital Market Authority (CMA)",
+"verb": "has approved",
+"stem": "approve",
+"object": "Al-Khabeer Capital Company's request to list 'Alkhabeer Diversified Income Traded Fund 2030' units on Saudi Stock Exchange (Tadawul) as a Close-ended Traded Fund"
+},
+{
+"subject": "investors",
+"verb": "should carefully review",
+"stem": "review",
+"object": "T&Cs available on CMA and fund manager's websites"
+},
+{
+"subject": "the CMA's approval",
+"verb": "serves as",
+"stem": "serve",
+"object": "a confirmation that the fund has met the necessary legal requirements"
+},
+{
+"subject": "the CMA's approval",
+"verb": "does not imply",
+"stem": "imply",
+"object": "a recommendation to invest in the fund"
+}
+],
+"total_SVOs": 4
+},
+
+"Fin-30": {
+"SVO_relationships": [
+{
+"subject": "Gulf General Cooperative Insurance Company",
+"verb": "has received",
+"stem": "receive",
+"object": "final approval from the Insurance Authority to promote and sell the Domestic Workers Contract Insurance product"
+},
+{
+"subject": "the approval",
+"verb": "allows",
+"stem": "allow",
+"object": "Gulf General Cooperative Insurance Company to extend its product offerings in the Kingdom of Saudi Arabia"
+},
+{
+"subject": "this move",
+"verb": "is expected",
+"stem": "expect",
+"object": "to bolster the company's presence and cater to the needs of individuals employing domestic workers"
+}
+],
+"total_SVOs": 3
+},
+
+"Fin-31": {
+"SVO_relationships": [
+{
+"subject": "Arabian Contracting Services Co.",
+"verb": "has updated",
+"stem": "update",
+"object": "its agreement with Remat Al-Riyadh Development Company for the outdoor advertising billboards project"
+},
+{
+"subject": "the amended contract",
+"verb": "signifies",
+"stem": "signify",
+"object": "a strategic shift in their partnership"
+},
+{
+"subject": "Al Arabia",
+"verb": "will transfer",
+"stem": "transfer",
+"object": "a portion of the investment returns as owned shares to Remat Al-Riyadh Development Company"
+},
+{
+"subject": "this adjustment",
+"verb": "may impact",
+"stem": "impact",
+"object": "Al Arabia's financials and shareholding structure"
+},
+{
+"subject": "this move",
+"verb": "is expected",
+"stem": "expect",
+"object": "to contribute to the Kingdom's economic growth in line with Vision 2030"
+}
+],
+"total_SVOs": 5
+},
+
+"Fin-32": {
+"SVO_relationships": [
+{
+"subject": "Watani Iron Steel Co. (TASNEE)",
+"verb": "has reported",
+"stem": "report",
+"object": "a decline in its annual financial results for 2023"
+},
+{
+"subject": "the financial performance decline",
+"verb": "may affect",
+"stem": "affect",
+"object": "TASNEE's market position and investor confidence"
+},
+{
+"subject": "the acquisition",
+"verb": "could potentially",
+"stem": "potentially",
+"object": "open new opportunities for growth and diversification"
+}
+],
+"total_SVOs": 3
+},
+
+"Fin-33": {
+"SVO_relationships": [
+{
+"subject": "Wataniya Insurance Company",
+"verb": "announces",
+"stem": "announce",
+"object": "receipt of a letter from Private Wealth Investment Holding Company"
+},
+{
+"subject": "Private Wealth Investment Holding Company",
+"verb": "notifies",
+"stem": "notify",
+"object": "the sale of 4,000,000 shares (10% of Wataniya's capital) to various investment funds and individual investors"
+},
+{
+"subject": "the sale",
+"verb": "results in",
+"stem": "result",
+"object": "Private Wealth Investment Holding Company's exit from Wataniya"
+},
+{
+"subject": "no single buyer",
+"verb": "acquires",
+"stem": "acquire",
+"object": "over 5% ownership"
+}
+],
+"total_SVOs": 4
+},
+
+"Fin-34": {
+"SVO_relationships": [
+{
+"subject": "National Industrialization Co.",
+"verb": "has reported",
+"stem": "report",
+"object": "a decline in its annual financial results for 2023"
+},
+{
+"subject": "the financial performance decline",
+"verb": "may impact",
+"stem": "impact",
+"object": "investor confidence"
+},
+{
+"subject": "the acquisition of the joint venture and associate",
+"verb": "could potentially",
+"stem": "potentially",
+"object": "open new opportunities for growth and diversification"
+}
+],
+"total_SVOs": 3
+},
+
+"Fin-35": {
+"SVO_relationships": [
+{
+"subject": "Arab National Bank",
+"verb": "has invited",
+"stem": "invite",
+"object": "shareholders to attend the Extraordinary General Assembly Meeting (First Meeting) via modern technology"
+},
+{
+"subject": "the meeting",
+"verb": "will be held",
+"stem": "hold",
+"object": "at the Arab National Bank - Arab Plaza Building in Riyadh, Saudi Arabia"
+},
+{
+"subject": "shareholders",
+"verb": "are encouraged",
+"stem": "encourage",
+"object": "to participate in the Extraordinary General Assembly Meeting"
+},
+{
+"subject": "the electronic voting process",
+"verb": "allows",
+"stem": "allow",
+"object": "shareholders to engage conveniently regardless of their location"
+},
+{
+"subject": "the outcome",
+"verb": "could significantly",
+"stem": "significantly",
+"object": "impact the bank's future direction and shareholder value"
+}
+],
+"total_SVOs": 5
+},
+
+"Fin-36": {
+"SVO_relationships": [
+{
+"subject": "Al Masane Al Kobra Mining Co. (AMAK)",
+"verb": "released",
+"stem": "release",
+"object": "its 2023 annual financial results"
+},
+{
+"subject": "AMAK's 2023 financial results",
+"verb": "reflect",
+"stem": "reflect",
+"object": "a challenging year for the company"
+},
+{
+"subject": "the decline in sales, gross profit, operational profit, and net profit",
+"verb": "is attributed to",
+"stem": "attribute to",
+"object": "lower selling prices and decreased demand due to global inflation"
+},
+{
+"subject": "the unmodified opinion",
+"verb": "indicates",
+"stem": "indicate",
+"object": "that the company's financial statements are accurate and free from material misstatements"
+},
+{
+"subject": "investors",
+"verb": "should closely monitor",
+"stem": "monitor",
+"object": "AMAK's performance and strategies to address the decreasing profits"
+}
+],
+"total_SVOs": 5
+},
+
+"Fin-37": {
+"SVO_relationships": [
+{
+"subject": "Ayyan Investment Company",
+"verb": "has appointed",
+"stem": "appoint",
+"object": "AlInma Investment as a financial advisor for the proposed sale of its shares in Al-Ahsa Medical Services and Al-Salam Medical Services Companies to Dallah Healthcare"
+},
+{
+"subject": "the appointment",
+"verb": "signifies",
+"stem": "signify",
+"object": "a progressive step towards the completion of the proposed transaction"
+},
+{
+"subject": "this move",
+"verb": "is anticipated",
+"stem": "anticipate",
+"object": "to facilitate the negotiations and ensure the best interests of all involved parties"
+},
+{
+"subject": "Ayyan Investment and Dallah Healthcare",
+"verb": "continue working",
+"stem": "work",
+"object": "towards finalizing the agreement"
+}
+],
+"total_SVOs": 4
+},
+
+"Fin-38": {
+"SVO_relationships": [
+{
+"subject": "Fitness Time",
+"verb": "announces",
+"stem": "announce",
+"object": "the opening of eight Physiotherabia centers in various Saudi Arabian cities"
+},
+{
+"subject": "the centers",
+"verb": "will be operated",
+"stem": "operate",
+"object": "by associate company Integrated Care Medical Services"
+},
+{
+"subject": "this move",
+"verb": "is expected",
+"stem": "expect",
+"object": "to increase Fitness Time's presence and service offerings in the targeted regions"
+},
+{
+"subject": "this expansion",
+"verb": "also highlights",
+"stem": "highlight",
+"object": "the successful collaboration between Fitness Time and Integrated Care Medical Services"
+}
+],
+"total_SVOs": 4
+},
+
+"Fin-39": {
+"SVO_relationships": [
+{
+"subject": "Takween Advanced Industries Company",
+"verb": "reports",
+"stem": "report",
+"object": "that 23,210,173 shares were subscribed from 30,000,000 new shares offered"
+},
+{
+"subject": "the remaining shares",
+"verb": "will be offered",
+"stem": "offer",
+"object": "to institutional investors"
+},
+{
+"subject": "the announcement",
+"verb": "indicates",
+"stem": "indicate",
+"object": "that the majority of Takween Advanced Industries Company's new shares have been subscribed"
+},
+{
+"subject": "the remaining shares",
+"verb": "will be available",
+"stem": "available",
+"object": "for institutional investors to participate in the subscription process"
+}
+],
+"total_SVOs": 4
+},
+
+"Fin-40": {
+"SVO_relationships": [
+{
+"subject": "Watani Iron Steel Co.",
+"verb": "has released",
+"stem": "release",
+"object": "its 2023 annual financial results"
+},
+{
+"subject": "the financial results",
+"verb": "show",
+"stem": "show",
+"object": "a significant decrease in profits and revenues compared to the previous year"
+},
+{
+"subject": "the drop in sales and net profit",
+"verb": "is attributed to",
+"stem": "attribute to",
+"object": "lower selling prices and decreased demand due to global inflation"
+},
+{
+"subject": "the significant decline",
+"verb": "may impact",
+"stem": "impact",
+"object": "investor confidence"
+},
+{
+"subject": "the company's Total Shareholders' Equity",
+"verb": "has shown",
+"stem": "show",
+"object": "a slight increase"
+}
+],
+"total_SVOs": 5
+},
+
+"Fin-41": {
+"SVO_relationships": [
+{
+"subject": "Ades Holding Co.",
+"verb": "released",
+"stem": "release",
+"object": "its 2023 annual financial results"
+},
+{
+"subject": "the financial results",
+"verb": "show",
+"stem": "show",
+"object": "a 75.6% surge in sales/revenue, 92.03% growth in gross profit, and 107.91% rise in operational profit"
+},
+{
+"subject": "net profit",
+"verb": "increased by",
+"stem": "increase",
+"object": "13.57%, while total comprehensive income decreased by 19.13%"
+},
+{
+"subject": "total shareholders' equity (after deducting minority equity)",
+"verb": "surged by",
+"stem": "surge",
+"object": "158.69%"
+},
+{
+"subject": "the strong financial performance",
+"verb": "indicates",
+"stem": "indicate",
+"object": "continued growth and success in Ades Holding Co.'s operations"
+},
+{
+"subject": "the significant increases",
+"verb": "demonstrate",
+"stem": "demonstrate",
+"object": "the company's ability to capitalize on new opportunities and expand its business"
+},
+{
+"subject": "these results",
+"verb": "may encourage",
+"stem": "encourage",
+"object": "investors and potentially lead to increased interest and investment in the company"
+}
+],
+"total_SVOs": 7
+},
+  "Fin-42": {
+    "SVO_relationships": [
+      {
+        "subject": "the fake, country-wet freshness",
+        "verb": "evaporated",
+        "stem": "evaporate",
+        "object": "like the tail end of a sweet dream"
+      },
+      {
+        "subject": "the hot streets",
+        "verb": "wavered",
+        "stem": "waver",
+        "object": "in the sun"
+      },
+      {
+        "subject": "I",
+        "verb": "kept hearing",
+        "stem": "hear",
+        "object": "about the Rosenbergs over the radio and at the office"
+      },
+      {
+        "subject": "I",
+        "verb": "couldn't get",
+        "stem": "get",
+        "object": "them out of my mind"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-43": {
+    "SVO_relationships": [
+      {
+        "subject": "The Saudi Public Transport Company (SAPTCO)",
+        "verb": "received",
+        "stem": "receive",
+        "object": "Board of Directors' approval"
+      },
+      {
+        "subject": "SAPTCO",
+        "verb": "is",
+        "stem": "be",
+        "object": "a fully owned subsidiary"
+      },
+      {
+        "subject": "the subsidiary",
+        "verb": "will be focused on",
+        "stem": "focus",
+        "object": "training services"
+      },
+      {
+        "subject": "SAPTCO",
+        "verb": "is",
+        "stem": "be",
+        "object": "poised to create new revenue streams"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-44": {
+    "SVO_relationships": [
+      {
+        "subject": "Saudi Public Transport Company (SAPTCO)",
+        "verb": "announced",
+        "stem": "announce",
+        "object": "the reappointment of HE Mr. Musad bin Abdulazeez Aldaood as Chairman of the Board of Directors"
+      },
+      {
+        "subject": "Mr. Turki bin Musaed AlMubarak",
+        "verb": "was",
+        "stem": "be",
+        "object": "reappointed as Vice Chairman"
+      },
+      {
+        "subject": "HE Mr. Musad bin Abdulazeez Aldaood and Mr. Turki bin Musaed AlMubarak",
+        "verb": "will serve",
+        "stem": "serve",
+        "object": "independent roles"
+      },
+      {
+        "subject": "SAPTCO",
+        "verb": "is",
+        "stem": "be",
+        "object": "in the public transport sector"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-45": {
+    "SVO_relationships": [
+      {
+        "subject": "Saudi Public Transport Company (SAPTCO)",
+        "verb": "released",
+        "stem": "release",
+        "object": "its 2023 consolidated financial results"
+      },
+      {
+        "subject": "SAPTCO's 2023 financial results",
+        "verb": "showed",
+        "stem": "show",
+        "object": "a significant improvement in net losses and revenue growth"
+      },
+      {
+        "subject": "the company",
+        "verb": "demonstrated",
+        "stem": "demonstrate",
+        "object": "its ability to adapt and capitalize on market opportunities"
+      },
+      {
+        "subject": "SAPTCO",
+        "verb": "is",
+        "stem": "be",
+        "object": "poised to positively impact its financial performance"
+      }
+    ],
+    "total_SVOs": 4
+  },
+
+  "Fin-46": {
+    "SVO_relationships": [
+      {
+        "subject": "Saudi Public Transport Company (SAPTCO)",
+        "verb": "announces",
+        "stem": "announce",
+        "object": "the appointment of Mr. Turki bin Musaed AlMubarak to its Audit Committee"
+      },
+      {
+        "subject": "the addition of Mr. Turki bin Musaed AlMubarak",
+        "verb": "will further strengthen",
+        "stem": "strengthen",
+        "object": "the company's financial oversight and governance"
+      }
+    ],
+    "total_SVOs": 2
+  },
+  "Fin-47": {
+    "SVO_relationships": [
+      {
+        "subject": "Americana Restaurants International PLC",
+        "verb": "releases",
+        "stem": "release",
+        "object": "the outcomes of its recent Board of Directors meeting, with attached documents providing further details"
+      },
+      {
+        "subject": "the release of the Board of Directors meeting results",
+        "verb": "provides",
+        "stem": "provide",
+        "object": "insight into the company's strategic direction and decision-making process"
+      },
+      {
+        "subject": "Investors and stakeholders",
+        "verb": "should refer",
+        "stem": "refer",
+        "object": "to the attached documents for a comprehensive understanding"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "Fin-48": {
+    "SVO_relationships": [
+      {
+        "subject": "Leejam Sports Company (Fitness Time)",
+        "verb": "unveiled",
+        "stem": "unveil",
+        "object": "a new 24-hour, low-cost men's fitness center in Jizan, Saudi Arabia, equipped with cutting-edge technology and flexible subscriptions"
+      },
+      {
+        "subject": "The opening of the new Fitness Time Xpress center",
+        "verb": "provides",
+        "stem": "provide",
+        "object": "an affordable and accessible fitness option for residents, contributing to the advancement of Saudi Vision 2030's objectives"
+      },
+      {
+        "subject": "The addition of this center to Leejam's portfolio",
+        "verb": "is expected to positively impact",
+        "stem": "impact",
+        "object": "the company's financial performance and solidify its presence in the fitness industry"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "Fin-49": {
+    "SVO_relationships": [
+      {
+        "subject": "Riyadh Cables Group Co.",
+        "verb": "will hold",
+        "stem": "hold",
+        "object": "an earnings conference call on 13 March 2024 to discuss 2023 financial results"
+      },
+      {
+        "subject": "Riyadh Cables Group Co.",
+        "verb": "to strengthen",
+        "stem": "strengthen",
+        "object": "its relationship with the financial community by providing transparent and detailed information"
+      },
+      {
+        "subject": "It offers",
+        "verb": "offers",
+        "stem": "offer",
+        "object": "an opportunity for investors and analysts to gain insights and ask questions directly to the management"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "Fin-50": {
+    "SVO_relationships": [
+      {
+        "subject": "Clean Life Co.",
+        "verb": "released",
+        "stem": "release",
+        "object": "its annual financial results for 2023, revealing substantial growth in sales, gross profit, and net profit compared to the previous year"
+      },
+      {
+        "subject": "Clean Life Co.'s robust financial performance in 2023",
+        "verb": "highlights",
+        "stem": "highlight",
+        "object": "the success of its operational efficiency improvements and sales team expansion strategies"
+      },
+      {
+        "subject": "The positive results",
+        "verb": "should instill confidence",
+        "stem": "instill confidence",
+        "object": "in investors, potentially driving up the company's share price and overall market valuation"
+      }
+    ],
+    "total_SVOs": 3
+  },
+
+  "Fin-51": {
+    "SVO_relationships": [
+      {
+        "subject": "Saudi Cable Company",
+        "verb": "has decided",
+        "stem": "decide",
+        "object": "to divest its Turkish investments due to poor returns and continued losses, despite previous attempts to improve profitability"
+      },
+      {
+        "subject": "The decision to sell off Turkish investments",
+        "verb": "indicates",
+        "stem": "indicate",
+        "object": "Saudi Cable Company's strategic shift to focus on more profitable opportunities"
+      },
+      {
+        "subject": "This move",
+        "verb": "may lead to",
+        "stem": "lead to",
+        "object": "improved financial performance for the company in the long run but could also result in short-term financial implications due to potential divestment costs"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "Fin-52": {
+    "SVO_relationships": [
+      {
+        "subject": "Al Rajhi Bank",
+        "verb": "has initiated the offer",
+        "stem": "initiate",
+        "object": "of its U.S. dollar-denominated sustainable Sukuk under its international Sukuk program, targeting eligible investors in Saudi Arabia and globally"
+      },
+      {
+        "subject": "The offer",
+        "verb": "starts",
+        "stem": "start",
+        "object": "on March 5, 2024, and ends on March 6, 2024, with a minimum subscription of USD 200,000"
+      },
+      {
+        "subject": "This announcement",
+        "verb": "signifies",
+        "stem": "signify",
+        "object": "Al Rajhi Bank's entry into the international Sukuk market, aiming to raise capital through its sustainable Sukuk offering"
+      },
+      {
+        "subject": "The move",
+        "verb": "is expected to",
+        "stem": "expect to",
+        "object": "attract eligible investors seeking Shariah-compliant investments and contribute to the growth of sustainable finance"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-53": {
+    "SVO_relationships": [
+      {
+        "subject": "CleanLife Company's Board of Directors",
+        "verb": "recommends",
+        "stem": "recommend",
+        "object": "transferring the company's statutory reserve to retained earnings, as per the 2023 financial statements"
+      },
+      {
+        "subject": "The proposed transfer",
+        "verb": "indicates",
+        "stem": "indicate",
+        "object": "CleanLife Company's strong financial position and its intention to optimize the use of its reserves"
+      },
+      {
+        "subject": "Shareholders",
+        "verb": "will review",
+        "stem": "review",
+        "object": "this recommendation during the Ordinary General Assembly meeting, ultimately affecting the company's financial structure and future investment decisions"
+      }
+    ],
+    "total_SVOs": 3
+  },
+  "Fin-54": {
+    "SVO_relationships": [
+      {
+        "subject": "CleanLife Co.",
+        "verb": "announces",
+        "stem": "announce",
+        "object": "the Board of Directors' recommendation to distribute cash dividends for the second half of 2023: 2 SAR per share, 20% of par value, for eligible shareholders"
+      },
+      {
+        "subject": "The announcement of CleanLife Co.'s dividend distribution",
+        "verb": "will affect",
+        "stem": "affect",
+        "object": "shareholders who meet the eligibility criteria"
+      },
+      {
+        "subject": "These shareholders",
+        "verb": "can expect to receive",
+        "stem": "expect to receive",
+        "object": "a 20% return on their investment, equivalent to 2 SAR per share"
+      },
+      {
+        "subject": "Further details",
+        "verb": "will be disclosed",
+        "stem": "disclose",
+        "object": "regarding the General Assembly meeting and dividend distribution dates later"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-55": {
+    "SVO_relationships": [
+      {
+        "subject": "BinDawood Holding Company",
+        "verb": "invites",
+        "stem": "invite",
+        "object": "shareholders to attend the Extraordinary General Assembly Meeting (First Meeting) on 31 March 2024 at 22:30 GMT+3 via the Tadawulaty platform"
+      },
+      {
+        "subject": "The meeting",
+        "verb": "will cover",
+        "stem": "cover",
+        "object": "three main agenda items, including voting on an employee share plan, purchasing up to 2 million shares for the Employee Share Ownership Plan, and appointing Mr. Ahmad Abdulrazzag Dawood BinDawood as an Executive Board member"
+      },
+      {
+        "subject": "Shareholders' participation",
+        "verb": "is crucial",
+        "stem": "crucial",
+        "object": "for shaping the future direction of BinDawood Holding Company"
+      },
+      {
+        "subject": "By voting on the proposed agenda items",
+        "verb": "shareholders can contribute",
+        "stem": "contribute",
+        "object": "to decisions regarding the employee share plan, the allocation of shares for the Employee Share Ownership Plan, and the appointment of a new Executive Board member"
+      }
+    ],
+    "total_SVOs": 4
+  },
+   "Fin-61": {
+    "SVO_relationships": [
+      {
+        "subject": "Herfy Food Services Co.",
+        "verb": "has released",
+        "stem": "release",
+        "object": "its 2023 annual financial results"
+      },
+      {
+        "subject": "results",
+        "verb": "show",
+        "stem": "show",
+        "object": "a decrease in sales and gross profit but an increase in operational and net profits"
+      },
+      {
+        "subject": "Herfy Foods' financial performance",
+        "verb": "indicates",
+        "stem": "indicate",
+        "object": "a mixed outcome for the company in 2023"
+      },
+      {
+        "subject": "operational and net profits",
+        "verb": "experienced",
+        "stem": "experience",
+        "object": "growth"
+      },
+      {
+        "subject": "The unmodified opinion from the external auditor",
+        "verb": "indicates",
+        "stem": "indicate",
+        "object": "that the financial statements present a true and fair view of the company's financial position"
+      },
+      {
+        "subject": "Investors",
+        "verb": "should consider",
+        "stem": "consider",
+        "object": "the decrease in sales and comprehensive income when evaluating the company's performance"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Fin-62": {
+    "SVO_relationships": [
+      {
+        "subject": "Miyar Capital",
+        "verb": "announces",
+        "stem": "announce",
+        "object": "an offering price of SAR 18 per share for Al Taqat Mineral For Trading Company in the parallel market - Nomu"
+      },
+      {
+        "subject": "The subscription period",
+        "verb": "starts",
+        "stem": "start",
+        "object": "on March 6, 2024, and ends on March 13, 2024"
+      },
+      {
+        "subject": "This announcement",
+        "verb": "signals",
+        "stem": "signal",
+        "object": "the initiation of Al Taqat Mineral For Trading Company's offering process in the Nomu parallel market"
+      },
+      {
+        "subject": "The offering price and subscription period",
+        "verb": "provide",
+        "stem": "provide",
+        "object": "qualified investors the opportunity to participate in the growth of Al Taqat Mineral"
+      },
+      {
+        "subject": "investors",
+        "verb": "potentially contributing",
+        "stem": "contribute",
+        "object": "to the expansion of the company's operations and market presence"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  
+  "Fin-76": {
+    "SVO_relationships": [
+      {
+        "subject": "Saudi Electricity Company",
+        "verb": "released",
+        "stem": "release",
+        "object": "its audited 2023 consolidated financial results"
+      },
+      {
+        "subject": "results",
+        "verb": "show",
+        "stem": "show",
+        "object": "a 4.51% increase in sales/revenue, but a 32.28% decline in net profit"
+      },
+      {
+        "subject": "The decrease in net profit",
+        "verb": "is attributed",
+        "stem": "attribute",
+        "object": "to higher operating and maintenance costs, increasing financing costs, and a non-recurring expense"
+      },
+      {
+        "subject": "The reported financial results",
+        "verb": "reflect",
+        "stem": "reflect",
+        "object": "a challenging year for Saudi Electricity Company"
+      },
+      {
+        "subject": "Investors",
+        "verb": "should monitor",
+        "stem": "monitor",
+        "object": "the company's efforts to address rising costs and maintain profitability"
+      },
+      {
+        "subject": "The company's forthcoming conference call",
+        "verb": "will provide",
+        "stem": "provide",
+        "object": "further insight into the financial performance and strategies moving forward"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Fin-77": {
+    "SVO_relationships": [
+      {
+        "subject": "Al-Jouf Agricultural Development Co.",
+        "verb": "announced",
+        "stem": "announce",
+        "object": "the distribution of cash dividends for the second half of fiscal year 2023"
+      },
+      {
+        "subject": "The declaration of dividends",
+        "verb": "will result",
+        "stem": "result",
+        "object": "in shareholders receiving a 5% return on their investment"
+      },
+      {
+        "subject": "This move",
+        "verb": "is anticipated",
+        "stem": "anticipate",
+        "object": "to positively impact shareholders and potentially attract new investors"
+      },
+      {
+        "subject": "This move",
+        "verb": "contributing",
+        "stem": "contribute",
+        "object": "to the company's market standing"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-78": {
+    "SVO_relationships": [
+      {
+        "subject": "Abdulmohsen Alhokair Group and Newrest Company",
+        "verb": "have formed",
+        "stem": "form",
+        "object": "a joint venture, \"New Rest Catering Services Company\""
+      },
+      {
+        "subject": "The formation of the \"New Rest Catering Services Company\"",
+        "verb": "represents",
+        "stem": "represent",
+        "object": "a strategic alliance between Abdulmohsen Alhokair Group and Newrest Company"
+      },
+      {
+        "subject": "This partnership",
+        "verb": "is expected",
+        "stem": "expect",
+        "object": "to strengthen both companies' positions in the Saudi Arabian market"
+      },
+      {
+        "subject": "This partnership",
+        "verb": "enhance",
+        "stem": "enhance",
+        "object": "their offerings in the catering and facilities management sectors"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  
+  "Fin-84": {
+    "SVO_relationships": [
+      {
+        "subject": "Middle East Specialized Cables Co.",
+        "verb": "released",
+        "stem": "release",
+        "object": "its annual financial results for 2023"
+      },
+      {
+        "subject": "results",
+        "verb": "show",
+        "stem": "show",
+        "object": "improvements in sales, profits, and equity"
+      },
+      {
+        "subject": "Increased sales and gross margins",
+        "verb": "led",
+        "stem": "lead",
+        "object": "to a net profit"
+      },
+      {
+        "subject": "equity",
+        "verb": "rose",
+        "stem": "rise",
+        "object": "by 15.02%"
+      },
+      {
+        "subject": "The positive financial performance of Middle East Specialized Cables Co.",
+        "verb": "indicates",
+        "stem": "indicate",
+        "object": "a healthy financial position"
+      },
+      {
+        "subject": "Investors",
+        "verb": "may find",
+        "stem": "find",
+        "object": "these results encouraging"
+      },
+      {
+        "subject": "the reclassification of some comparative figures from the previous year",
+        "verb": "may require",
+        "stem": "require",
+        "object": "careful analysis when comparing performance"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  
+  "Fin-99": {
+    "SVO_relationships": [
+      {
+        "subject": "GAS Arabian Services Co.",
+        "verb": "announced",
+        "stem": "announce",
+        "object": "the Board of Directors' recommendation to distribute cash dividends for the fiscal year 2023"
+      },
+      {
+        "subject": "Shareholders with eligible shares",
+        "verb": "stand to benefit",
+        "stem": "benefit",
+        "object": "from a 0.3 SAR dividend per share"
+      },
+      {
+        "subject": "details",
+        "verb": "will be communicated",
+        "stem": "communicate",
+        "object": "later"
+      },
+      {
+        "subject": "Shareholders",
+        "verb": "are encouraged",
+        "stem": "encourage",
+        "object": "to contact the company's investor relations department for additional information"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Fin-100": {
+    "SVO_relationships": [
+      {
+        "subject": "Gas Arabian Services Co.",
+        "verb": "has announced",
+        "stem": "announce",
+        "object": "its FY2023 financial results"
+      },
+      {
+        "subject": "results",
+        "verb": "show",
+        "stem": "show",
+        "object": "a 45.45% increase in sales/revenue, 20.9% growth in net profit, and 15.98% rise in total comprehensive income compared to FY2022"
+      },
+      {
+        "subject": "Investors",
+        "verb": "are likely to view",
+        "stem": "view",
+        "object": "these strong financial results positively"
+      },
+      {
+        "subject": "The robust growth in sales, net profit, and comprehensive income",
+        "verb": "highlights",
+        "stem": "highlight",
+        "object": "Gas Arabian Services Co.'s ability to capitalize on market opportunities and manage its business effectively"
+      },
+      {
+        "subject": "The unmodified auditor's opinion",
+        "verb": "adds",
+        "stem": "add",
+        "object": "credibility to the financial statements"
+      }
+    ],
+    "total_SVOs": 5
+  }  
+}

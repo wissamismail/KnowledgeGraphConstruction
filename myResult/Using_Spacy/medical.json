@@ -1,0 +1,1269 @@
+{
+    "Med-1": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "havediscussed",
+                "stem": "havediscusse",
+                "object": "function"
+            },
+            {
+                "subject": "experience",
+                "verb": "supports",
+                "stem": "support",
+                "object": "ob"
+            },
+            {
+                "subject": "arrest",
+                "verb": "occur",
+                "stem": "occur",
+                "object": "shunt"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-2": {
+        "SVO_relationships": [
+            {
+                "subject": "gastric",
+                "verb": "cooling",
+                "stem": "cool",
+                "object": "hypothermia"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-3": {
+        "SVO_relationships": [
+            {
+                "subject": "examination",
+                "verb": "showed",
+                "stem": "show",
+                "object": "stage"
+            },
+            {
+                "subject": "examination",
+                "verb": "showed",
+                "stem": "show",
+                "object": "hyperplasia"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-4": {
+        "SVO_relationships": [
+            {
+                "subject": "Patients",
+                "verb": "effectsof",
+                "stem": "effectsof",
+                "object": "treatment"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-6": {
+        "SVO_relationships": [
+            {
+                "subject": "it",
+                "verb": "reached",
+                "stem": "reach",
+                "object": "peak"
+            },
+            {
+                "subject": "method",
+                "verb": "applied",
+                "stem": "apply",
+                "object": "study"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-7": {
+        "SVO_relationships": [
+            {
+                "subject": "ADH",
+                "verb": "exerts",
+                "stem": "exert",
+                "object": "effects"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-8": {
+        "SVO_relationships": [
+            {
+                "subject": "units",
+                "verb": "lack",
+                "stem": "lack",
+                "object": "wall"
+            },
+            {
+                "subject": "units",
+                "verb": "seenwithin",
+                "stem": "seenwithin",
+                "object": "bodies"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-9": {
+        "SVO_relationships": [
+            {
+                "subject": "mustard",
+                "verb": "showed",
+                "stem": "show",
+                "object": "survival"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-10": {
+        "SVO_relationships": [
+            {
+                "subject": "patients",
+                "verb": "withdisseminated",
+                "stem": "withdisseminate",
+                "object": "cancer"
+            },
+            {
+                "subject": "theseagents",
+                "verb": "produced",
+                "stem": "produce",
+                "object": "effects"
+            },
+            {
+                "subject": "patients",
+                "verb": "had",
+                "stem": "have",
+                "object": "objectiveregression"
+            },
+            {
+                "subject": "modalities",
+                "verb": "have",
+                "stem": "have",
+                "object": "mechanism"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Med-11": {
+        "SVO_relationships": [
+            {
+                "subject": "responses",
+                "verb": "indicate",
+                "stem": "indicate",
+                "object": "etiology"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-13": {
+        "SVO_relationships": [
+            {
+                "subject": "analyses",
+                "verb": "revealed",
+                "stem": "reveal",
+                "object": "anxiety"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-14": {
+        "SVO_relationships": [
+            {
+                "subject": "acids",
+                "verb": "increases",
+                "stem": "increase",
+                "object": "concentration"
+            },
+            {
+                "subject": "hormone.hypercalciuria",
+                "verb": "accompanies",
+                "stem": "accompany",
+                "object": "ment"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-16": {
+        "SVO_relationships": [
+            {
+                "subject": "who",
+                "verb": "show",
+                "stem": "show",
+                "object": "points"
+            },
+            {
+                "subject": "we",
+                "verb": "recognisein",
+                "stem": "recognisein",
+                "object": "them"
+            },
+            {
+                "subject": "some",
+                "verb": "had",
+                "stem": "have",
+                "object": "hypercalcaemia"
+            },
+            {
+                "subject": "children",
+                "verb": "show",
+                "stem": "show",
+                "object": "similarities"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Med-17": {
+        "SVO_relationships": [
+            {
+                "subject": "who",
+                "verb": "receiving",
+                "stem": "receive",
+                "object": "treatment"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-18": {
+        "SVO_relationships": [
+            {
+                "subject": "crystallin",
+                "verb": "fractionsof",
+                "stem": "fractionsof",
+                "object": "lens"
+            },
+            {
+                "subject": "lenses",
+                "verb": "separated",
+                "stem": "separate",
+                "object": "b"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-19": {
+        "SVO_relationships": [
+            {
+                "subject": "pair",
+                "verb": "administered",
+                "stem": "administer",
+                "object": "50"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-20": {
+        "SVO_relationships": [
+            {
+                "subject": "cultures",
+                "verb": "embryonated",
+                "stem": "embryonate",
+                "object": "eggs"
+            },
+            {
+                "subject": "1",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "species"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-21": {
+        "SVO_relationships": [
+            {
+                "subject": "strategies",
+                "verb": "include",
+                "stem": "include",
+                "object": "approaches"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-23": {
+        "SVO_relationships": [
+            {
+                "subject": "evidence",
+                "verb": "presented",
+                "stem": "present",
+                "object": "defenses"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-24": {
+        "SVO_relationships": [
+            {
+                "subject": "that",
+                "verb": "chelate",
+                "stem": "chelate",
+                "object": "calcium"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-25": {
+        "SVO_relationships": [
+            {
+                "subject": "7",
+                "verb": "casesdemonstrated",
+                "stem": "casesdemonstrate",
+                "object": "stainingcollections"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-26": {
+        "SVO_relationships": [
+            {
+                "subject": "dogs",
+                "verb": "had",
+                "stem": "have",
+                "object": "similarconcentrations"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-27": {
+        "SVO_relationships": [
+            {
+                "subject": "ml",
+                "verb": "conjugated",
+                "stem": "conjugate",
+                "object": "androsterone"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-29": {
+        "SVO_relationships": [
+            {
+                "subject": "course",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "evidence"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-31": {
+        "SVO_relationships": [
+            {
+                "subject": "that",
+                "verb": "lack",
+                "stem": "lack",
+                "object": "definitions"
+            },
+            {
+                "subject": "patients",
+                "verb": "developed",
+                "stem": "develop",
+                "object": "angina"
+            },
+            {
+                "subject": "patients",
+                "verb": "diagnosed",
+                "stem": "diagnose",
+                "object": "disease"
+            },
+            {
+                "subject": "angiography",
+                "verb": "showed",
+                "stem": "show",
+                "object": "disease"
+            },
+            {
+                "subject": "patients",
+                "verb": "demonstrated",
+                "stem": "demonstrate",
+                "object": "reduction"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Med-32": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "developed",
+                "stem": "develop",
+                "object": "model"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-34": {
+        "SVO_relationships": [
+            {
+                "subject": "guidelines",
+                "verb": "update",
+                "stem": "update",
+                "object": "recommendations"
+            },
+            {
+                "subject": "presence",
+                "verb": "suggests",
+                "stem": "suggest",
+                "object": "pathology"
+            },
+            {
+                "subject": "patients",
+                "verb": "undergo",
+                "stem": "undergo",
+                "object": "ultrasonography"
+            },
+            {
+                "subject": "Patients",
+                "verb": "exceeding",
+                "stem": "exceed",
+                "object": "mm"
+            },
+            {
+                "subject": "Infants",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "prophylaxis"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Med-35": {
+        "SVO_relationships": [
+            {
+                "subject": "selenium",
+                "verb": "killed",
+                "stem": "kill",
+                "object": "embryos"
+            },
+            {
+                "subject": "abnormalities",
+                "verb": "observed",
+                "stem": "observe",
+                "object": "embryos"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-36": {
+        "SVO_relationships": [
+            {
+                "subject": "der",
+                "verb": "polyarthrosenamong",
+                "stem": "polyarthrosenamong",
+                "object": "affections"
+            },
+            {
+                "subject": "polyarthrosis",
+                "verb": "wrote",
+                "stem": "write",
+                "object": "aboutand"
+            },
+            {
+                "subject": "area",
+                "verb": "dedicatedto",
+                "stem": "dedicatedto",
+                "object": "differentiation"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-38": {
+        "SVO_relationships": [
+            {
+                "subject": "moduli",
+                "verb": "showed",
+                "stem": "show",
+                "object": "dependence"
+            },
+            {
+                "subject": "lenses",
+                "verb": "showed",
+                "stem": "show",
+                "object": "elasticity"
+            },
+            {
+                "subject": "they",
+                "verb": "showed",
+                "stem": "show",
+                "object": "elasticity"
+            },
+            {
+                "subject": "amplitude",
+                "verb": "exceeded",
+                "stem": "exceed",
+                "object": "mm"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Med-39": {
+        "SVO_relationships": [
+            {
+                "subject": "disorders",
+                "verb": "include",
+                "stem": "include",
+                "object": "hemoglobin"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-40": {
+        "SVO_relationships": [
+            {
+                "subject": "it",
+                "verb": "isbelieved",
+                "stem": "isbelieve",
+                "object": "action"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-42": {
+        "SVO_relationships": [
+            {
+                "subject": "presence",
+                "verb": "culturedin",
+                "stem": "culturedin",
+                "object": "vitro"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-43": {
+        "SVO_relationships": [
+            {
+                "subject": "liver",
+                "verb": "contained",
+                "stem": "contain",
+                "object": "eggs"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-44": {
+        "SVO_relationships": [
+            {
+                "subject": "studies",
+                "verb": "hormoneten",
+                "stem": "hormoneten",
+                "object": "patients"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-46": {
+        "SVO_relationships": [
+            {
+                "subject": "surgery",
+                "verb": "contains",
+                "stem": "contain",
+                "object": "neurosurgery"
+            },
+            {
+                "subject": "volume",
+                "verb": "determined",
+                "stem": "determine",
+                "object": "rate"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-48": {
+        "SVO_relationships": [
+            {
+                "subject": "who",
+                "verb": "given",
+                "stem": "give",
+                "object": "glucoseinfusions"
+            },
+            {
+                "subject": "values",
+                "verb": "showed",
+                "stem": "show",
+                "object": "in"
+            },
+            {
+                "subject": "theresults",
+                "verb": "show",
+                "stem": "show",
+                "object": "that"
+            },
+            {
+                "subject": "factors",
+                "verb": "play",
+                "stem": "play",
+                "object": "role"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Med-49": {
+        "SVO_relationships": [
+            {
+                "subject": "excretion",
+                "verb": "indicated",
+                "stem": "indicate",
+                "object": "increase"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-50": {
+        "SVO_relationships": [
+            {
+                "subject": "growth",
+                "verb": "received",
+                "stem": "receive",
+                "object": "dailyinjections"
+            },
+            {
+                "subject": "groups",
+                "verb": "served",
+                "stem": "serve",
+                "object": "aspregnancy"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-51": {
+        "SVO_relationships": [
+            {
+                "subject": "that",
+                "verb": "buffered",
+                "stem": "buffer",
+                "object": "plasma"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-52": {
+        "SVO_relationships": [
+            {
+                "subject": "presence",
+                "verb": "inspired",
+                "stem": "inspire",
+                "object": "name"
+            },
+            {
+                "subject": "GCA",
+                "verb": "present",
+                "stem": "present",
+                "object": "infiltrates"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-53": {
+        "SVO_relationships": [
+            {
+                "subject": "deletion",
+                "verb": "induced",
+                "stem": "induce",
+                "object": "decrease"
+            },
+            {
+                "subject": "SLC7A8",
+                "verb": "yielded",
+                "stem": "yield",
+                "object": "deletion"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-55": {
+        "SVO_relationships": [
+            {
+                "subject": "blood",
+                "verb": "obtained",
+                "stem": "obtain",
+                "object": "term"
+            },
+            {
+                "subject": "bloodwas",
+                "verb": "whereasin",
+                "stem": "whereasin",
+                "object": "serum"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-56": {
+        "SVO_relationships": [
+            {
+                "subject": "incidence",
+                "verb": "hospitalized",
+                "stem": "hospitalize",
+                "object": "years"
+            },
+            {
+                "subject": "patients",
+                "verb": "interviewed",
+                "stem": "interview",
+                "object": "presence"
+            },
+            {
+                "subject": "signs",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "characteristicfeatures"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-57": {
+        "SVO_relationships": [
+            {
+                "subject": "use",
+                "verb": "diabetes",
+                "stem": "diabete",
+                "object": "use"
+            },
+            {
+                "subject": "volumeand",
+                "verb": "decreased",
+                "stem": "decrease",
+                "object": "clearance"
+            },
+            {
+                "subject": "administration",
+                "verb": "promoted",
+                "stem": "promote",
+                "object": "re"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-58": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "emphasize",
+                "stem": "emphasize",
+                "object": "occurrence"
+            },
+            {
+                "subject": "we",
+                "verb": "describe",
+                "stem": "describe",
+                "object": "occurrence"
+            },
+            {
+                "subject": "we",
+                "verb": "emphasize",
+                "stem": "emphasize",
+                "object": "finding"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-59": {
+        "SVO_relationships": [
+            {
+                "subject": "child",
+                "verb": "experiences",
+                "stem": "experience",
+                "object": "it"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-60": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "describe",
+                "stem": "describe",
+                "object": "case"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-61": {
+        "SVO_relationships": [
+            {
+                "subject": "hormone",
+                "verb": "prevents",
+                "stem": "prevent",
+                "object": "depression"
+            },
+            {
+                "subject": "Treatment",
+                "verb": "causes",
+                "stem": "cause",
+                "object": "anabolism"
+            },
+            {
+                "subject": "MP",
+                "verb": "caused",
+                "stem": "cause",
+                "object": "rats"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-62": {
+        "SVO_relationships": [
+            {
+                "subject": "which",
+                "verb": "cured",
+                "stem": "cure",
+                "object": "infection"
+            },
+            {
+                "subject": "growths",
+                "verb": "followed",
+                "stem": "follow",
+                "object": "theuse"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-63": {
+        "SVO_relationships": [
+            {
+                "subject": "sp10",
+                "verb": "infect",
+                "stem": "infect",
+                "object": "subtilis"
+            },
+            {
+                "subject": "bacteria",
+                "verb": "give",
+                "stem": "give",
+                "object": "rise"
+            },
+            {
+                "subject": "that",
+                "verb": "produce",
+                "stem": "produce",
+                "object": "phage"
+            },
+            {
+                "subject": "60",
+                "verb": "retain",
+                "stem": "retain",
+                "object": "ability"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Med-64": {
+        "SVO_relationships": [
+            {
+                "subject": "study",
+                "verb": "establish",
+                "stem": "establish",
+                "object": "line"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-65": {
+        "SVO_relationships": [
+            {
+                "subject": "secretes",
+                "verb": "apolypeptide",
+                "stem": "apolypeptide",
+                "object": "hormone"
+            },
+            {
+                "subject": "isolation",
+                "verb": "lowering",
+                "stem": "lower",
+                "object": "phosphate"
+            },
+            {
+                "subject": "hormonecan",
+                "verb": "extracted",
+                "stem": "extract",
+                "object": "thyroid"
+            },
+            {
+                "subject": ".",
+                "verb": "thyrocalcitoninremains",
+                "stem": "thyrocalcitoninremain",
+                "object": "afterparathyroidectomy"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Med-66": {
+        "SVO_relationships": [
+            {
+                "subject": "subjects",
+                "verb": "reveal",
+                "stem": "reveal",
+                "object": "anxieties"
+            },
+            {
+                "subject": "he",
+                "verb": "exhibited",
+                "stem": "exhibit",
+                "object": "behavior"
+            },
+            {
+                "subject": "he",
+                "verb": "transcended",
+                "stem": "transcend",
+                "object": "usuallevel"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-71": {
+        "SVO_relationships": [
+            {
+                "subject": "course",
+                "verb": "involves",
+                "stem": "involve",
+                "object": "remission"
+            },
+            {
+                "subject": "reports",
+                "verb": "confirmed",
+                "stem": "confirm",
+                "object": "relationship"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-74": {
+        "SVO_relationships": [
+            {
+                "subject": "synthesis",
+                "verb": "passed",
+                "stem": "pass",
+                "object": "decline"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-75": {
+        "SVO_relationships": [
+            {
+                "subject": "alterations",
+                "verb": "induced",
+                "stem": "induce",
+                "object": "dogs"
+            },
+            {
+                "subject": "dogs",
+                "verb": "developed",
+                "stem": "develop",
+                "object": "edema"
+            },
+            {
+                "subject": "dogs",
+                "verb": "developed",
+                "stem": "develop",
+                "object": "pulmonaryedema"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-76": {
+        "SVO_relationships": [
+            {
+                "subject": "those",
+                "verb": "whoattained",
+                "stem": "whoattaine",
+                "object": "concept"
+            },
+            {
+                "subject": "attention",
+                "verb": "paid",
+                "stem": "pay",
+                "object": "distinction"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-77": {
+        "SVO_relationships": [
+            {
+                "subject": "study",
+                "verb": "included",
+                "stem": "include",
+                "object": "patients"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-78": {
+        "SVO_relationships": [
+            {
+                "subject": "relation",
+                "verb": "acidswas",
+                "stem": "acidswa",
+                "object": "1"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-79": {
+        "SVO_relationships": [
+            {
+                "subject": "it",
+                "verb": "induced",
+                "stem": "induce",
+                "object": "ligaments"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-80": {
+        "SVO_relationships": [
+            {
+                "subject": "methods",
+                "verb": "given",
+                "stem": "give",
+                "object": "patients"
+            },
+            {
+                "subject": "withoutsurgery",
+                "verb": "received",
+                "stem": "receive",
+                "object": "irradiationbecause"
+            },
+            {
+                "subject": "patients",
+                "verb": "received",
+                "stem": "receive",
+                "object": "irradiationbecause"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-81": {
+        "SVO_relationships": [
+            {
+                "subject": "100ug",
+                "verb": "formed",
+                "stem": "form",
+                "object": "1/6"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-82": {
+        "SVO_relationships": [
+            {
+                "subject": "brain",
+                "verb": "tolerates",
+                "stem": "tolerate",
+                "object": "arrest"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-83": {
+        "SVO_relationships": [
+            {
+                "subject": "exchanges",
+                "verb": "consist",
+                "stem": "consist",
+                "object": "andreaction"
+            },
+            {
+                "subject": "which",
+                "verb": "requires",
+                "stem": "require",
+                "object": "responses"
+            },
+            {
+                "subject": "i",
+                "verb": "designated",
+                "stem": "designate",
+                "object": "responseexchanges"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-86": {
+        "SVO_relationships": [
+            {
+                "subject": "examinations",
+                "verb": "showed",
+                "stem": "show",
+                "object": "rise"
+            },
+            {
+                "subject": "EXAMINATIONS",
+                "verb": "showed",
+                "stem": "show",
+                "object": "rise"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-87": {
+        "SVO_relationships": [
+            {
+                "subject": "we",
+                "verb": "compared",
+                "stem": "compare",
+                "object": "effect"
+            },
+            {
+                "subject": "selenite",
+                "verb": "reduced",
+                "stem": "reduce",
+                "object": "rate"
+            },
+            {
+                "subject": "treatment",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "gain"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-88": {
+        "SVO_relationships": [
+            {
+                "subject": "children",
+                "verb": "given",
+                "stem": "give",
+                "object": "chance"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-89": {
+        "SVO_relationships": [
+            {
+                "subject": "examinations",
+                "verb": "showed",
+                "stem": "show",
+                "object": "rise"
+            },
+            {
+                "subject": "examinations",
+                "verb": "showed",
+                "stem": "show",
+                "object": "rise"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-90": {
+        "SVO_relationships": [
+            {
+                "subject": "effects",
+                "verb": "has",
+                "stem": "have",
+                "object": "madeit"
+            },
+            {
+                "subject": "patients",
+                "verb": "present",
+                "stem": "present",
+                "object": "problem"
+            },
+            {
+                "subject": "patients",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "index"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-91": {
+        "SVO_relationships": [
+            {
+                "subject": "all",
+                "verb": "contained",
+                "stem": "contain",
+                "object": "crystals"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-92": {
+        "SVO_relationships": [
+            {
+                "subject": "antidiuresis",
+                "verb": "cause",
+                "stem": "cause",
+                "object": "fall"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-93": {
+        "SVO_relationships": [
+            {
+                "subject": "group",
+                "verb": "testing",
+                "stem": "test",
+                "object": "sera"
+            },
+            {
+                "subject": "sera",
+                "verb": "showed",
+                "stem": "show",
+                "object": "non"
+            },
+            {
+                "subject": "reactions",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "experience"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-96": {
+        "SVO_relationships": [
+            {
+                "subject": "scaffold",
+                "verb": "has",
+                "stem": "have",
+                "object": "potential"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-97": {
+        "SVO_relationships": [
+            {
+                "subject": "hydroquinone",
+                "verb": "gave",
+                "stem": "give",
+                "object": "excellentprotection"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-99": {
+        "SVO_relationships": [
+            {
+                "subject": "thecurves",
+                "verb": "indicated",
+                "stem": "indicate",
+                "object": "cent"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-100": {
+        "SVO_relationships": [
+            {
+                "subject": "primarysite",
+                "verb": "carcinomaof",
+                "stem": "carcinomaof",
+                "object": "kidney"
+            },
+            {
+                "subject": "metastases",
+                "verb": "compatiblewith",
+                "stem": "compatiblewith",
+                "object": "diagnosis"
+            }
+        ],
+        "total_SVOs": 2
+    }
+}

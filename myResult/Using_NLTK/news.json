@@ -1,0 +1,1142 @@
+{
+    "New-1": {
+        "SVO_relationships": [
+            {
+                "subject": "the new DLC members",
+                "verb": "have",
+                "stem": "have",
+                "object": "experience"
+            },
+            {
+                "subject": "These new members",
+                "verb": "help",
+                "stem": "help",
+                "object": "position"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-3": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "have",
+                "stem": "have",
+                "object": "Preservation Stewards"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-4": {
+        "SVO_relationships": [
+            {
+                "subject": "The mobile Web app",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "users"
+            },
+            {
+                "subject": "This award",
+                "verb": "be",
+                "stem": "be",
+                "object": "an honor"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-5": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Printer Davita Vance-Cooks"
+            },
+            {
+                "subject": "Budget app",
+                "verb": "be",
+                "stem": "be",
+                "object": "the second mobile Web app"
+            },
+            {
+                "subject": "Nation",
+                "verb": "take",
+                "stem": "take",
+                "object": "place"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-6": {
+        "SVO_relationships": [
+            {
+                "subject": "United States",
+                "verb": "be",
+                "stem": "be",
+                "object": "the 225th anniversary"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-7": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-9": {
+        "SVO_relationships": [
+            {
+                "subject": "the new DLC members",
+                "verb": "have",
+                "stem": "have",
+                "object": "experience"
+            },
+            {
+                "subject": "These new members",
+                "verb": "help",
+                "stem": "help",
+                "object": "position"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Halpern"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-14": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "open",
+                "stem": "open",
+                "object": "the facility"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-15": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-16": {
+        "SVO_relationships": [
+            {
+                "subject": "Collins",
+                "verb": "be",
+                "stem": "be",
+                "object": "the first woman"
+            },
+            {
+                "subject": "LeBlanc",
+                "verb": "serve",
+                "stem": "serve",
+                "object": "Deputy Director"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-17": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "need",
+                "stem": "need",
+                "object": "a secure location"
+            },
+            {
+                "subject": "Stennis Space Center",
+                "verb": "answer",
+                "stem": "answer",
+                "object": "the call"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Congressman Mike Ezell"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-18": {
+        "SVO_relationships": [
+            {
+                "subject": "USA magazine",
+                "verb": "select",
+                "stem": "select",
+                "object": "GPO"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-19": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-20": {
+        "SVO_relationships": [
+            {
+                "subject": "Director Hugh Nathanial Halpern",
+                "verb": "name",
+                "stem": "name",
+                "object": "James"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-22": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "McCarthy",
+                "verb": "serve",
+                "stem": "serve",
+                "object": "’"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-23": {
+        "SVO_relationships": [
+            {
+                "subject": "Jay",
+                "verb": "perform",
+                "stem": "perform",
+                "object": "oversight"
+            },
+            {
+                "subject": "McCarthy",
+                "verb": "be",
+                "stem": "be",
+                "object": "a native"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-24": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "have",
+                "stem": "have",
+                "object": "a long-standing history"
+            },
+            {
+                "subject": "Agency",
+                "verb": "have",
+                "stem": "have",
+                "object": "an annual Veterans Day Program"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-25": {
+        "SVO_relationships": [
+            {
+                "subject": "sh=90d4d963606f “ Veterans",
+                "verb": "be",
+                "stem": "be",
+                "object": "a critical part"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-26": {
+        "SVO_relationships": [
+            {
+                "subject": "Statista",
+                "verb": "select",
+                "stem": "select",
+                "object": "GPO"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-27": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "Collins",
+                "verb": "be",
+                "stem": "be",
+                "object": "a Principal consultant"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-29": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Superintendent"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-30": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Library Dean Ron Rodriguez"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-31": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-32": {
+        "SVO_relationships": [
+            {
+                "subject": "project",
+                "verb": "be",
+                "stem": "be",
+                "object": "a great example"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "State Library"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-33": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Portland State University"
+            },
+            {
+                "subject": "GPO",
+                "verb": "fulfil",
+                "stem": "fulfil",
+                "object": "this responsibility"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-34": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "’ s brand",
+                "verb": "be",
+                "stem": "be",
+                "object": "meeting deadlines"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-36": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "the collection"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-39": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "award",
+                "stem": "award",
+                "object": "jobs"
+            },
+            {
+                "subject": "This program",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "significant economic opportunity"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-40": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "work",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "Federal agencies"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-41": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "give",
+                "stem": "give",
+                "object": "the public access"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-42": {
+        "SVO_relationships": [
+            {
+                "subject": "people",
+                "verb": "find",
+                "stem": "find",
+                "object": "the information"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-43": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "launch",
+                "stem": "launch",
+                "object": "govinfo"
+            },
+            {
+                "subject": "GPO",
+                "verb": "make",
+                "stem": "make",
+                "object": "history"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-44": {
+        "SVO_relationships": [
+            {
+                "subject": "The Primary Trustworthy Digital Repository Authorization Body Ltd.",
+                "verb": "award",
+                "stem": "award",
+                "object": "ISO"
+            },
+            {
+                "subject": "GPO",
+                "verb": "increase",
+                "stem": "increase",
+                "object": "the amount"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-45": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "present",
+                "stem": "present",
+                "object": "’"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "request",
+                "stem": "request",
+                "object": "appropriations"
+            },
+            {
+                "subject": "GPO",
+                "verb": "have",
+                "stem": "have",
+                "object": "an increase"
+            },
+            {
+                "subject": "request incorporates",
+                "verb": "increase",
+                "stem": "increase",
+                "object": "costs"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "New-46": {
+        "SVO_relationships": [
+            {
+                "subject": "request",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "GPO"
+            },
+            {
+                "subject": "meet",
+                "verb": "project",
+                "stem": "project",
+                "object": "requirements"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Halpern"
+            },
+            {
+                "subject": "This income",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "a healthy year"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "New-51": {
+        "SVO_relationships": [
+            {
+                "subject": "the new DLC members",
+                "verb": "have",
+                "stem": "have",
+                "object": "experience"
+            },
+            {
+                "subject": "These new members",
+                "verb": "help",
+                "stem": "help",
+                "object": "position"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Halpern"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-54": {
+        "SVO_relationships": [
+            {
+                "subject": "Caro",
+                "verb": "be",
+                "stem": "be",
+                "object": "the Government Information Librarian"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-55": {
+        "SVO_relationships": [
+            {
+                "subject": "Johnson",
+                "verb": "be",
+                "stem": "be",
+                "object": "an active member"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-58": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Chambers"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-59": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Chambers"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-60": {
+        "SVO_relationships": [
+            {
+                "subject": "Collins",
+                "verb": "hold",
+                "stem": "hold",
+                "object": "a Master"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "have",
+                "stem": "have",
+                "object": "Elizabeth"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-61": {
+        "SVO_relationships": [
+            {
+                "subject": "Chambers",
+                "verb": "produce",
+                "stem": "produce",
+                "object": "productivity reports"
+            },
+            {
+                "subject": "employee issues",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "work performance"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-62": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Chambers"
+            },
+            {
+                "subject": "budget reports",
+                "verb": "include",
+                "stem": "include",
+                "object": "the monthly headcount reports"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-64": {
+        "SVO_relationships": [
+            {
+                "subject": "Chambers",
+                "verb": "have",
+                "stem": "have",
+                "object": "the opportunity"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Chambers"
+            },
+            {
+                "subject": "GPO",
+                "verb": "begin",
+                "stem": "begin",
+                "object": "Windows"
+            },
+            {
+                "subject": "Bill Grennon",
+                "verb": "train",
+                "stem": "train",
+                "object": "Chambers"
+            },
+            {
+                "subject": "’ future development",
+                "verb": "work",
+                "stem": "work",
+                "object": "’ s budget team"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "New-65": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Chambers"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-66": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Guy"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-70": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Chambers"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-71": {
+        "SVO_relationships": [
+            {
+                "subject": "Beth",
+                "verb": "start",
+                "stem": "start",
+                "object": "’"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-72": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Chambers"
+            },
+            {
+                "subject": "libraries",
+                "verb": "make",
+                "stem": "make",
+                "object": "Government information"
+            },
+            {
+                "subject": "teammates",
+                "verb": "visit",
+                "stem": "visit",
+                "object": "libraries"
+            },
+            {
+                "subject": "GPO",
+                "verb": "select",
+                "stem": "select",
+                "object": "Merrill Cazier Library"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "New-73": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "This project",
+                "verb": "be",
+                "stem": "be",
+                "object": "a great step"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-74": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "digitize",
+                "stem": "digitize",
+                "object": "publications"
+            },
+            {
+                "subject": "GPO",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "selections"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-75": {
+        "SVO_relationships": [
+            {
+                "subject": "Director Hugh Nathanial Halpern",
+                "verb": "be",
+                "stem": "be",
+                "object": "comments"
+            },
+            {
+                "subject": "Agency",
+                "verb": "review",
+                "stem": "review",
+                "object": "all comments"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-76": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Halpern"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-77": {
+        "SVO_relationships": [
+            {
+                "subject": "Budget",
+                "verb": "be",
+                "stem": "be",
+                "object": "an important job"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "“",
+                "verb": "Making",
+                "stem": "Making",
+                "object": "the budget"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-78": {
+        "SVO_relationships": [
+            {
+                "subject": "Laurie Hall",
+                "verb": "have",
+                "stem": "have",
+                "object": "Government Publishing Office"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-79": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-80": {
+        "SVO_relationships": [
+            {
+                "subject": "public",
+                "verb": "use",
+                "stem": "use",
+                "object": "mobile devices"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Superintendent"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-83": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "join",
+                "stem": "join",
+                "object": "the Department"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-84": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "be",
+                "stem": "be",
+                "object": "a great place"
+            },
+            {
+                "subject": "the Federal agencies",
+                "verb": "have",
+                "stem": "have",
+                "object": "an outstanding customer experience"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-85": {
+        "SVO_relationships": [
+            {
+                "subject": "Statista",
+                "verb": "select",
+                "stem": "select",
+                "object": "GPO"
+            },
+            {
+                "subject": "The survey",
+                "verb": "evaluate",
+                "stem": "evaluate",
+                "object": "employers"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-86": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "appoint",
+                "stem": "appoint",
+                "object": "a task force"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-87": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Halpern"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-88": {
+        "SVO_relationships": [
+            {
+                "subject": "members",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "the Depository Library Council"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Superintendent"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-89": {
+        "SVO_relationships": [
+            {
+                "subject": "The partnership",
+                "verb": "continue",
+                "stem": "continue",
+                "object": "today"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "name",
+                "stem": "name",
+                "object": "S. Denise Hendricks"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-90": {
+        "SVO_relationships": [
+            {
+                "subject": "Hendricks",
+                "verb": "have",
+                "stem": "have",
+                "object": "Managing Director EEO"
+            },
+            {
+                "subject": "GPO",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "equitable resolution"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-91": {
+        "SVO_relationships": [
+            {
+                "subject": "Army",
+                "verb": "adjudicate",
+                "stem": "adjudicate",
+                "object": "equal employment opportunity complaints"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-94": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "offer",
+                "stem": "offer",
+                "object": "insights"
+            },
+            {
+                "subject": "decades",
+                "verb": "shepherd",
+                "stem": "shepherd",
+                "object": "legislation"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-95": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Halpern"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "say",
+                "stem": "say",
+                "object": "parts"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "New-97": {
+        "SVO_relationships": [
+            {
+                "subject": "Syracuse University Libraries",
+                "verb": "be",
+                "stem": "be",
+                "object": "the first Preservation Steward"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-98": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Superintendent"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "New-99": {
+        "SVO_relationships": [
+            {
+                "subject": "Informed. ” “ Syracuse University Libraries",
+                "verb": "have",
+                "stem": "have",
+                "object": "part"
+            },
+            {
+                "subject": "Government documents collection",
+                "verb": "include",
+                "stem": "include",
+                "object": "all types"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "David Seaman"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "New-100": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "John Olson"
+            }
+        ],
+        "total_SVOs": 1
+    }
+}

@@ -1,0 +1,3381 @@
+{
+    "Fin-2": {
+        "SVO_relationships": [
+            {
+                "subject": "KSA",
+                "verb": "distribute",
+                "stem": "distribute",
+                "object": "cash dividends"
+            },
+            {
+                "subject": "Foreign investors",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-4": {
+        "SVO_relationships": [
+            {
+                "subject": "stakeholders",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "improvements"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-5": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a contract"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-6": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "be",
+                "stem": "be",
+                "object": "nominations"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-8": {
+        "SVO_relationships": [
+            {
+                "subject": "Further details",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "the distribution date"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-9": {
+        "SVO_relationships": [
+            {
+                "subject": "opinion",
+                "verb": "add",
+                "stem": "add",
+                "object": "credibility"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-10": {
+        "SVO_relationships": [
+            {
+                "subject": "Theeb Rent A Car Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a new branch"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-12": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "the board"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-13": {
+        "SVO_relationships": [
+            {
+                "subject": "Conditions",
+                "verb": "involve",
+                "stem": "involve",
+                "object": "high risk"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-14": {
+        "SVO_relationships": [
+            {
+                "subject": "Capital Market Authority",
+                "verb": "have",
+                "stem": "have",
+                "object": "KKR Saudi Limited"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-15": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a project"
+            },
+            {
+                "subject": "This contract",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "a significant milestone"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-16": {
+        "SVO_relationships": [
+            {
+                "subject": "Jarir Marketing Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "a cash dividend distribution"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-18": {
+        "SVO_relationships": [
+            {
+                "subject": "Information Technology Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "the award"
+            },
+            {
+                "subject": "The project",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "a significant revenue contribution"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-20": {
+        "SVO_relationships": [
+            {
+                "subject": "Al-Markabah Car Rental Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "a license"
+            },
+            {
+                "subject": "The expansion",
+                "verb": "be",
+                "stem": "be",
+                "object": "part"
+            },
+            {
+                "subject": "customers",
+                "verb": "increase",
+                "stem": "increase",
+                "object": "access"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-21": {
+        "SVO_relationships": [
+            {
+                "subject": "Keir International",
+                "verb": "have",
+                "stem": "have",
+                "object": "Alistithmar Capital"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-28": {
+        "SVO_relationships": [
+            {
+                "subject": "Lana Medical Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "operations"
+            },
+            {
+                "subject": "Investors",
+                "verb": "anticipate",
+                "stem": "anticipate",
+                "object": "positive financial impacts"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-34": {
+        "SVO_relationships": [
+            {
+                "subject": "stakeholders",
+                "verb": "anticipate",
+                "stem": "anticipate",
+                "object": "updates"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-37": {
+        "SVO_relationships": [
+            {
+                "subject": "special dividends",
+                "verb": "be",
+                "stem": "be",
+                "object": "a positive development"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-40": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "distribute",
+                "stem": "distribute",
+                "object": "cash dividends"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-43": {
+        "SVO_relationships": [
+            {
+                "subject": "Eligible shareholders",
+                "verb": "submit",
+                "stem": "submit",
+                "object": "applications"
+            },
+            {
+                "subject": "Successful candidates",
+                "verb": "have",
+                "stem": "have",
+                "object": "the chance"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-48": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "letters"
+            },
+            {
+                "subject": "shares",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "the ownership structure"
+            },
+            {
+                "subject": "This development",
+                "verb": "be",
+                "stem": "be",
+                "object": "a significant step towards"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-49": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "note",
+                "stem": "note",
+                "object": "the discrepancy"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-50": {
+        "SVO_relationships": [
+            {
+                "subject": "Naqi Water Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "an agreement"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-52": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-53": {
+        "SVO_relationships": [
+            {
+                "subject": "the subsequent earnings call",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "transparency"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-54": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "the approval"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-55": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "the outcomes"
+            },
+            {
+                "subject": "The assembly",
+                "verb": "approve",
+                "stem": "approve",
+                "object": "the election"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-59": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "the distribution"
+            },
+            {
+                "subject": "Eligibility",
+                "verb": "require",
+                "stem": "require",
+                "object": "share ownership"
+            },
+            {
+                "subject": "This dividend distribution",
+                "verb": "benefit",
+                "stem": "benefit",
+                "object": "Co."
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-61": {
+        "SVO_relationships": [
+            {
+                "subject": "The company",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "any significant developments"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-63": {
+        "SVO_relationships": [
+            {
+                "subject": "Halwani Brothers Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "an Islamic Sharia-compliant banking facilities agreement"
+            },
+            {
+                "subject": "The financing",
+                "verb": "support",
+                "stem": "support",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-65": {
+        "SVO_relationships": [
+            {
+                "subject": "investors",
+                "verb": "seek",
+                "stem": "seek",
+                "object": "professional investment management services"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-68": {
+        "SVO_relationships": [
+            {
+                "subject": "The correction",
+                "verb": "make",
+                "stem": "make",
+                "object": "aims"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-69": {
+        "SVO_relationships": [
+            {
+                "subject": "Design Factory",
+                "verb": "have",
+                "stem": "have",
+                "object": "the advanced level"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-70": {
+        "SVO_relationships": [
+            {
+                "subject": "NBM",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "funding"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-72": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a strong financial performance"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-73": {
+        "SVO_relationships": [
+            {
+                "subject": "United Mining Industries",
+                "verb": "have",
+                "stem": "have",
+                "object": "the call"
+            },
+            {
+                "subject": "Successful candidates",
+                "verb": "have",
+                "stem": "have",
+                "object": "the chance"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-74": {
+        "SVO_relationships": [
+            {
+                "subject": "Al-Jouf Agricultural Development Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "the names"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-76": {
+        "SVO_relationships": [
+            {
+                "subject": "Yaqeen Capital",
+                "verb": "have",
+                "stem": "have",
+                "object": "Dr. Muath Bin Howaimel"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-77": {
+        "SVO_relationships": [
+            {
+                "subject": "Yaqeen Capital",
+                "verb": "have",
+                "stem": "have",
+                "object": "Dr. Muath Bin Howaimel"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-82": {
+        "SVO_relationships": [
+            {
+                "subject": "Arat Capital Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "permission"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-83": {
+        "SVO_relationships": [
+            {
+                "subject": "Khwarizmi Capital Company",
+                "verb": "authorize",
+                "stem": "authorize",
+                "object": "Authority"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-84": {
+        "SVO_relationships": [
+            {
+                "subject": "capital increase",
+                "verb": "bolster",
+                "stem": "bolster",
+                "object": "the bank"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-87": {
+        "SVO_relationships": [
+            {
+                "subject": "This move",
+                "verb": "reflect",
+                "stem": "reflect",
+                "object": "Cenomi Centers"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-88": {
+        "SVO_relationships": [
+            {
+                "subject": "Information",
+                "verb": "have",
+                "stem": "have",
+                "object": "Kassab Financial Company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-91": {
+        "SVO_relationships": [
+            {
+                "subject": "Wasatah Capital",
+                "verb": "have",
+                "stem": "have",
+                "object": "REIT Fund Unitholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-93": {
+        "SVO_relationships": [
+            {
+                "subject": "Saudi Fransi Capital",
+                "verb": "release",
+                "stem": "release",
+                "object": "REIT Fund assets"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-94": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "address",
+                "stem": "address",
+                "object": "the amendment"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-95": {
+        "SVO_relationships": [
+            {
+                "subject": "impairment charges",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "the bottom line"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-96": {
+        "SVO_relationships": [
+            {
+                "subject": "Shareholders",
+                "verb": "discus",
+                "stem": "discus",
+                "object": "the agenda topics"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-98": {
+        "SVO_relationships": [
+            {
+                "subject": "This financing",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-99": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "hold",
+                "stem": "hold",
+                "object": "a virtual earnings conference call"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-102": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "approve",
+                "stem": "approve",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-104": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "address",
+                "stem": "address",
+                "object": "important agenda items"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-105": {
+        "SVO_relationships": [
+            {
+                "subject": "Education Company",
+                "verb": "disclose",
+                "stem": "disclose",
+                "object": "the outcome"
+            },
+            {
+                "subject": "The meeting",
+                "verb": "approve",
+                "stem": "approve",
+                "object": "the transfer"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-106": {
+        "SVO_relationships": [
+            {
+                "subject": "The company",
+                "verb": "attribute",
+                "stem": "attribute",
+                "object": "the growth"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-108": {
+        "SVO_relationships": [
+            {
+                "subject": "Al-Etihad Cooperative Insurance Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "B.S.C."
+            },
+            {
+                "subject": "This shift",
+                "verb": "have",
+                "stem": "have",
+                "object": "implications"
+            },
+            {
+                "subject": "Investors",
+                "verb": "monitor",
+                "stem": "monitor",
+                "object": "the situation"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-109": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "Riyad Capital"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-110": {
+        "SVO_relationships": [
+            {
+                "subject": "subsidiary",
+                "verb": "generate",
+                "stem": "generate",
+                "object": "substantial revenue"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-112": {
+        "SVO_relationships": [
+            {
+                "subject": "announces",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "the Project Commercial Operation Certificate"
+            },
+            {
+                "subject": "Taweelah RO Desalination Plant",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "a significant milestone"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-115": {
+        "SVO_relationships": [
+            {
+                "subject": "Saudi Arabian Amiantit",
+                "verb": "have",
+                "stem": "have",
+                "object": "several contracts"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-116": {
+        "SVO_relationships": [
+            {
+                "subject": "the associated risks",
+                "verb": "be",
+                "stem": "be",
+                "object": "crucial steps"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-117": {
+        "SVO_relationships": [
+            {
+                "subject": "resignation",
+                "verb": "result",
+                "stem": "result",
+                "object": "Co."
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-118": {
+        "SVO_relationships": [
+            {
+                "subject": "Saudi Cable Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            },
+            {
+                "subject": "The meeting",
+                "verb": "cover",
+                "stem": "cover",
+                "object": "board member elections"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-119": {
+        "SVO_relationships": [
+            {
+                "subject": "Information Technology Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-123": {
+        "SVO_relationships": [
+            {
+                "subject": "comprehensive income",
+                "verb": "raise",
+                "stem": "raise",
+                "object": "concerns"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-125": {
+        "SVO_relationships": [
+            {
+                "subject": "Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "commercial operations"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-130": {
+        "SVO_relationships": [
+            {
+                "subject": "offering",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "an opportunity"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-132": {
+        "SVO_relationships": [
+            {
+                "subject": "subsidiary",
+                "verb": "complete",
+                "stem": "complete",
+                "object": "the acquisition"
+            },
+            {
+                "subject": "poultry firm",
+                "verb": "support",
+                "stem": "support",
+                "object": "Arabia."
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-135": {
+        "SVO_relationships": [
+            {
+                "subject": "a Car Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "the distribution"
+            },
+            {
+                "subject": "a Car Company",
+                "verb": "benefit",
+                "stem": "benefit",
+                "object": "eligible shareholders"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-138": {
+        "SVO_relationships": [
+            {
+                "subject": "The strong financial results",
+                "verb": "attract",
+                "stem": "attract",
+                "object": "investor attention"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-140": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a correction"
+            },
+            {
+                "subject": "previous announcement",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "the results"
+            },
+            {
+                "subject": "stakeholders",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-141": {
+        "SVO_relationships": [
+            {
+                "subject": "financial results",
+                "verb": "raise",
+                "stem": "raise",
+                "object": "concerns"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-142": {
+        "SVO_relationships": [
+            {
+                "subject": "Al-Etihad Cooperative Insurance Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a substantial increase"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-143": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a strategic partnership"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-145": {
+        "SVO_relationships": [
+            {
+                "subject": "Saudi Cable Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "a Financial Restructuring Procedure Proposal"
+            },
+            {
+                "subject": "Further updates",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "the restructuring process"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-146": {
+        "SVO_relationships": [
+            {
+                "subject": "The increase",
+                "verb": "require",
+                "stem": "require",
+                "object": "necessary approvals"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-150": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "improve",
+                "stem": "improve",
+                "object": "operational efficiency"
+            },
+            {
+                "subject": "The positive results",
+                "verb": "attract",
+                "stem": "attract",
+                "object": "investor interest"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-151": {
+        "SVO_relationships": [
+            {
+                "subject": "Bakheet Investment Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "Ma'ather REIT unitholders"
+            },
+            {
+                "subject": "Ma'ather REIT unitholders",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "cash dividends"
+            },
+            {
+                "subject": "unitholders",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "a payout"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-152": {
+        "SVO_relationships": [
+            {
+                "subject": "shareholders",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-154": {
+        "SVO_relationships": [
+            {
+                "subject": "Almuntashiry",
+                "verb": "be",
+                "stem": "be",
+                "object": "SAR"
+            },
+            {
+                "subject": "decision",
+                "verb": "include",
+                "stem": "include",
+                "object": "a one-year trading ban"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-155": {
+        "SVO_relationships": [
+            {
+                "subject": "The violations",
+                "verb": "involve",
+                "stem": "involve",
+                "object": "orders"
+            },
+            {
+                "subject": "Affected investors",
+                "verb": "seek",
+                "stem": "seek",
+                "object": "compensation"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-157": {
+        "SVO_relationships": [
+            {
+                "subject": "SHUAA",
+                "verb": "have",
+                "stem": "have",
+                "object": "trading"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-160": {
+        "SVO_relationships": [
+            {
+                "subject": "Shareholders",
+                "verb": "account",
+                "stem": "account",
+                "object": "shares"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-161": {
+        "SVO_relationships": [
+            {
+                "subject": "capital",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "the bank"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-166": {
+        "SVO_relationships": [
+            {
+                "subject": "Jadwa Investment Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "REIT Al Haramain Fund"
+            },
+            {
+                "subject": "stakeholders",
+                "verb": "utilize",
+                "stem": "utilize",
+                "object": "this information"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-167": {
+        "SVO_relationships": [
+            {
+                "subject": "Jadwa Investment Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "REIT Saudi Fund"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-168": {
+        "SVO_relationships": [
+            {
+                "subject": "Qassim Cement Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-171": {
+        "SVO_relationships": [
+            {
+                "subject": "This move",
+                "verb": "reflect",
+                "stem": "reflect",
+                "object": "the company"
+            },
+            {
+                "subject": "the company",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "updates"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-172": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "financial closing"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-173": {
+        "SVO_relationships": [
+            {
+                "subject": "stakeholders",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-174": {
+        "SVO_relationships": [
+            {
+                "subject": "NBM Board",
+                "verb": "make",
+                "stem": "make",
+                "object": "a decision"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-175": {
+        "SVO_relationships": [
+            {
+                "subject": "reports",
+                "verb": "improve",
+                "stem": "improve",
+                "object": "financial performance"
+            },
+            {
+                "subject": "comprehensive income",
+                "verb": "be",
+                "stem": "be",
+                "object": "a concern"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-176": {
+        "SVO_relationships": [
+            {
+                "subject": "committee formations",
+                "verb": "shape",
+                "stem": "shape",
+                "object": "Waja Co."
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-177": {
+        "SVO_relationships": [
+            {
+                "subject": "The General Assembly Meeting",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-178": {
+        "SVO_relationships": [
+            {
+                "subject": "This move",
+                "verb": "encourage",
+                "stem": "encourage",
+                "object": "investment activities"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-180": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "view",
+                "stem": "view",
+                "object": "these results"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-181": {
+        "SVO_relationships": [
+            {
+                "subject": "This move",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "investors"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-182": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "cash dividends"
+            },
+            {
+                "subject": "bank account linkage",
+                "verb": "ensure",
+                "stem": "ensure",
+                "object": "efficient dividend disbursement"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-183": {
+        "SVO_relationships": [
+            {
+                "subject": "Riyad Bank",
+                "verb": "disclose",
+                "stem": "disclose",
+                "object": "the outcomes"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-184": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a contract"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-188": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "find",
+                "stem": "find",
+                "object": "these results encouraging"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-190": {
+        "SVO_relationships": [
+            {
+                "subject": "patients",
+                "verb": "seek",
+                "stem": "seek",
+                "object": "advanced medical services"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-191": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "the eligibility date"
+            },
+            {
+                "subject": "Investors",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-192": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "monitor",
+                "stem": "monitor",
+                "object": "the situation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-193": {
+        "SVO_relationships": [
+            {
+                "subject": "Trading",
+                "verb": "resume",
+                "stem": "resume",
+                "object": "the meeting results"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-199": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a new Chairman"
+            },
+            {
+                "subject": "subcommittee members",
+                "verb": "follow",
+                "stem": "follow",
+                "object": "the Ordinary General Assembly Meeting"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-200": {
+        "SVO_relationships": [
+            {
+                "subject": "The agreement",
+                "verb": "have",
+                "stem": "have",
+                "object": "a positive financial impact"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-203": {
+        "SVO_relationships": [
+            {
+                "subject": "EXPRO",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "products"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-205": {
+        "SVO_relationships": [
+            {
+                "subject": "shareholders",
+                "verb": "help",
+                "stem": "help",
+                "object": "the future direction"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-209": {
+        "SVO_relationships": [
+            {
+                "subject": "This decision",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "shareholder returns"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-210": {
+        "SVO_relationships": [
+            {
+                "subject": "Potential investors",
+                "verb": "have",
+                "stem": "have",
+                "object": "the opportunity"
+            },
+            {
+                "subject": "rigorous evaluation process",
+                "verb": "maintain",
+                "stem": "maintain",
+                "object": "the integrity"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-213": {
+        "SVO_relationships": [
+            {
+                "subject": "Al Rajhi Bank",
+                "verb": "have",
+                "stem": "have",
+                "object": "plans"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-215": {
+        "SVO_relationships": [
+            {
+                "subject": "shares",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "a temporary halt"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-221": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "view",
+                "stem": "view",
+                "object": "this development"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-222": {
+        "SVO_relationships": [
+            {
+                "subject": "Tam Development Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "a Sharia-compliant banking facilities agreement"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-223": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "cash dividends"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-224": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "Procurement Company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-226": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "the distribution"
+            },
+            {
+                "subject": "Eligible shareholders",
+                "verb": "own",
+                "stem": "own",
+                "object": "shares"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-227": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "a steady income stream"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-228": {
+        "SVO_relationships": [
+            {
+                "subject": "Cenomi Centers",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "the distribution"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-231": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "strong financial results"
+            },
+            {
+                "subject": "The robust numbers",
+                "verb": "attract",
+                "stem": "attract",
+                "object": "investor interest"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-232": {
+        "SVO_relationships": [
+            {
+                "subject": "Shareholders",
+                "verb": "approve",
+                "stem": "approve",
+                "object": "the distribution"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-233": {
+        "SVO_relationships": [
+            {
+                "subject": "significant gross profit increase demonstrate",
+                "verb": "improve",
+                "stem": "improve",
+                "object": "operational performance"
+            },
+            {
+                "subject": "comprehensive income",
+                "verb": "be",
+                "stem": "be",
+                "object": "a concern"
+            },
+            {
+                "subject": "equity",
+                "verb": "signal",
+                "stem": "signal",
+                "object": "overall financial stability"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-236": {
+        "SVO_relationships": [
+            {
+                "subject": "Limited",
+                "verb": "have",
+                "stem": "have",
+                "object": "a positive impact"
+            },
+            {
+                "subject": "The transaction proceeds",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "Saudi Re"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-244": {
+        "SVO_relationships": [
+            {
+                "subject": "the eligibility criteria",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "a dividend"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-248": {
+        "SVO_relationships": [
+            {
+                "subject": "The company",
+                "verb": "attribute",
+                "stem": "attribute",
+                "object": "the increase"
+            },
+            {
+                "subject": "standards",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-249": {
+        "SVO_relationships": [
+            {
+                "subject": "business profile",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-250": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "seek",
+                "stem": "seek",
+                "object": "professional advice"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-259": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a SAR"
+            },
+            {
+                "subject": "investors",
+                "verb": "seek",
+                "stem": "seek",
+                "object": "stable fi nancial performance"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-262": {
+        "SVO_relationships": [
+            {
+                "subject": "Shareholders",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-263": {
+        "SVO_relationships": [
+            {
+                "subject": "The trading suspension",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "EMPOWER"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-267": {
+        "SVO_relationships": [
+            {
+                "subject": "Emirates Central",
+                "verb": "Cooling",
+                "stem": "Cooling",
+                "object": "PJSC"
+            },
+            {
+                "subject": "informed decisions",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "dividend distributions"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-268": {
+        "SVO_relationships": [
+            {
+                "subject": "meeting",
+                "verb": "cause",
+                "stem": "cause",
+                "object": "temporary market volatility"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-269": {
+        "SVO_relationships": [
+            {
+                "subject": "Gulf General Cooperative Insurance Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "final approval"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-271": {
+        "SVO_relationships": [
+            {
+                "subject": "The company",
+                "verb": "record",
+                "stem": "record",
+                "object": "Sales/Revenue"
+            },
+            {
+                "subject": "Investors",
+                "verb": "benefit",
+                "stem": "benefit",
+                "object": "nancial information"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-273": {
+        "SVO_relationships": [
+            {
+                "subject": "Foreign shareholders",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            },
+            {
+                "subject": "The exact distribution date",
+                "verb": "be",
+                "stem": "be",
+                "object": "post-General Assembly approval"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-276": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a correction"
+            },
+            {
+                "subject": "Shareholders",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-278": {
+        "SVO_relationships": [
+            {
+                "subject": "ADES",
+                "verb": "have",
+                "stem": "have",
+                "object": "a long-term service agreement"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-279": {
+        "SVO_relationships": [
+            {
+                "subject": "dividends",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "shareholder returns"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-280": {
+        "SVO_relationships": [
+            {
+                "subject": "This adjustment",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "Al Arabia"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-283": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "distribute",
+                "stem": "distribute",
+                "object": "cash dividends"
+            },
+            {
+                "subject": "Co.",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "a cash dividend"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-284": {
+        "SVO_relationships": [
+            {
+                "subject": "the outcomes",
+                "verb": "have",
+                "stem": "have",
+                "object": "public"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-287": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "note",
+                "stem": "note",
+                "object": "Co."
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-290": {
+        "SVO_relationships": [
+            {
+                "subject": "Saudi Cable Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            },
+            {
+                "subject": "developments",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "the Financial Restructuring Procedure"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-291": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "the resignation"
+            },
+            {
+                "subject": "Remuneration Committee",
+                "verb": "reflect",
+                "stem": "reflect",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-292": {
+        "SVO_relationships": [
+            {
+                "subject": "Halwani Brothers Company",
+                "verb": "announce",
+                "stem": "announce",
+                "object": "the resignation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-293": {
+        "SVO_relationships": [
+            {
+                "subject": "Yamama Cement Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "SR"
+            },
+            {
+                "subject": "support",
+                "verb": "work",
+                "stem": "work",
+                "object": "capital requirements."
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-295": {
+        "SVO_relationships": [
+            {
+                "subject": "previous announcement",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "the quorum requirements"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-296": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "Contracting Services Co."
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-297": {
+        "SVO_relationships": [
+            {
+                "subject": "This transparency",
+                "verb": "inform",
+                "stem": "inform",
+                "object": "decision-making"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-301": {
+        "SVO_relationships": [
+            {
+                "subject": "offers",
+                "verb": "qualify",
+                "stem": "qualify",
+                "object": "the opportunity"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-304": {
+        "SVO_relationships": [
+            {
+                "subject": "These mixed results",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "investor confidence"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-306": {
+        "SVO_relationships": [
+            {
+                "subject": "The positive results",
+                "verb": "attract",
+                "stem": "attract",
+                "object": "investor interest"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-307": {
+        "SVO_relationships": [
+            {
+                "subject": "Eligible candidates",
+                "verb": "meet",
+                "stem": "meet",
+                "object": "the conditions"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-308": {
+        "SVO_relationships": [
+            {
+                "subject": "This move",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "qualified investors"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-314": {
+        "SVO_relationships": [
+            {
+                "subject": "shares",
+                "verb": "incite",
+                "stem": "incite",
+                "object": "interest"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-316": {
+        "SVO_relationships": [
+            {
+                "subject": "Trading",
+                "verb": "resume",
+                "stem": "resume",
+                "object": "the resolutions"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-317": {
+        "SVO_relationships": [
+            {
+                "subject": "Shareholders",
+                "verb": "account",
+                "stem": "account",
+                "object": "shares"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-318": {
+        "SVO_relationships": [
+            {
+                "subject": "shareholders",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-319": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "cover",
+                "stem": "cover",
+                "object": "the approval"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-322": {
+        "SVO_relationships": [
+            {
+                "subject": "capital increase",
+                "verb": "strengthen",
+                "stem": "strengthen",
+                "object": "SASCO"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-324": {
+        "SVO_relationships": [
+            {
+                "subject": "Arab National Bank",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-326": {
+        "SVO_relationships": [
+            {
+                "subject": "significant concerns",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-327": {
+        "SVO_relationships": [
+            {
+                "subject": "Foreign shareholders",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-328": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "cash dividends"
+            },
+            {
+                "subject": "Co.",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "cash dividends"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-329": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "distribute",
+                "stem": "distribute",
+                "object": "cash dividends"
+            },
+            {
+                "subject": "non-resident investors",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-331": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "distribute",
+                "stem": "distribute",
+                "object": "cash dividends"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-333": {
+        "SVO_relationships": [
+            {
+                "subject": "Al Rajhi Takaful",
+                "verb": "have",
+                "stem": "have",
+                "object": "the final decision"
+            },
+            {
+                "subject": "Al Rajhi Takaful",
+                "verb": "have",
+                "stem": "have",
+                "object": "adequate precautions"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-335": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "Procurement Company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-337": {
+        "SVO_relationships": [
+            {
+                "subject": "This contract",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "a significant milestone"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-338": {
+        "SVO_relationships": [
+            {
+                "subject": "ACWA Power",
+                "verb": "have",
+                "stem": "have",
+                "object": "a water purchase agreement"
+            },
+            {
+                "subject": "Investors",
+                "verb": "anticipate",
+                "stem": "anticipate",
+                "object": "potential opportunities"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-339": {
+        "SVO_relationships": [
+            {
+                "subject": "shares",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "the opportunity"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-342": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "track",
+                "stem": "track",
+                "object": "these indices"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-343": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a three-year lease agreement"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-344": {
+        "SVO_relationships": [
+            {
+                "subject": "equity",
+                "verb": "signal",
+                "stem": "signal",
+                "object": "a positive long-term outlook"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-347": {
+        "SVO_relationships": [
+            {
+                "subject": "Ayyan Investment Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "AlInma Investment"
+            },
+            {
+                "subject": "Dallah Healthcare",
+                "verb": "work",
+                "stem": "work",
+                "object": "towards"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-348": {
+        "SVO_relationships": [
+            {
+                "subject": "electric sector subsidiary",
+                "verb": "have",
+                "stem": "have",
+                "object": "contracts"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-349": {
+        "SVO_relationships": [
+            {
+                "subject": "transparency",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "the financial performance"
+            },
+            {
+                "subject": "Investors",
+                "verb": "utilize",
+                "stem": "utilize",
+                "object": "this information"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-350": {
+        "SVO_relationships": [
+            {
+                "subject": "The fund",
+                "verb": "report",
+                "stem": "report",
+                "object": "a net profit"
+            },
+            {
+                "subject": "annual report",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "transparency"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-351": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "note",
+                "stem": "note",
+                "object": "Investment Company"
+            },
+            {
+                "subject": "the net profit decrease",
+                "verb": "raise",
+                "stem": "raise",
+                "object": "concerns"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-352": {
+        "SVO_relationships": [
+            {
+                "subject": "dividends",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "investor expectations"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-356": {
+        "SVO_relationships": [
+            {
+                "subject": "The book-building process",
+                "verb": "determine",
+                "stem": "determine",
+                "object": "the offering price"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-360": {
+        "SVO_relationships": [
+            {
+                "subject": "extraordinary expenses",
+                "verb": "have",
+                "stem": "have",
+                "object": "concerns"
+            },
+            {
+                "subject": "costs",
+                "verb": "help",
+                "stem": "help",
+                "object": "the negative trend"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-362": {
+        "SVO_relationships": [
+            {
+                "subject": "report",
+                "verb": "detail",
+                "stem": "detail",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-363": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "note",
+                "stem": "note",
+                "object": "the positive growth"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-364": {
+        "SVO_relationships": [
+            {
+                "subject": "This transparency",
+                "verb": "inform",
+                "stem": "inform",
+                "object": "decision-making"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-365": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "consider",
+                "stem": "consider",
+                "object": "these positive results"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-366": {
+        "SVO_relationships": [
+            {
+                "subject": "The trading suspension",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-369": {
+        "SVO_relationships": [
+            {
+                "subject": "The rump offering period",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "a limited window"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-372": {
+        "SVO_relationships": [
+            {
+                "subject": "The event",
+                "verb": "strengthen",
+                "stem": "strengthen",
+                "object": "Dubai"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-375": {
+        "SVO_relationships": [
+            {
+                "subject": "Trading",
+                "verb": "suspend",
+                "stem": "suspend",
+                "object": "shares"
+            },
+            {
+                "subject": "shares",
+                "verb": "experience",
+                "stem": "experience",
+                "object": "a temporary interruption"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-376": {
+        "SVO_relationships": [
+            {
+                "subject": "any potential changes",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-377": {
+        "SVO_relationships": [
+            {
+                "subject": "shares",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "investors"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-379": {
+        "SVO_relationships": [
+            {
+                "subject": "the upcoming dividend",
+                "verb": "purchase",
+                "stem": "purchase",
+                "object": "the shares"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-380": {
+        "SVO_relationships": [
+            {
+                "subject": "financial performance",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "investor confidence"
+            },
+            {
+                "subject": "Equity",
+                "verb": "have",
+                "stem": "have",
+                "object": "a slight increase"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-384": {
+        "SVO_relationships": [
+            {
+                "subject": "The Extraordinary General Assembly Meeting",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-385": {
+        "SVO_relationships": [
+            {
+                "subject": "fund manager",
+                "verb": "release",
+                "stem": "release",
+                "object": "a corrective statement"
+            },
+            {
+                "subject": "Investors",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-386": {
+        "SVO_relationships": [
+            {
+                "subject": "Successful candidates",
+                "verb": "have",
+                "stem": "have",
+                "object": "the chance"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-391": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "find",
+                "stem": "find",
+                "object": "these results encouraging"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-393": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "regain",
+                "stem": "regain",
+                "object": "access"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-394": {
+        "SVO_relationships": [
+            {
+                "subject": "Marketing Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            },
+            {
+                "subject": "The meeting",
+                "verb": "address",
+                "stem": "address",
+                "object": "members."
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-395": {
+        "SVO_relationships": [
+            {
+                "subject": "Bank AlJazira",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            },
+            {
+                "subject": "capital increase",
+                "verb": "strengthen",
+                "stem": "strengthen",
+                "object": "the bank"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-397": {
+        "SVO_relationships": [
+            {
+                "subject": "the extension",
+                "verb": "cause",
+                "stem": "cause",
+                "object": "temporary uncertainties"
+            },
+            {
+                "subject": "stakeholders",
+                "verb": "gain",
+                "stem": "gain",
+                "object": "clarity"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-399": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-401": {
+        "SVO_relationships": [
+            {
+                "subject": "Capital Market Authority",
+                "verb": "have",
+                "stem": "have",
+                "object": "Ninety"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-402": {
+        "SVO_relationships": [
+            {
+                "subject": "EGAM",
+                "verb": "delay",
+                "stem": "delay",
+                "object": "decisions"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-403": {
+        "SVO_relationships": [
+            {
+                "subject": "Bank Albilad",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            },
+            {
+                "subject": "The meeting",
+                "verb": "cover",
+                "stem": "cover",
+                "object": "various topics"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-404": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "an increase"
+            },
+            {
+                "subject": "capital structure",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "earnings"
+            },
+            {
+                "subject": "Investors",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-405": {
+        "SVO_relationships": [
+            {
+                "subject": "Shareholders",
+                "verb": "discus",
+                "stem": "discus",
+                "object": "the agenda"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-408": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "cover",
+                "stem": "cover",
+                "object": "various topics"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-409": {
+        "SVO_relationships": [
+            {
+                "subject": "annual financial results",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "investor confidence"
+            },
+            {
+                "subject": "transparency",
+                "verb": "help",
+                "stem": "help",
+                "object": "some concerns"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-410": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "cover",
+                "stem": "cover",
+                "object": "the increase"
+            },
+            {
+                "subject": "real-time communication channels",
+                "verb": "allow",
+                "stem": "allow",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-411": {
+        "SVO_relationships": [
+            {
+                "subject": "annual financial results",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "investor confidence"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-414": {
+        "SVO_relationships": [
+            {
+                "subject": "Capital Market Authority",
+                "verb": "have",
+                "stem": "have",
+                "object": "Ninety"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-418": {
+        "SVO_relationships": [
+            {
+                "subject": "Further details",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "the voting results"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-419": {
+        "SVO_relationships": [
+            {
+                "subject": "Economic City",
+                "verb": "have",
+                "stem": "have",
+                "object": "Mr. Abdulaziz Ibrahim Alnowaiser"
+            },
+            {
+                "subject": "investors",
+                "verb": "expect",
+                "stem": "expect",
+                "object": "a continuation"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-420": {
+        "SVO_relationships": [
+            {
+                "subject": "PLC",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-421": {
+        "SVO_relationships": [
+            {
+                "subject": "The assembly",
+                "verb": "approve",
+                "stem": "approve",
+                "object": "amendments"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-423": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "Mr. Wahbe Abdullah Tamari"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-425": {
+        "SVO_relationships": [
+            {
+                "subject": "Key decisions",
+                "verb": "approve",
+                "stem": "approve",
+                "object": "the auditor"
+            },
+            {
+                "subject": "outcomes",
+                "verb": "impact",
+                "stem": "impact",
+                "object": "Almarai"
+            },
+            {
+                "subject": "remuneration",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "the company"
+            },
+            {
+                "subject": "the audit committee charter",
+                "verb": "ensure",
+                "stem": "ensure",
+                "object": "compliance"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Fin-426": {
+        "SVO_relationships": [
+            {
+                "subject": "Saudi Cement Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            },
+            {
+                "subject": "The meeting",
+                "verb": "cover",
+                "stem": "cover",
+                "object": "various topics"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-428": {
+        "SVO_relationships": [
+            {
+                "subject": "announces",
+                "verb": "reach",
+                "stem": "reach",
+                "object": "partial commercial operation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-430": {
+        "SVO_relationships": [
+            {
+                "subject": "Information Technology Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "a project"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-431": {
+        "SVO_relationships": [
+            {
+                "subject": "Capital Market Authority",
+                "verb": "have",
+                "stem": "have",
+                "object": "S"
+            },
+            {
+                "subject": "This listing",
+                "verb": "be",
+                "stem": "be",
+                "object": "a positive development"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-433": {
+        "SVO_relationships": [
+            {
+                "subject": "Design Factory Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            },
+            {
+                "subject": "The meeting",
+                "verb": "address",
+                "stem": "address",
+                "object": "the auditor"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-434": {
+        "SVO_relationships": [
+            {
+                "subject": "Successful candidates",
+                "verb": "have",
+                "stem": "have",
+                "object": "the chance"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-446": {
+        "SVO_relationships": [
+            {
+                "subject": "Advanced Petrochemical Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "operations"
+            },
+            {
+                "subject": "polypropylene plants",
+                "verb": "follow",
+                "stem": "follow",
+                "object": "successful completion"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-449": {
+        "SVO_relationships": [
+            {
+                "subject": "shareholders",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            },
+            {
+                "subject": "the upcoming dividend",
+                "verb": "buy",
+                "stem": "buy",
+                "object": "shares"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-450": {
+        "SVO_relationships": [
+            {
+                "subject": "Elm Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            },
+            {
+                "subject": "The meeting",
+                "verb": "take",
+                "stem": "take",
+                "object": "place"
+            },
+            {
+                "subject": "This meeting",
+                "verb": "be",
+                "stem": "be",
+                "object": "a chance"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-451": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "cover",
+                "stem": "cover",
+                "object": "various agenda items"
+            },
+            {
+                "subject": "The Extraordinary General Assembly Meeting",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-452": {
+        "SVO_relationships": [
+            {
+                "subject": "the retained earnings balance",
+                "verb": "strengthen",
+                "stem": "strengthen",
+                "object": "Almuneef Company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-454": {
+        "SVO_relationships": [
+            {
+                "subject": "Contracting",
+                "verb": "have",
+                "stem": "have",
+                "object": "cash dividends"
+            },
+            {
+                "subject": "The exact distribution date",
+                "verb": "be",
+                "stem": "be",
+                "object": "official approvals"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-456": {
+        "SVO_relationships": [
+            {
+                "subject": "price",
+                "verb": "dump",
+                "stem": "dump",
+                "object": "material harm"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-459": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "approve",
+                "stem": "approve",
+                "object": "the election"
+            },
+            {
+                "subject": "Investors",
+                "verb": "monitor",
+                "stem": "monitor",
+                "object": "the company"
+            },
+            {
+                "subject": "future announcements",
+                "verb": "regard",
+                "stem": "regard",
+                "object": "any changes"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Fin-461": {
+        "SVO_relationships": [
+            {
+                "subject": "Development Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "Al-Ghufaili"
+            },
+            {
+                "subject": "appointment",
+                "verb": "be",
+                "stem": "be",
+                "object": "approval"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-462": {
+        "SVO_relationships": [
+            {
+                "subject": "Information Technology Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "the results"
+            },
+            {
+                "subject": "outcomes",
+                "verb": "guide",
+                "stem": "guide",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-464": {
+        "SVO_relationships": [
+            {
+                "subject": "fractional shares",
+                "verb": "follow",
+                "stem": "follow",
+                "object": "the company"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-468": {
+        "SVO_relationships": [
+            {
+                "subject": "Dubai Financial Market",
+                "verb": "close",
+                "stem": "close",
+                "object": "Al-Fitr"
+            },
+            {
+                "subject": "Al-Fitr",
+                "verb": "affect",
+                "stem": "affect",
+                "object": "trading activities"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-470": {
+        "SVO_relationships": [
+            {
+                "subject": "Market participants",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-471": {
+        "SVO_relationships": [
+            {
+                "subject": "The capital increase",
+                "verb": "dilute",
+                "stem": "dilute",
+                "object": "shareholdings"
+            },
+            {
+                "subject": "Investors",
+                "verb": "monitor",
+                "stem": "monitor",
+                "object": "the situation"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-472": {
+        "SVO_relationships": [
+            {
+                "subject": "The transaction",
+                "verb": "increase",
+                "stem": "increase",
+                "object": "the bank"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-478": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "take",
+                "stem": "take",
+                "object": "place"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-479": {
+        "SVO_relationships": [
+            {
+                "subject": "members",
+                "verb": "strengthen",
+                "stem": "strengthen",
+                "object": "SADAFCO"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-480": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "hold",
+                "stem": "hold",
+                "object": "an earnings conference call"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-481": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "cover",
+                "stem": "cover",
+                "object": "the review"
+            },
+            {
+                "subject": "Shareholders",
+                "verb": "have",
+                "stem": "have",
+                "object": "the opportunity"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-482": {
+        "SVO_relationships": [
+            {
+                "subject": "The meeting",
+                "verb": "cover",
+                "stem": "cover",
+                "object": "the review"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-484": {
+        "SVO_relationships": [
+            {
+                "subject": "Violations",
+                "verb": "include",
+                "stem": "include",
+                "object": "manipulation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-486": {
+        "SVO_relationships": [
+            {
+                "subject": "Watani Iron Steel Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-488": {
+        "SVO_relationships": [
+            {
+                "subject": "Co.",
+                "verb": "have",
+                "stem": "have",
+                "object": "shareholders"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-489": {
+        "SVO_relationships": [
+            {
+                "subject": "Obeikan Glass Company",
+                "verb": "have",
+                "stem": "have",
+                "object": "a new Chairman"
+            },
+            {
+                "subject": "committee members",
+                "verb": "bring",
+                "stem": "bring",
+                "object": "diverse perspectives"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Fin-491": {
+        "SVO_relationships": [
+            {
+                "subject": "The positive results",
+                "verb": "instill",
+                "stem": "instill",
+                "object": "confidence"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-492": {
+        "SVO_relationships": [
+            {
+                "subject": "The board",
+                "verb": "appoint",
+                "stem": "appoint",
+                "object": "Mr. Abdulaziz Ibrahim Alkhamis"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-494": {
+        "SVO_relationships": [
+            {
+                "subject": "Wasatah Capital",
+                "verb": "have",
+                "stem": "have",
+                "object": "the Q1"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-495": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "anticipate",
+                "stem": "anticipate",
+                "object": "updates"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-497": {
+        "SVO_relationships": [
+            {
+                "subject": "Shareholders",
+                "verb": "discus",
+                "stem": "discus",
+                "object": "the agenda"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-498": {
+        "SVO_relationships": [
+            {
+                "subject": "Investors",
+                "verb": "take",
+                "stem": "take",
+                "object": "note"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Fin-500": {
+        "SVO_relationships": [
+            {
+                "subject": "Shareholders",
+                "verb": "ensure",
+                "stem": "ensure",
+                "object": "transactions"
+            }
+        ],
+        "total_SVOs": 1
+    }
+}

@@ -1,0 +1,2796 @@
+{
+  "Lit-1": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "thought",
+        "stem": "think",
+        "object": "it must be the worst thing in the world"
+      },
+      {
+        "subject": "New York",
+        "verb": "was",
+        "stem": "be",
+        "object": "bad enough"
+      },
+      {
+        "subject": "the fake, country-wet freshness",
+        "verb": "evaporated",
+        "stem": "evaporate",
+        "object": "like the tail end of a sweet dream"
+      },
+      {
+        "subject": "the hot streets",
+        "verb": "waivered",
+        "stem": "waver",
+        "object": "in the sun"
+      },
+      {
+        "subject": "the car tops",
+        "verb": "sizzled",
+        "stem": "sizzle",
+        "object": "and glittered"
+      },
+      {
+        "subject": "the dry, cindery dust",
+        "verb": "blew",
+        "stem": "blow",
+        "object": "into my eyes and down my throat"
+      },
+      {
+        "subject": "I",
+        "verb": "kept",
+        "stem": "keep",
+        "object": "hearing about the Rosenbergs over the radio and at the office till I couldn't get them out of my mind"
+      },
+      {
+        "subject": "the Rosenbergs",
+        "verb": "were",
+        "stem": "be",
+        "object": "mentioned"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "lit-2": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "was",
+        "stem": "be",
+        "object": "like the first time I saw a cadaver"
+      },
+      {
+        "subject": "the cadaver's head",
+        "verb": "floated",
+        "stem": "float",
+        "object": "up behind my eggs and bacon at breakfast"
+      },
+      {
+        "subject": "Buddy Willard",
+        "verb": "was",
+        "stem": "be",
+        "object": "responsible for my seeing it in the first place"
+      },
+      {
+        "subject": "I",
+        "verb": "felt",
+        "stem": "feel",
+        "object": "as though I were carrying that cadaver's head around with me on a string, like some black, noseless balloon stinking of vinegar"
+      },
+      {
+        "subject": "I",
+        "verb": "knew",
+        "stem": "know",
+        "object": "something was wrong with me that summer"
+      }
+    ],
+    "total_SVOs": 5
+  },
+
+  "Lit-3": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "had been",
+        "stem": "have",
+        "object": "buy all those uncomfortable, expensive clothes"
+      },
+      {
+        "subject": "clothes",
+        "verb": "hung",
+        "stem": "hang",
+        "object": "limp as fish in my closet"
+      },
+      {
+        "subject": "I",
+        "verb": "thought",
+        "stem": "think",
+        "object": "all the little successes I'd totted up so happily at college fizzled to nothing"
+      },
+      {
+        "subject": "I",
+        "verb": "was supposed to be",
+        "stem": "be",
+        "object": "having the time of my life"
+      },
+      {
+        "subject": "I",
+        "verb": "was supposed to be",
+        "stem": "be",
+        "object": "the envy of thousands of other college girls"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-4": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "went",
+        "stem": "go",
+        "object": "to Bloomingdale's one lunch hour with a black patent leather belt and black patent leather pocketbook to match"
+      },
+      {
+        "subject": "my picture",
+        "verb": "came out",
+        "stem": "come",
+        "object": "in the magazine the twelve of us were working on"
+      },
+      {
+        "subject": "we",
+        "verb": "were drinking",
+        "stem": "drink",
+        "object": "martinis in a skimpy, imitation silver-lamé bodice stuck on to a big, fat cloud of white tulle"
+      },
+      {
+        "subject": "everybody",
+        "verb": "would think",
+        "stem": "think",
+        "object": "I must be having a real whirl"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Lit-5": {
+    "SVO_relationships": [
+      {
+        "subject": "the girl",
+        "verb": "lives",
+        "stem": "live",
+        "object": "in some out-of-the-way town"
+      },
+      {
+        "subject": "she",
+        "verb": "gets",
+        "stem": "get",
+        "object": "a scholarship to college"
+      },
+      {
+        "subject": "she",
+        "verb": "wins",
+        "stem": "win",
+        "object": "a prize"
+      },
+      {
+        "subject": "I",
+        "verb": "wasn't",
+        "stem": "be",
+        "object": "steering anything, not even myself"
+      },
+      {
+        "subject": "I",
+        "verb": "just",
+        "stem": "do",
+        "object": "bumped from my hotel to work and to parties and from parties to my hotel and back to work like a numb trolleybus"
+      },
+      {
+        "subject": "I",
+        "verb": "should",
+        "stem": "have",
+        "object": "been excited the way most of the other girls were"
+      }
+    ],
+    "total_SVOs": 6
+  },
+
+  "Lit-6": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "couldn't",
+        "stem": "can",
+        "object": "get myself to react"
+      },
+      {
+        "subject": "I",
+        "verb": "felt",
+        "stem": "feel",
+        "object": "very still and very empty"
+      },
+      {
+        "subject": "the eye of a tornado",
+        "verb": "must feel",
+        "stem": "feel",
+        "object": "moving dully along in the middle of the surrounding hullabaloo"
+      },
+      {
+        "subject": "I",
+        "verb": "had considered",
+        "stem": "consider",
+        "object": "going into the Catholic Church myself"
+      },
+      {
+        "subject": "I",
+        "verb": "knew",
+        "stem": "know",
+        "object": "the Catholics thought killing yourself was an awful sin"
+      },
+      {
+        "subject": "perhaps",
+        "verb": "might have",
+        "stem": "have",
+        "object": "a good way to persuade me out of it"
+      },
+      {
+        "subject": "I",
+        "verb": "didn't",
+        "stem": "do",
+        "object": "believe in life after death or the virgin birth or the Inquisition or the infallibility of that little monkey-faced Pope"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-7": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "didn't",
+        "stem": "do",
+        "object": "have to let the priest see this"
+      },
+      {
+        "subject": "I",
+        "verb": "could",
+        "stem": "can",
+        "object": "just concentrate on my sin and he would help me repent"
+      },
+      {
+        "subject": "the only trouble",
+        "verb": "was",
+        "stem": "be",
+        "object": "Church, even the Catholic Church, didn't take up the whole of your life"
+      },
+      {
+        "subject": "you",
+        "verb": "had to",
+        "stem": "have",
+        "object": "eat three meals a day and have a job and live in the world"
+      },
+      {
+        "subject": "I",
+        "verb": "thought",
+        "stem": "think",
+        "object": "I might see how long you had to be a Catholic before you became a nun"
+      },
+      {
+        "subject": "I",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "my mother, thinking she'd know"
+      }
+    ],
+    "total_SVOs": 6
+  },
+
+  "Lit-8": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "knew",
+        "stem": "know",
+        "object": "the best way to go about it"
+      },
+      {
+        "subject": "my mother",
+        "verb": "had laughed",
+        "stem": "laugh",
+        "object": "at me"
+      },
+      {
+        "subject": "my mother",
+        "verb": "said",
+        "stem": "say",
+        "object": "'Do you think they'll take somebody like you right off the bat?'"
+      },
+      {
+        "subject": "my mother",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "'Why you've got to know all these catechisms and credos and believe in them, lock, stock and barrel. A girl with your sense!'"
+      },
+      {
+        "subject": "I",
+        "verb": "imagined",
+        "stem": "imagine",
+        "object": "myself going to some Boston priest"
+      },
+      {
+        "subject": "I",
+        "verb": "would have to",
+        "stem": "have",
+        "object": "go to some Boston priest, because I didn't want any priest in my home town to know I'd thought of killing myself"
+      },
+      {
+        "subject": "I",
+        "verb": "would be",
+        "stem": "be",
+        "object": "in black, with my dead white face"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-9": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "would",
+        "stem": "will",
+        "object": "throw myself at this priest's feet and say, 'O Father, help me'"
+      },
+      {
+        "subject": "I",
+        "verb": "was",
+        "stem": "be",
+        "object": "before people had begun to look at me in a funny way"
+      },
+      {
+        "subject": "I",
+        "verb": "would be",
+        "stem": "be",
+        "object": "pretty sure the Catholics wouldn't take in any crazy nuns"
+      },
+      {
+        "subject": "my Aunt Libby's husband",
+        "verb": "had made a joke once",
+        "stem": "make",
+        "object": "about a nun that a nunnery sent to Teresa for a checkup"
+      },
+      {
+        "subject": "the nun",
+        "verb": "kept hearing",
+        "stem": "hear",
+        "object": "harp notes in her ears and a voice saying over and over, 'Alleluia!'"
+      },
+      {
+        "subject": "the nun",
+        "verb": "wasn't",
+        "stem": "be not",
+        "object": "sure, on being closely questioned"
+      }
+    ],
+    "total_SVOs": 6
+  },
+
+  "Lit-10": {
+    "SVO_relationships": [
+      {
+        "subject": "the voice",
+        "verb": "was saying",
+        "stem": "say",
+        "object": "Alleluia or Arizona"
+      },
+      {
+        "subject": "the nun",
+        "verb": "had been born",
+        "stem": "be born",
+        "object": "in Arizona"
+      },
+      {
+        "subject": "I",
+        "verb": "think",
+        "stem": "think",
+        "object": "she ended up in some asylum"
+      },
+      {
+        "subject": "I",
+        "verb": "tugged",
+        "stem": "pull",
+        "object": "my black veil down to my chin"
+      },
+      {
+        "subject": "I",
+        "verb": "strode",
+        "stem": "stride",
+        "object": "in through the wrought-iron gates"
+      },
+      {
+        "subject": "I",
+        "verb": "thought",
+        "stem": "think",
+        "object": "it odd that in all the time my father had been buried in this graveyard, none of us had ever visited him"
+      },
+      {
+        "subject": "my mother",
+        "verb": "hadn't",
+        "stem": "not let",
+        "object": "us come to his funeral because we were only children then"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-11": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "had",
+        "stem": "have",
+        "object": "a great yearning, lately, to pay my father back for all the years of neglect"
+      },
+      {
+        "subject": "I",
+        "verb": "wanted",
+        "stem": "want",
+        "object": "to start tending his grave"
+      },
+      {
+        "subject": "my mother",
+        "verb": "had never",
+        "stem": "not have",
+        "object": "bothered with [mourning]"
+      },
+      {
+        "subject": "I",
+        "verb": "thought",
+        "stem": "think",
+        "object": "that if my father hadn't died, he would have taught me all about insects"
+      },
+      {
+        "subject": "he",
+        "verb": "would have taught",
+        "stem": "teach",
+        "object": "me German and Greek and Latin, which he knew"
+      },
+      {
+        "subject": "I",
+        "verb": "would be",
+        "stem": "be",
+        "object": "a Lutheran"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-12": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "sat",
+        "stem": "sit",
+        "object": "on one end of a wooden bench in the grassy square between the four brick walls of the hospital"
+      },
+      {
+        "subject": "my mother",
+        "verb": "sat",
+        "stem": "sit",
+        "object": "at the other end"
+      },
+      {
+        "subject": "Mrs. Tomolillo",
+        "verb": "was sitting",
+        "stem": "sit",
+        "object": "with some dark-haired, laughing Italians on the next bench down"
+      },
+      {
+        "subject": "my mother",
+        "verb": "moved",
+        "stem": "move",
+        "object": ""
+      },
+      {
+        "subject": "Mrs. Tomolillo",
+        "verb": "imitated",
+        "stem": "imitate",
+        "object": "her"
+      },
+      {
+        "subject": "Mrs. Tomolillo",
+        "verb": "was sitting",
+        "stem": "sit",
+        "object": "with her index finger on her cheek and her thumb under her chin"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-13": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "told",
+        "stem": "tell",
+        "object": "my mother in a low voice"
+      },
+      {
+        "subject": "my mother",
+        "verb": "turned",
+        "stem": "turn",
+        "object": "to glance round"
+      },
+      {
+        "subject": "Mrs. Tomolillo",
+        "verb": "dropped",
+        "stem": "drop",
+        "object": "her fat white hands in her lap"
+      },
+      {
+        "subject": "Mrs. Tomolillo",
+        "verb": "started",
+        "stem": "start",
+        "object": "talking vigorously to her friends"
+      },
+      {
+        "subject": "my mother",
+        "verb": "said",
+        "stem": "say",
+        "object": "'Why no, she's not. She's not even paying any attention to us.'"
+      },
+      {
+        "subject": "Mrs. Tomolillo",
+        "verb": "matched",
+        "stem": "match",
+        "object": "the tips of her fingers together the way my mother had just done"
+      }
+    ],
+    "total_SVOs": 6
+  },
+
+  "Lit-14": {
+    "SVO_relationships": [
+      {
+        "subject": "the lawn",
+        "verb": "was",
+        "stem": "be",
+        "object": "white with doctors"
+      },
+      {
+        "subject": "my mother and I",
+        "verb": "had been sitting",
+        "stem": "sit",
+        "object": "there, in the narrow cone of sun that shone down between the tall brick walls"
+      },
+      {
+        "subject": "doctors",
+        "verb": "had been coming",
+        "stem": "come",
+        "object": "up to me and introducing themselves"
+      },
+      {
+        "subject": "they",
+        "verb": "looked",
+        "stem": "look",
+        "object": "so young"
+      },
+      {
+        "subject": "one of them",
+        "verb": "had a",
+        "stem": "have",
+        "object": "queer name that sounded just like Doctor Syphilis"
+      },
+      {
+        "subject": "I",
+        "verb": "began",
+        "stem": "begin",
+        "object": "to look out for suspicious, fake names"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-15": {
+    "SVO_relationships": [
+      {
+        "subject": "he",
+        "verb": "looked",
+        "stem": "look",
+        "object": "very like Doctor Gordon, except that he had black skin where Doctor Gordon's skin was white"
+      },
+      {
+        "subject": "he",
+        "verb": "came",
+        "stem": "come",
+        "object": "up and said, 'I'm Doctor Pancreas,' and shook my hand"
+      },
+      {
+        "subject": "the doctors",
+        "verb": "stood",
+        "stem": "stand",
+        "object": "within listening distance"
+      },
+      {
+        "subject": "I",
+        "verb": "leaned",
+        "stem": "lean",
+        "object": "over and whispered into her ear"
+      },
+      {
+        "subject": "my mother",
+        "verb": "drew back",
+        "stem": "draw",
+        "object": "sharply"
+      },
+      {
+        "subject": "I",
+        "verb": "wish",
+        "stem": "wish",
+        "object": "you would cooperate. They say you don't cooperate. They say you won't talk to any of the doctors."
+      }
+    ],
+    "total_SVOs": 6
+  },
+
+  "Lit-16": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "make",
+        "stem": "make",
+        "object": "anything in Occupational Therapy. . ."
+      },
+      {
+        "subject": "I",
+        "verb": "told",
+        "stem": "tell",
+        "object": "her meaningly"
+      },
+      {
+        "subject": "I",
+        "verb": "said",
+        "stem": "say",
+        "object": "'You got me in here, You get me out.'"
+      },
+
+      {
+        "subject": "my mother",
+        "verb": "say",
+        "stem": "say",
+        "object": "'All right, I'll try to get you out.'"
+      }
+    ],
+    "total_SVOs": 4
+  },
+
+  "Lit-17": {
+    "SVO_relationships": [
+      {
+        "subject": "she",
+        "verb": "laid",
+        "stem": "lay",
+        "object": "a hand on my knee"
+      },
+      {
+        "subject": "I",
+        "verb": "try",
+        "stem": "try",
+        "object": "'get you out'"
+      },
+      {
+        "subject": "she",
+        "verb": "promise",
+        "stem": "promise",
+        "object": "'you'll be good?'"
+      },
+      {
+        "subject": "I",
+        "verb": "spin",
+        "stem": "spin",
+        "object": "round and glared straight at Doctor Syphilis, who stood at my elbow taking notes on a tiny, almost invisible pad"
+      },
+      {
+        "subject": "I",
+        "verb": "say",
+        "stem": "say",
+        "object": "'I promise,' I said in a loud, conspicuous voice"
+      },
+      {
+        "subject": "The Negro",
+        "verb": "wheel",
+        "stem": "wheel",
+        "object": "the food cart into the patients' dining room"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-18": {
+    "SVO_relationships": [
+      {
+        "subject": "A little area",
+        "verb": "have",
+        "stem": "have",
+        "object": "a table and a few seats by a window in the corner of the L, which was our lounge and dining room"
+      },
+      {
+        "subject": "he",
+        "verb": "bring",
+        "stem": "bring",
+        "object": "our food"
+      },
+      {
+        "subject": "The Negro",
+        "verb": "be",
+        "stem": "be",
+        "object": "with a woman in blue stiletto heels, and she was telling him what to do"
+      },
+      {
+        "subject": "he",
+        "verb": "carry",
+        "stem": "carry",
+        "object": "a tray over to our table with three lidded tin tureens on it"
+      },
+      {
+        "subject": "he",
+        "verb": "bang",
+        "stem": "bang",
+        "object": "the tureens"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-19": {
+    "SVO_relationships": [
+      {
+        "subject": "the woman",
+        "verb": "leave",
+        "stem": "leave",
+        "object": "the room, locking the door behind her"
+      },
+      {
+        "subject": "The Negro",
+        "verb": "bang",
+        "stem": "bang",
+        "object": "down the tureens and then the dinted silver and the thick, white china plates"
+      },
+      {
+        "subject": "he",
+        "verb": "gawp",
+        "stem": "gawp",
+        "object": "at us with big, rolling eyes"
+      },
+      {
+        "subject": "the nurse",
+        "verb": "stand",
+        "stem": "stand",
+        "object": "back to see if any of us would take the lids off before she came to do it"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Lit-20": {
+    "SVO_relationships": [
+      {
+        "subject": "they",
+        "verb": "send",
+        "stem": "send",
+        "object": "her home"
+      },
+      {
+        "subject": "I",
+        "verb": "lift",
+        "stem": "lift",
+        "object": "the lid off the first bowl"
+      },
+      {
+        "subject": "Esther",
+        "verb": "say",
+        "stem": "say",
+        "object": "'That's very nice of you, Esther.'"
+      },
+      {
+        "subject": "I",
+        "verb": "dish",
+        "stem": "dish",
+        "object": "myself out a helping of green string beans"
+      },
+      {
+        "subject": "I",
+        "verb": "turn",
+        "stem": "turn",
+        "object": "to pass the tureen to the enormous red-headed woman at my right"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-21": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "see",
+        "stem": "see",
+        "object": "her once, at the end of the L-shaped corridor"
+      },
+      {
+        "subject": "she",
+        "verb": "stand",
+        "stem": "stand",
+        "object": "in front of an open door with bars on the square, inset windows"
+      },
+      {
+        "subject": "she",
+        "verb": "yell",
+        "stem": "yell",
+        "object": "and laugh in a rude way and slap her thighs at the passing doctors"
+      },
+      {
+        "subject": "the white-jacketed attendant",
+        "verb": "lean",
+        "stem": "lean",
+        "object": "against the radiator, laughing himself sick"
+      },
+      {
+        "subject": "the red-headed woman",
+        "verb": "snatch",
+        "stem": "snatch",
+        "object": "the tureen from me"
+      },
+      {
+        "subject": "she",
+        "verb": "upend",
+        "stem": "upend",
+        "object": "it on her plate"
+      }
+    ],
+    "total_SVOs": 6
+  },
+
+  "Lit-22": {
+    "SVO_relationships": [
+      {
+        "subject": "the beans",
+        "verb": "scatter",
+        "stem": "scatter",
+        "object": "over onto her lap and onto the floor like stiff, green straws"
+      },
+      {
+        "subject": "the nurse",
+        "verb": "say",
+        "stem": "say",
+        "object": "'Oh, Mrs. Mole!' in a sad voice"
+      },
+      {
+        "subject": "she",
+        "verb": "return",
+        "stem": "return",
+        "object": "most of the beans to the tureen"
+      },
+      {
+        "subject": "she",
+        "verb": "give",
+        "stem": "give",
+        "object": "it to the person next to Mrs. Mole"
+      },
+      {
+        "subject": "the nurse",
+        "verb": "lead",
+        "stem": "lead",
+        "object": "Mrs. Mole off"
+      },
+      {
+        "subject": "Mrs. Mole",
+        "verb": "keep",
+        "stem": "keep",
+        "object": "turning round and making leering faces at us, and ugly, oinking noises"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-23": {
+    "SVO_relationships": [
+      {
+        "subject": "two people",
+        "verb": "had found",
+        "stem": "find",
+        "object": "themselves opposite each other"
+      },
+      {
+        "subject": "both",
+        "verb": "were",
+        "stem": "be",
+        "object": "young, travelling light; neither was too smartly dressed"
+      },
+      {
+        "subject": "both",
+        "verb": "had",
+        "stem": "have",
+        "object": "rather distinctive features"
+      },
+      {
+        "subject": "both",
+        "verb": "were",
+        "stem": "be",
+        "object": "ready to enter into conversation"
+      },
+      {
+        "subject": "one",
+        "verb": "was",
+        "stem": "be",
+        "object": "short, about twenty-seven, with almost jetblack, wavy hair"
+      }
+    ],
+    "total_SVOs": 5
+  },
+
+  "Lit-24": {
+    "SVO_relationships": [
+      {
+        "subject": "his nose",
+        "verb": "was",
+        "stem": "be",
+        "object": "flat and wide"
+      },
+      {
+        "subject": "his cheekbones",
+        "verb": "were",
+        "stem": "be",
+        "object": "high"
+      },
+      {
+        "subject": "his thin lips",
+        "verb": "were",
+        "stem": "be",
+        "object": "permanently curled into an arrogant, mocking, well-nigh malevolent smirk"
+      },
+      {
+        "subject": "his brow",
+        "verb": "was",
+        "stem": "be",
+        "object": "high and well formed"
+      },
+      {
+        "subject": "he",
+        "verb": "exuded",
+        "stem": "exude",
+        "object": "an ardour"
+      },
+      {
+        "subject": "his face",
+        "verb": "was",
+        "stem": "be",
+        "object": "deathly pale"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-25": {
+    "SVO_relationships": [
+      {
+        "subject": "He",
+        "verb": "was",
+        "stem": "be",
+        "object": "warmly dressed"
+      },
+      {
+        "subject": "his fellow traveller",
+        "verb": "had",
+        "stem": "have",
+        "object": "endured the full rigour of a damp Russian November night totally unprepared"
+      },
+      {
+        "subject": "All the latter man",
+        "verb": "wore",
+        "stem": "wear",
+        "object": "a fairly wide, coarse cloak with a huge hood"
+      },
+      {
+        "subject": "what was suitable and perfectly adequate for Italy",
+        "verb": "was",
+        "stem": "be",
+        "object": "something hardly designed for a journey such as that from Eydtkuhnen to St Petersburg"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Lit-26": {
+    "SVO_relationships": [
+      {
+        "subject": "The wearer of the cloak and hood",
+        "verb": "was",
+        "stem": "be",
+        "object": "about twenty-six or -seven"
+      },
+      {
+        "subject": "The wearer of the cloak and hood",
+        "verb": "had",
+        "stem": "have",
+        "object": "a very fair complexion"
+      },
+      {
+        "subject": "He",
+        "verb": "was",
+        "stem": "be",
+        "object": "slightly taller than average"
+      },
+      {
+        "subject": "His eyes",
+        "verb": "were",
+        "stem": "be",
+        "object": "large and intense"
+      },
+      {
+        "subject": "His gaze",
+        "verb": "was",
+        "stem": "be",
+        "object": "calm and brooding"
+      },
+      {
+        "subject": "His face",
+        "verb": "was",
+        "stem": "be",
+        "object": "pleasant, fine, and lean"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-27": {
+    "SVO_relationships": [
+      {
+        "subject": "He",
+        "verb": "cradled",
+        "stem": "carry",
+        "object": "a pathetic little bundle"
+      },
+      {
+        "subject": "He",
+        "verb": "wore",
+        "stem": "wear",
+        "object": "a pair of thick-soled boots with cross-laced gaiters"
+      },
+      {
+        "subject": "His dark-haired travelling companion",
+        "verb": "took",
+        "stem": "take",
+        "object": "all this in"
+      },
+      {
+        "subject": "He",
+        "verb": "smiling",
+        "stem": "smile",
+        "object": "that indiscreet smile which so often betrays man’s delight in the discomfort of others"
+      },
+      {
+        "subject": "He",
+        "verb": "enquired",
+        "stem": "ask",
+        "object": "'Feeling the cold, eh?'"
+      },
+      {
+        "subject": "The other",
+        "verb": "replied",
+        "stem": "reply",
+        "object": "'Indeed, and, surprisingly, it’s thawing.'"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-28": {
+    "SVO_relationships": [
+      {
+        "subject": "I",
+        "verb": "had",
+        "stem": "have",
+        "object": "no idea it could be so cold here in Russia"
+      },
+      {
+        "subject": "I",
+        "verb": "had",
+        "stem": "have",
+        "object": "no idea it could be so cold here in Russia. Comes as quite a shock'"
+      },
+      {
+        "subject": "He",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "'Are you from abroad, or what?'"
+      },
+      {
+        "subject": "The fair-haired young man",
+        "verb": "said",
+        "stem": "say",
+        "object": "'Yes, from Switzerland.'"
+      },
+      {
+        "subject": "The man",
+        "verb": "made",
+        "stem": "make",
+        "object": "a whistling sound and burst out laughing"
+      },
+      {
+        "subject": "He",
+        "verb": "had",
+        "stem": "have",
+        "object": "a conversation ensued"
+      },
+      {
+        "subject": "The fair-haired young man",
+        "verb": "took",
+        "stem": "take",
+        "object": "to answering all the prying, indiscreet and at times obviously idle questions of his swarthy interlocutor"
+      },
+      {
+        "subject": "He",
+        "verb": "admitted",
+        "stem": "admit",
+        "object": "that he had not been back to Russia for a long time"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "Lit-29": {
+    "SVO_relationships": [
+      {
+        "subject": "He",
+        "verb": "had",
+        "stem": "have",
+        "object": "been sent abroad for health reasons"
+      },
+      {
+        "subject": "He",
+        "verb": "had",
+        "stem": "have",
+        "object": "some strange nervous ailment like the falling sickness or St Vitus’s dance, with nervous contractions and spasms"
+      },
+      {
+        "subject": "The dark-haired man",
+        "verb": "smirked",
+        "stem": "smile",
+        "object": "a few times"
+      },
+      {
+        "subject": "He",
+        "verb": "replied",
+        "stem": "reply",
+        "object": "'No, not really.'"
+      },
+      {
+        "subject": "The dark man",
+        "verb": "observed",
+        "stem": "observe",
+        "object": "cuttingly, 'Ha! I thought as much'"
+      },
+      {
+        "subject": "He",
+        "verb": "said",
+        "stem": "say",
+        "object": "'You’re quite right!'"
+      }
+    ],
+    "total_SVOs": 6
+  },
+
+  "Lit-30": {
+    "SVO_relationships": [
+      {
+        "subject": "He",
+        "verb": "was",
+        "stem": "be",
+        "object": "a strongly built man of about forty, red-nosed, with a face marked by blotches"
+      },
+      {
+        "subject": "He",
+        "verb": "said",
+        "stem": "say",
+        "object": "'The truth is, they suck the lifeblood out of us Russians!'"
+      },
+      {
+        "subject": "The patient from Switzerland",
+        "verb": "observed",
+        "stem": "observe",
+        "object": "in a mild and conciliatory tone"
+      },
+      {
+        "subject": "He",
+        "verb": "hastened",
+        "stem": "hurry",
+        "object": "to observe"
+      },
+      {
+        "subject": "He",
+        "verb": "said",
+        "stem": "say",
+        "object": "'Of course, I’m in no position to argue because I don’t know how it is with other people.'"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-31": {
+    "SVO_relationships": [
+      {
+        "subject": "The swarthy man",
+        "verb": "enquired",
+        "stem": "ask",
+        "object": "'There was no one else to pay, is that it?'"
+      },
+      {
+        "subject": "He",
+        "verb": "said",
+        "stem": "say",
+        "object": "'Yes, Mr Pavlishchev, who funded me, died two years ago.'"
+      },
+      {
+        "subject": "He",
+        "verb": "wrote",
+        "stem": "write",
+        "object": "to General Yepanchin’s spouse"
+      },
+      {
+        "subject": "He",
+        "verb": "received",
+        "stem": "receive",
+        "object": "no reply"
+      },
+      {
+        "subject": "He",
+        "verb": "said",
+        "stem": "say",
+        "object": "'So I simply upped sticks and came over.'"
+      },
+      {
+        "subject": "He",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "'Over where?'"
+      },
+      {
+        "subject": "He",
+        "verb": "said",
+        "stem": "say",
+        "object": "'You mean, where am I going to stay?… I must say, I still don’t know… but…'"
+      },
+      {
+        "subject": "It",
+        "verb": "was",
+        "stem": "be",
+        "object": "'yet to be arranged!'"
+      }
+    ],
+    "total_SVOs": 8
+  },
+
+  "Lit-32": {
+    "SVO_relationships": [
+      {
+        "subject": "It",
+        "verb": "has",
+        "stem": "have",
+        "object": "nothing in the luggage compartment poverty of course is not the end of the world but there you go"
+      },
+      {
+        "subject": "He",
+        "verb": "made",
+        "stem": "make",
+        "object": "no bones about it"
+      },
+      {
+        "subject": "He",
+        "verb": "owned up",
+        "stem": "own",
+        "object": "immediately with the utmost readiness"
+      },
+      {
+        "subject": "The clerk",
+        "verb": "continued",
+        "stem": "continue",
+        "object": "after they had all had their fill of laughter remarkably"
+      },
+      {
+        "subject": "He",
+        "verb": "said",
+        "stem": "say",
+        "object": "'All the same your bundle is not to be written off entirely'"
+      },
+      {
+        "subject": "The clerk",
+        "verb": "continued",
+        "stem": "continue",
+        "object": "'the owner of the bundle too began to laugh in the end at the mere sight of them which added to the general merriment'"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-33": {
+    "SVO_relationships": [
+      {
+        "subject": "The boy",
+        "verb": "arrived",
+        "stem": "arrive",
+        "object": "with his herd at an abandoned church"
+      },
+      {
+        "subject": "He",
+        "verb": "decided",
+        "stem": "decide",
+        "object": "to spend the night there"
+      },
+      {
+        "subject": "The boy",
+        "verb": "saw to it that",
+        "stem": "see",
+        "object": "all the sheep entered through the ruined gate"
+      },
+      {
+        "subject": "He",
+        "verb": "laid",
+        "stem": "lie",
+        "object": "some planks across it to prevent the flock from wandering away during the night"
+      },
+      {
+        "subject": "The boy",
+        "verb": "had had",
+        "stem": "have",
+        "object": "to spend the entire next day"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-34": {
+    "SVO_relationships": [
+      {
+        "subject": "He",
+        "verb": "swept",
+        "stem": "sweep",
+        "object": "the floor with his jacket"
+      },
+      {
+        "subject": "He",
+        "verb": "used",
+        "stem": "use",
+        "object": "the book he had just finished reading as a pillow"
+      },
+      {
+        "subject": "He",
+        "verb": "told himself",
+        "stem": "tell",
+        "object": "that he would have to start reading thicker books: they lasted longer, and made more comfortable pillows"
+      },
+      {
+        "subject": "It",
+        "verb": "was still dark",
+        "stem": "be",
+        "object": "when he awoke"
+      },
+      {
+        "subject": "He",
+        "verb": "could see",
+        "stem": "see",
+        "object": "the stars through the half-destroyed roof"
+      },
+      {
+        "subject": "He",
+        "verb": "wanted",
+        "stem": "want",
+        "object": "to sleep a little longer"
+      },
+      {
+        "subject": "He thought",
+        "verb": "he had had",
+        "stem": "have",
+        "object": "the same dream that night as a week ago, and once again he had awakened before it ended"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-35": {
+    "SVO_relationships": [
+      {
+        "subject": "Up his crook",
+        "verb": "began",
+        "stem": "begin",
+        "object": "to awaken the sheep that still slept"
+      },
+      {
+        "subject": "He",
+        "verb": "had noticed",
+        "stem": "notice",
+        "object": "that, as soon as he awoke, most of his animals also began to stir"
+      },
+      {
+        "subject": "It",
+        "verb": "was",
+        "stem": "be",
+        "object": "as if some mysterious energy bound his life to that of the sheep"
+      },
+      {
+        "subject": "He",
+        "verb": "muttered",
+        "stem": "mutter",
+        "object": "They are so used to me that they know my schedule"
+      },
+      {
+        "subject": "He",
+        "verb": "realized",
+        "stem": "realize",
+        "object": "that it could be the other way around"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-36": {
+    "SVO_relationships": [
+      {
+        "subject": "Who",
+        "verb": "had become",
+        "stem": "become",
+        "object": "accustomed to their schedule"
+      },
+      {
+        "subject": "The boy",
+        "verb": "prodded",
+        "stem": "prod",
+        "object": "them, one by one, with his crook, calling each by name"
+      },
+      {
+        "subject": "He",
+        "verb": "had always believed",
+        "stem": "believe",
+        "object": "that the sheep were able to understand what he said"
+      },
+
+      {
+        "subject": "He",
+        "verb": "read them",
+        "stem": "read",
+        "object": "parts of his books that had made an impression on him"
+      },
+      {
+        "subject": "He",
+        "verb": "would tell them",
+        "stem": "tell",
+        "object": "of the loneliness or the happiness of a shepherd in the fields"
+      },
+      {
+        "subject": "He",
+        "verb": " would comment",
+        "stem": "comment",
+        "object": "to them on the things he had seen"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-37": {
+    "SVO_relationships": [
+      {
+        "subject": "The villages",
+        "verb": "they passed",
+        "stem": "pass",
+        "object": ""
+      },
+      {
+        "subject": "He",
+        "verb": "had spoken",
+        "stem": "speak",
+        "object": "to them about only one thing: the girl, the daughter of a merchant who lived in the village they would reach in about four days"
+      },
+      {
+        "subject": "The merchant",
+        "verb": "was",
+        "stem": "be",
+        "object": "the proprietor of a dry goods shop"
+      },
+      {
+        "subject": "He",
+        "verb": "always demanded",
+        "stem": "demand",
+        "object": "that the sheep be sheared in his presence, so that he would not be cheated"
+      },
+      {
+        "subject": "A friend",
+        "verb": "had told",
+        "stem": "tell",
+        "object": "the boy about the shop"
+      },
+      {
+        "subject": "He",
+        "verb": "had taken",
+        "stem": "take",
+        "object": "his sheep there"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-38": {
+    "SVO_relationships": [
+      {
+        "subject": "THE BOY",
+        "verb": "NEED ",
+        "stem": "need",
+        "object": "to sell some wool"
+      },
+      {
+        "subject": "THE BOY",
+        "verb": "TOLD ",
+        "stem": "tell",
+        "object": "the merchant"
+      },
+      {
+        "subject": "The man",
+        "verb": "asked ",
+        "stem": "ask",
+        "object": "to wait until the afternoon"
+      },
+
+      {
+        "subject": "I",
+        "verb": "didn’t know ",
+        "stem": "know",
+        "object": "shepherds knew how to read"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-39": {
+    "SVO_relationships": [
+      {
+        "subject": "She",
+        "verb": "told",
+        "stem": "tell",
+        "object": "him, she was the merchant's daughter"
+      },
+      {
+        "subject": "The shepherd",
+        "verb": "told",
+        "stem": "tell",
+        "object": "her of life in the village and the Andalusian countryside"
+      },
+      {
+        "subject": "She",
+        "verb": "asked ",
+        "stem": "ask",
+        "object": "how did you learn to read?"
+      },
+      {
+        "subject": "He",
+        "verb": "said",
+        "stem": "say",
+        "object": "Like everybody learns, in school"
+      },
+      {
+        "subject": "She",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "if you know how to read, why are you just a shepherd?"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-40": {
+    "SVO_relationships": [
+      {
+        "subject": "He",
+        "verb": "was sure",
+        "stem": "be",
+        "object": "the girl would never understand"
+      },
+      {
+        "subject": "He",
+        "verb": "went on telling stories about his travels",
+        "stem": "go",
+        "object": "stories about his travels"
+      },
+      {
+        "subject": "The boy",
+        "verb": "found himself wishing that the day would never end",
+        "stem": "find",
+        "object": "the day"
+      },
+      {
+        "subject": "He",
+        "verb": "recognized that he was feeling something",
+        "stem": "recognize",
+        "object": "something"
+      },
+      {
+        "subject": "His days",
+        "verb": "would never be the same again",
+        "stem": "will",
+        "object": "his days"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-41": {
+    "SVO_relationships": [
+      {
+        "subject": "The boy",
+        "verb": "to shear four sheep",
+        "stem": "shear",
+        "object": "four sheep"
+      },
+      {
+        "subject": "He",
+        "verb": "paid for the wool",
+        "stem": "pay",
+        "object": "the wool"
+      },
+      {
+        "subject": "He",
+        "verb": "asked the shepherd to come back the following year",
+        "stem": "ask",
+        "object": "the shepherd to come back the following year"
+      },
+      {
+        "subject": "He",
+        "verb": "knew that maybe the girl had already forgotten him",
+        "stem": "know",
+        "object": "maybe the girl had already forgotten him"
+      },
+      {
+        "subject": "Lots of shepherds",
+        "verb": "passed through, selling their wool",
+        "stem": "pass",
+        "object": "their wool"
+      },
+      {
+        "subject": "He",
+        "verb": "said to his sheep",
+        "stem": "say",
+        "object": "to his sheep"
+      },
+      {
+        "subject": "He",
+        "verb": "knew that it did matter",
+        "stem": "know",
+        "object": "it did matter"
+      },
+      {
+        "subject": "He",
+        "verb": "knew that shepherds",
+        "stem": "know",
+        "object": "shepherds"
+      }
+    ],
+    "total_SVOs": 8
+  },
+  "Lit-42": {
+    "SVO_relationships": [
+      {
+        "subject": "Salesmen",
+        "verb": "found",
+        "stem": "find",
+        "object": "someone"
+      },
+      {
+        "subject": "The shepherd",
+        "verb": "urged",
+        "stem": "urge",
+        "object": "his sheep in the direction of the sun"
+      },
+
+      {
+        "subject": "The sheep",
+        "verb": "were ",
+        "stem": "be",
+        "object": "food and water"
+      },
+      {
+        "subject": "The boy",
+        "verb": "knew ",
+        "stem": "know",
+        "object": "how to find the best pastures in Andalusia"
+      },
+      {
+        "subject": "Their days",
+        "verb": "were",
+        "stem": "be",
+        "object": "all the same"
+      }
+    ],
+    "total_SVOs": 4
+  },
+
+  "Lit-43": {
+    "SVO_relationships": [
+      {
+        "subject": "The boy",
+        "verb": "arrived",
+        "stem": "arrive",
+        "object": "an abandoned church"
+      },
+      {
+        "subject": "The boy",
+        "verb": "saw",
+        "stem": "see",
+        "object": "all the sheep entering through the ruined gate"
+      },
+      {
+        "subject": "He",
+        "verb": "laid ",
+        "stem": "lay",
+        "object": "some planks"
+      },
+
+      {
+        "subject": "He",
+        "verb": "knew ",
+        "stem": "know",
+        "object": "an enormous sycomore"
+      },
+
+      {
+        "subject": "Once an animal",
+        "verb": "had strayed ",
+        "stem": "stray",
+        "object": "during the night, and the boy had had to spend the entire next day looking for it"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-44": {
+    "SVO_relationships": [
+      {
+        "subject": "He",
+        "verb": "swept",
+        "stem": "sweep",
+        "object": "the floor with his jacket"
+      },
+      {
+        "subject": "He",
+        "verb": "lay",
+        "stem": "lie",
+        "object": "down, using the book he had just finished reading as a pillow"
+      },
+      {
+        "subject": "He",
+        "verb": "told",
+        "stem": "tell",
+        "object": "himself that he would have to start reading thicker books: they lasted longer, and made more comfortable pillows"
+      },
+      {
+        "subject": "It",
+        "verb": "was",
+        "stem": "be",
+        "object": "still dark when he awoke"
+      },
+      {
+        "subject": "He",
+        "verb": "looked",
+        "stem": "look",
+        "object": "up, and could see the stars through the half-destroyed roof"
+      },
+      {
+        "subject": "I",
+        "verb": "wanted",
+        "stem": "want",
+        "object": "to sleep a little longer"
+      },
+      {
+        "subject": "He",
+        "verb": "thought",
+        "stem": "think",
+        "object": ""
+      },
+      {
+        "subject": "He",
+        "verb": "had",
+        "stem": "have",
+        "object": "the same dream that night as a week ago, and once again he had awakened before it ended"
+      }
+    ],
+    "total_SVOs": 8
+  },
+
+  "Lit-45": {
+    "SVO_relationships": [
+      {
+        "subject": "Up his crook",
+        "verb": "began to awaken",
+        "stem": "awaken",
+        "object": "the sheep that still slept"
+      },
+
+      {
+        "subject": "He",
+        "verb": "noticed",
+        "stem": "notice",
+        "object": "that, as soon as he awoke, most of his animals also began to stir"
+      },
+      {
+        "subject": "It",
+        "verb": "was",
+        "stem": "be",
+        "object": "as if some mysterious energy bound his life to that of the sheep"
+      },
+      {
+        "subject": "He",
+        "verb": "muttered",
+        "stem": "mutter",
+        "object": "'They are so used to me that they know my schedule'"
+      },
+      {
+        "subject": "He",
+        "verb": "realized",
+        "stem": "realize",
+        "object": "that it could be the other way around: that it was he"
+      }
+    ],
+    "total_SVOs": 5
+  },
+
+  "Lit-46": {
+    "SVO_relationships": [
+      {
+        "subject": "Who",
+        "verb": "had become accustomed",
+        "stem": "become",
+        "object": "to their schedule"
+      },
+      {
+        "subject": "There were certain of them",
+        "verb": "took",
+        "stem": "take",
+        "object": "a bit longer to awaken"
+      },
+      {
+        "subject": "The boy",
+        "verb": "prodded",
+        "stem": "prod",
+        "object": "them, one by one, with his crook, calling each by name"
+      },
+      {
+        "subject": "He",
+        "verb": "believed",
+        "stem": "believe",
+        "object": "that the sheep were able to understand what he said"
+      },
+
+      {
+        "subject": "He",
+        "verb": "read",
+        "stem": "read",
+        "object": "them parts of his books that had made an impression on him"
+      },
+      {
+        "subject": "He",
+        "verb": "would tell",
+        "stem": "tell",
+        "object": "them of the loneliness or the happiness of a shepherd in the fields"
+      },
+      {
+        "subject": "He",
+        "verb": "would comment",
+        "stem": "comment",
+        "object": "to them on the things he had seen"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-47": {
+    "SVO_relationships": [
+      {
+        "subject": "The villages",
+        "verb": "passed",
+        "stem": "pass",
+        "object": "But"
+      },
+      {
+        "subject": "He",
+        "verb": "had spoken",
+        "stem": "speak",
+        "object": "to them about only one thing: the girl"
+      },
+      {
+        "subject": "The merchant",
+        "verb": "demanded",
+        "stem": "demand",
+        "object": "that the sheep be sheared in his presence"
+      },
+      {
+        "subject": "A friend",
+        "verb": "had told",
+        "stem": "tell",
+        "object": "the boy about the shop"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Lit-48": {
+    "SVO_relationships": [
+      {
+        "subject": "THE BOY",
+        "verb": "told",
+        "stem": "tell",
+        "object": "the merchant"
+      },
+      {
+        "subject": "The shop",
+        "verb": "was busy",
+        "stem": "be",
+        "object": "and the man asked the shepherd to wait until the afternoon"
+      },
+      {
+        "subject": "The boy",
+        "verb": "sat",
+        "stem": "sit",
+        "object": "on the steps of the shop and took a book from his bag"
+      },
+      {
+        "subject": "A girl’s voice",
+        "verb": "said",
+        "stem": "say",
+        "object": "'I didn’t know shepherds knew how to read'"
+      },
+      {
+        "subject": "The boy",
+        "verb": "answered",
+        "stem": "answer",
+        "object": "'Well, usually I learn more from my sheep than from books'"
+      }
+    ],
+    "total_SVOs": 6
+  },
+
+  "Lit-49": {
+    "SVO_relationships": [
+      {
+        "subject": "she",
+        "verb": "told",
+        "stem": "tell",
+        "object": "him she was the merchant’s daughter"
+      },
+      {
+        "subject": "The shepherd",
+        "verb": "told",
+        "stem": "tell",
+        "object": "her of the Andalusian countryside, and related the news from the other towns where he had stopped"
+      },
+      {
+        "subject": "She",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "'How did you learn to read?'"
+      },
+      {
+        "subject": "The boy",
+        "verb": "said",
+        "stem": "say",
+        "object": "'Like everybody learns, In school'"
+      },
+      {
+        "subject": "She",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "'Well, if you know how to read, why are you just a shepherd?'"
+      },
+      {
+        "subject": "The boy",
+        "verb": "mumbled",
+        "stem": "mumble",
+        "object": "an answer that allowed him to avoid responding to her question"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  
+  "Lit-50": {
+    "SVO_relationships": [
+      {
+        "subject": "He",
+        "verb": "was sure",
+        "stem": "be sure",
+        "object": "the girl would never understand"
+      },
+      {
+        "subject": "He",
+        "verb": "went on telling",
+        "stem": "tell",
+        "object": "stories about his travels"
+      },
+      {
+        "subject": "The boy",
+        "verb": "found himself wishing",
+        "stem": "wish",
+        "object": "that the day would never end, that her father would stay busy and keep him waiting for three days"
+      },
+      {
+        "subject": "He",
+        "verb": "recognized",
+        "stem": "recognize",
+        "object": "that he was feeling something he had never experienced before:the desire to live in one place forever"
+      },
+      {
+        "subject": "He",
+        "verb": "felt",
+        "stem": "feel",
+        "object": "something he had never experienced before:the desire to live in one place forever"
+      },
+      {
+        "subject": "He",
+        "verb": "knew",
+        "stem": "know",
+        "object": "that his days would never be the same again"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  
+  "Lit-51": {
+	"SVO_relationships": [
+		{
+		"subject": "the boy",
+		"verb": "to shear",
+		"stem": "shear",
+		"object": "four sheep"
+		},
+		{
+		"subject": "He",
+		"verb": "paid",
+		"stem": "pay",
+		"object": "for the wool"
+		},
+		{
+		"subject": "He",
+		"verb": "asked",
+		"stem": "ask",
+		"object": "the shepherd to come back the following year"
+		},
+		{
+		"subject": "He",
+		"verb": "was",
+		"stem": "be",
+		"object": "excited"
+		},
+		{
+		"subject": "He",
+		"verb": "was",
+		"stem": "be",
+		"object": "uneasy"
+		},
+		{
+		"subject": "He",
+		"verb": "knew",
+		"stem": "know",
+		"object": "maybe the girl had already forgotten him"
+		},
+		{
+		"subject": "Lots of shepherds",
+		"verb": "passed",
+		"stem": "pass",
+		"object": "through"
+		},
+		{
+		"subject": "Lots of shepherds",
+		"verb": "selling",
+		"stem": "sell",
+		"object": "their wool"
+		},
+		{
+		"subject": "He",
+		"verb": "said",
+		"stem": "say",
+		"object": "to his sheep"
+		},
+		{
+		"subject": "He",
+		"verb": "knew",
+		"stem": "know",
+		"object": "that it did matter"
+		},
+		{
+		"subject": "He",
+		"verb": "knew",
+		"stem": "know",
+		"object": "that shepherds, like sailors and like travelers"
+		}
+	],
+	"total_SVOs": 11
+},
+
+"Lit-52": {
+	"SVO_relationships": [
+		{
+		"subject": "salesmen",
+		"verb": "found",
+		"stem": "find",
+		"object": "a town"
+		},
+		{
+		"subject": "someone",
+		"verb": "could",
+		"stem": "can",
+		"object": "make them forget the joys of carefree wandering"
+		},
+		{
+		"subject": "the shepherd",
+		"verb": "urged",
+		"stem": "urge",
+		"object": "his sheep in the direction of the sun"
+		},
+		{
+		"subject": "They",
+		"verb": "have",
+		"stem": "have",
+		"object": "to make any decisions"
+		},
+		{
+		"subject": "he",
+		"verb": "thought",
+		"stem": "think",
+		"object": "Maybe that’s why they always stay close to me"
+		},
+		{
+		"subject": "the sheep",
+		"verb": "were",
+		"stem": "be",
+		"object": "concerned"
+		},
+		{
+		"subject": "the sheep",
+		"verb": "were",
+		"stem": "be",
+		"object": "concerned about food and water"
+		},
+		{
+		"subject": "the boy",
+		"verb": "knew",
+		"stem": "know",
+		"object": "how to find the best pastures in Andalusia"
+		},
+		{
+		"subject": "they",
+		"verb": "would",
+		"stem": "will",
+		"object": "be his friends"
+		},
+		{
+		"subject": "Yes",
+		"verb": "said",
+		"stem": "say",
+		"object": "the boy"
+		},
+		{
+		"subject": "their days",
+		"verb": "were",
+		"stem": "be",
+		"object": "all the same"
+		},
+		{
+		"subject": "the seemingly endless hours",
+		"verb": "were",
+		"stem": "be",
+		"object": "between sunrise and sunset"
+		}
+	],
+	"total_SVOs": 12
+},
+
+"Lit-68": {
+    "SVO_relationships": [
+      {
+        "subject": "the eight or ten seamen",
+        "verb": "sprang",
+        "stem": "spring",
+        "object": "to their respective stations"
+      },
+      {
+        "subject": "The young sailor",
+        "verb": "gave",
+        "stem": "give",
+        "object": "a look to see that his orders were promptly and accurately obeyed"
+      },
+      {
+        "subject": "he",
+        "verb": "turned",
+        "stem": "turn",
+        "object": "again to the owner"
+      },
+      {
+        "subject": "the latter",
+        "verb": "inquired",
+        "stem": "inquire",
+        "object": "And how did this misfortune occur?"
+      },
+      {
+        "subject": "Captain Leclere",
+        "verb": "left",
+        "stem": "leave",
+        "object": "Naples greatly disturbed in mind"
+      },
+      {
+        "subject": "he",
+        "verb": "was attacked",
+        "stem": "attack",
+        "object": "by a fever"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-69": {
+    "SVO_relationships": [
+      {
+        "subject": "he",
+        "verb": "died",
+        "stem": "die",
+        "object": "three days afterwards"
+      },
+      {
+        "subject": "We",
+        "verb": "performed",
+        "stem": "perform",
+        "object": "the usual burial service"
+      },
+      {
+        "subject": "he",
+        "verb": "is",
+        "stem": "be",
+        "object": "at his rest"
+      },
+      {
+        "subject": "We",
+        "verb": "bring",
+        "stem": "bring",
+        "object": "to his widow his sword and cross of honor"
+      },
+      {
+        "subject": "the young man",
+        "verb": "added",
+        "stem": "add",
+        "object": "It was worthwhile, truly, to make war against the English for ten years, and to die in his bed at last, like everybody else"
+      },
+      {
+        "subject": "the owner",
+        "verb": "replied",
+        "stem": "reply",
+        "object": "Why, you see, Edmond, we are all mortal, and the old must make way for the young"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-70": {
+    "SVO_relationships": [
+      {
+        "subject": "you",
+        "verb": "assure",
+        "stem": "assure",
+        "object": "me that the cargo—"
+      },
+      {
+        "subject": "the young man",
+        "verb": "shouted",
+        "stem": "shout",
+        "object": "Stand by there to lower the topsails and jib; brail up the spanker!"
+      },
+      {
+        "subject": "The order",
+        "verb": "was executed",
+        "stem": "execute",
+        "object": "as promptly as it would have been on board a man-of-war"
+      },
+      {
+        "subject": "all the sails",
+        "verb": "were lowered",
+        "stem": "lower",
+        "object": ""
+      },
+      {
+        "subject": "the vessel",
+        "verb": "moved",
+        "stem": "move",
+        "object": "almost imperceptibly onwards"
+      },
+      {
+        "subject": "Dantès",
+        "verb": "said",
+        "stem": "say",
+        "object": "Now, if you will come on board, M. Morrel, here is your supercargo, M. Danglars, coming out of his cabin, who will furnish you with every particular"
+      },
+      {
+        "subject": "I",
+        "verb": "must look",
+        "stem": "look",
+        "object": "after the anchoring, and dress the ship in mourning"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-71": {
+    "SVO_relationships": [
+      {
+        "subject": "The owner",
+        "verb": "did not wait",
+        "stem": "wait",
+        "object": "for a second invitation"
+      },
+      {
+        "subject": "He",
+        "verb": "seized",
+        "stem": "seize",
+        "object": "a rope which Dantès flung to him"
+      },
+      {
+        "subject": "he",
+        "verb": "climbed",
+        "stem": "climb",
+        "object": "up the side of the ship"
+      },
+      {
+        "subject": "the young man",
+        "verb": "left",
+        "stem": "leave",
+        "object": "the conversation to Danglars"
+      },
+      {
+        "subject": "Danglars",
+        "verb": "came",
+        "stem": "come",
+        "object": "towards the owner"
+      },
+      {
+        "subject": "he",
+        "verb": "was",
+        "stem": "be",
+        "object": "a man of twenty-five or twenty-six years of age, of unprepossessing countenance, obsequious to his superiors, insolent to his subordinates"
+      },
+      {
+        "subject": "Danglars",
+        "verb": "said",
+        "stem": "say",
+        "object": "Well, M. Morrel, you have heard of the misfortune that has befallen us?"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-72": {
+    "SVO_relationships": [
+      {
+        "subject": "the look-out",
+        "verb": "signalled",
+        "stem": "signal",
+        "object": "the three-master, the Pharaon from Smyrna, Trieste, and Naples"
+      },
+      {
+        "subject": "a pilot",
+        "verb": "put off",
+        "stem": "put",
+        "object": "immediately"
+      },
+      {
+        "subject": "he",
+        "verb": "got",
+        "stem": "get",
+        "object": "on board the vessel between Cape Morgion and Rion island"
+      },
+      {
+        "subject": "the ramparts of Fort Saint-Jean",
+        "verb": "were covered",
+        "stem": "cover",
+        "object": "with spectators"
+      },
+      {
+        "subject": "it",
+        "verb": "is",
+        "stem": "be",
+        "object": "always an event at Marseilles for a ship to come into port"
+      },
+      {
+        "subject": "this ship",
+        "verb": "has been built, rigged, and laden",
+        "stem": "build, rig, and lade",
+        "object": "at the old Phocee docks"
+      },
+      {
+        "subject": "it",
+        "verb": "belongs",
+        "stem": "belong",
+        "object": "to an owner"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-75": {
+    "SVO_relationships": [
+      {
+        "subject": "the young man",
+        "verb": "watched",
+        "stem": "watch",
+        "object": "every motion of the ship"
+      },
+      {
+        "subject": "he",
+        "verb": "repeated",
+        "stem": "repeat",
+        "object": "each direction of the pilot"
+      },
+      {
+        "subject": "one of the crowd",
+        "verb": "did not await",
+        "stem": "await",
+        "object": "the arrival of the vessel in harbor"
+      },
+      {
+        "subject": "he",
+        "verb": "desired",
+        "stem": "desire",
+        "object": "to be pulled alongside the Pharaon"
+      },
+      {
+        "subject": "he",
+        "verb": "reached",
+        "stem": "reach",
+        "object": "as she rounded into La Réserve basin"
+      }
+    ],
+    "total_SVOs": 5
+  },
+  "Lit-76": {
+    "SVO_relationships": [
+      {
+        "subject": "the young man",
+        "verb": "saw",
+        "stem": "see",
+        "object": "this person approach"
+      },
+      {
+        "subject": "he",
+        "verb": "left",
+        "stem": "leave",
+        "object": "his station by the pilot"
+      },
+      {
+        "subject": "he",
+        "verb": "leaned",
+        "stem": "lean",
+        "object": "over the ship’s bulwarks"
+      },
+      {
+        "subject": "the man in the skiff",
+        "verb": "cried",
+        "stem": "cry",
+        "object": "Ah, is it you, Dantès? What’s the matter? and why have you such an air of sadness aboard?"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Lit-77": {
+    "SVO_relationships": [
+      {
+        "subject": "the young man",
+        "verb": "replied",
+        "stem": "reply",
+        "object": "A great misfortune, M. Morrel, a great misfortune, for me especially! Off Civita Vecchia we lost our brave Captain Leclere"
+      },
+      {
+        "subject": "the owner",
+        "verb": "inquired",
+        "stem": "inquire",
+        "object": "And the cargo?"
+      },
+      {
+        "subject": "the young man",
+        "verb": "replied",
+        "stem": "reply",
+        "object": "Is all safe, M. Morrel; and I think you will be satisfied on that head. But poor Captain Leclere—"
+      },
+      {
+        "subject": "the owner",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "What happened to him?"
+      },
+      {
+        "subject": "the young man",
+        "verb": "replied",
+        "stem": "reply",
+        "object": "He died"
+      },
+      {
+        "subject": "the owner",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "Fell into the sea?"
+      },
+      {
+        "subject": "the young man",
+        "verb": "replied",
+        "stem": "reply",
+        "object": "No, sir, he died of brain-fever in dreadful agony"
+      },
+      {
+        "subject": "he",
+        "verb": "said",
+        "stem": "say",
+        "object": "Bear a hand there, to take in sail!"
+      },
+      {
+        "subject": "All hands",
+        "verb": "obeyed",
+        "stem": "obey",
+        "object": ""
+      }
+    ],
+    "total_SVOs": 9
+  },
+  "Lit-78": {
+    "SVO_relationships": [
+      {
+        "subject": "the eight or ten seamen",
+        "verb": "sprang",
+        "stem": "spring",
+        "object": "to their respective stations"
+      },
+      {
+        "subject": "The young sailor",
+        "verb": "gave",
+        "stem": "give",
+        "object": "a look to see that his orders were promptly and accurately obeyed"
+      },
+      {
+        "subject": "he",
+        "verb": "turned",
+        "stem": "turn",
+        "object": "again to the owner"
+      },
+      {
+        "subject": "the latter",
+        "verb": "inquired",
+        "stem": "inquire",
+        "object": "And how did this misfortune occur?"
+      },
+      {
+        "subject": "Captain Leclere",
+        "verb": "left",
+        "stem": "leave",
+        "object": "Naples greatly disturbed in mind"
+      },
+      {
+        "subject": "he",
+        "verb": "was attacked",
+        "stem": "attack",
+        "object": "by a fever"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  "Lit-79": {
+    "SVO_relationships": [
+      {
+        "subject": "he",
+        "verb": "died",
+        "stem": "die",
+        "object": "three days afterwards"
+      },
+      {
+        "subject": "We",
+        "verb": "performed",
+        "stem": "perform",
+        "object": "the usual burial service"
+      },
+      {
+        "subject": "he",
+        "verb": "is",
+        "stem": "be",
+        "object": "at his rest"
+      },
+      {
+        "subject": "We",
+        "verb": "bring",
+        "stem": "bring",
+        "object": "to his widow his sword and cross of honor"
+      },
+      {
+        "subject": "the young man",
+        "verb": "added",
+        "stem": "add",
+        "object": "It was worthwhile, truly, to make war against the English for ten years, and to die in his bed at last, like everybody else"
+      },
+      {
+        "subject": "the owner",
+        "verb": "replied",
+        "stem": "reply",
+        "object": "Why, you see, Edmond, we are all mortal, and the old must make way for the young"
+      }
+    ],
+    "total_SVOs": 6
+  },
+  
+  "Lit-80": {
+    "SVO_relationships": [
+      {
+        "subject": "you",
+        "verb": "assure",
+        "stem": "assure",
+        "object": "me that the cargo—"
+      },
+      {
+        "subject": "the young man",
+        "verb": "shouted",
+        "stem": "shout",
+        "object": "Stand by there to lower the topsails and jib; brail up the spanker!"
+      },
+      {
+        "subject": "The order",
+        "verb": "was executed",
+        "stem": "execute",
+        "object": "as promptly as it would have been on board a man-of-war"
+      },
+      {
+        "subject": "all the sails",
+        "verb": "were lowered",
+        "stem": "lower",
+        "object": ""
+      },
+      {
+        "subject": "the vessel",
+        "verb": "moved",
+        "stem": "move",
+        "object": "almost imperceptibly onwards"
+      },
+      {
+        "subject": "Dantès",
+        "verb": "said",
+        "stem": "say",
+        "object": "Now, if you will come on board, M. Morrel, here is your supercargo, M. Danglars, coming out of his cabin, who will furnish you with every particular"
+      },
+      {
+        "subject": "I",
+        "verb": "must look",
+        "stem": "look",
+        "object": "after the anchoring, and dress the ship in mourning"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-81": {
+    "SVO_relationships": [
+      {
+        "subject": "The owner",
+        "verb": "did not wait",
+        "stem": "wait",
+        "object": "for a second invitation"
+      },
+      {
+        "subject": "He",
+        "verb": "seized",
+        "stem": "seize",
+        "object": "a rope which Dantès flung to him"
+      },
+      {
+        "subject": "he",
+        "verb": "climbed",
+        "stem": "climb",
+        "object": "up the side of the ship"
+      },
+      {
+        "subject": "the young man",
+        "verb": "left",
+        "stem": "leave",
+        "object": "the conversation to Danglars"
+      },
+      {
+        "subject": "Danglars",
+        "verb": "came",
+        "stem": "come",
+        "object": "towards the owner"
+      },
+      {
+        "subject": "he",
+        "verb": "was",
+        "stem": "be",
+        "object": "a man of twenty-five or twenty-six years of age, of unprepossessing countenance, obsequious to his superiors, insolent to his subordinates"
+      },
+      {
+        "subject": "Danglars",
+        "verb": "said",
+        "stem": "say",
+        "object": "Well, M. Morrel, you have heard of the misfortune that has befallen us?"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-82": {
+    "SVO_relationships": [
+      {
+        "subject": "the look-out",
+        "verb": "signalled",
+        "stem": "signal",
+        "object": "the three-master, the Pharaon from Smyrna, Trieste, and Naples"
+      },
+      {
+        "subject": "a pilot",
+        "verb": "put off",
+        "stem": "put",
+        "object": "immediately"
+      },
+      {
+        "subject": "he",
+        "verb": "got",
+        "stem": "get",
+        "object": "on board the vessel between Cape Morgion and Rion island"
+      },
+      {
+        "subject": "the ramparts of Fort Saint-Jean",
+        "verb": "were covered",
+        "stem": "cover",
+        "object": "with spectators"
+      },
+      {
+        "subject": "it",
+        "verb": "is",
+        "stem": "be",
+        "object": "always an event at Marseilles for a ship to come into port"
+      },
+      {
+        "subject": "this ship",
+        "verb": "has been built, rigged, and laden",
+        "stem": "build, rig, and lade",
+        "object": "at the old Phocee docks"
+      },
+      {
+        "subject": "it",
+        "verb": "belongs",
+        "stem": "belong",
+        "object": "to an owner"
+      }
+    ],
+    "total_SVOs": 7
+  },
+  "Lit-83": {
+    "SVO_relationships": [
+      {
+        "subject": "The ship",
+        "verb": "drew",
+        "stem": "draw",
+        "object": "on"
+      },
+      {
+        "subject": "the idlers",
+        "verb": "asked",
+        "stem": "ask",
+        "object": "one another what misfortune could have happened on board"
+      },
+      {
+        "subject": "those experienced in navigation",
+        "verb": "saw",
+        "stem": "see",
+        "object": "plainly that if any accident had occurred, it was not to the vessel herself"
+      },
+      {
+        "subject": "she",
+        "verb": "bore",
+        "stem": "bear",
+        "object": "down with all the evidence of being skilfully handled"
+      }
+    ],
+    "total_SVOs": 4
+  },
+  "Lit-84": {
+    "SVO_relationships": [
+      {
+        "subject": "the young man",
+        "verb": "watched",
+        "stem": "watch",
+        "object": "every motion of the ship"
+      },
+      {
+        "subject": "he",
+        "verb": "repeated",
+        "stem": "repeat",
+        "object": "each direction of the pilot"
+      },
+      {
+        "subject": "one of the crowd",
+        "verb": "did not await",
+        "stem": "await",
+        "object": "the arrival of the vessel in harbor"
+      },
+      {
+        "subject": "he",
+        "verb": "desired",
+        "stem": "desire",
+        "object": "to be pulled alongside the Pharaon"
+      },
+      {
+        "subject": "he",
+        "verb": "reached",
+        "stem": "reach",
+        "object": "as she rounded into La Réserve basin"
+      }
+    ],
+    "total_SVOs": 5
+  }
+  
+}

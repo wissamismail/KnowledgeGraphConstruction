@@ -1,0 +1,457 @@
+{
+    "Lit-2": {
+        "SVO_relationships": [
+            {
+                "subject": "the voice",
+                "verb": "be",
+                "stem": "be",
+                "object": "Alleluiaor Arizona"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-5": {
+        "SVO_relationships": [
+            {
+                "subject": "abbé",
+                "verb": "replace",
+                "stem": "replace",
+                "object": "the large spectacles"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-8": {
+        "SVO_relationships": [
+            {
+                "subject": "wesometimes",
+                "verb": "discuss",
+                "stem": "discus",
+                "object": "the events"
+            },
+            {
+                "subject": "the ideaof",
+                "verb": "make",
+                "stem": "make",
+                "object": "Boo Radley"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-10": {
+        "SVO_relationships": [
+            {
+                "subject": "Simon",
+                "verb": "make",
+                "stem": "make",
+                "object": "a pile practicing medicine"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-11": {
+        "SVO_relationships": [
+            {
+                "subject": "aid",
+                "verb": "establish",
+                "stem": "establish",
+                "object": "a homestead"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-13": {
+        "SVO_relationships": [
+            {
+                "subject": "Alexandra",
+                "verb": "be",
+                "stem": "be",
+                "object": "the Finch"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-15": {
+        "SVO_relationships": [
+            {
+                "subject": "Haverfords",
+                "verb": "have",
+                "stem": "have",
+                "object": "’"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-16": {
+        "SVO_relationships": [
+            {
+                "subject": "Atticus",
+                "verb": "practice",
+                "stem": "practice",
+                "object": "economy"
+            },
+            {
+                "subject": "John Hale Finch",
+                "verb": "be",
+                "stem": "be",
+                "object": "ten years"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-17": {
+        "SVO_relationships": [
+            {
+                "subject": "Atticus",
+                "verb": "derive",
+                "stem": "derive",
+                "object": "a reasonable income"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-18": {
+        "SVO_relationships": [
+            {
+                "subject": "carts",
+                "verb": "flick",
+                "stem": "flick",
+                "object": "flies"
+            },
+            {
+                "subject": "A day",
+                "verb": "be",
+                "stem": "be",
+                "object": "twenty-four hours"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-21": {
+        "SVO_relationships": [
+            {
+                "subject": "wesometimes",
+                "verb": "discuss",
+                "stem": "discus",
+                "object": "the events"
+            },
+            {
+                "subject": "the ideaof",
+                "verb": "make",
+                "stem": "make",
+                "object": "Boo Radley"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-23": {
+        "SVO_relationships": [
+            {
+                "subject": "Simon",
+                "verb": "make",
+                "stem": "make",
+                "object": "a pile practicing medicine"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-24": {
+        "SVO_relationships": [
+            {
+                "subject": "aid",
+                "verb": "establish",
+                "stem": "establish",
+                "object": "a homestead"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-27": {
+        "SVO_relationships": [
+            {
+                "subject": "Alexandra",
+                "verb": "be",
+                "stem": "be",
+                "object": "the Finch"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-28": {
+        "SVO_relationships": [
+            {
+                "subject": "Haverfords",
+                "verb": "have",
+                "stem": "have",
+                "object": "’"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-29": {
+        "SVO_relationships": [
+            {
+                "subject": "Atticus",
+                "verb": "practice",
+                "stem": "practice",
+                "object": "economy"
+            },
+            {
+                "subject": "John Hale Finch",
+                "verb": "be",
+                "stem": "be",
+                "object": "ten years"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-30": {
+        "SVO_relationships": [
+            {
+                "subject": "Atticus",
+                "verb": "derive",
+                "stem": "derive",
+                "object": "a reasonable income"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-31": {
+        "SVO_relationships": [
+            {
+                "subject": "carts",
+                "verb": "flick",
+                "stem": "flick",
+                "object": "flies"
+            },
+            {
+                "subject": "A day",
+                "verb": "be",
+                "stem": "be",
+                "object": "twenty-four hours"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-35": {
+        "SVO_relationships": [
+            {
+                "subject": "’",
+                "verb": "say",
+                "stem": "say",
+                "object": "Meg"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-36": {
+        "SVO_relationships": [
+            {
+                "subject": "mother",
+                "verb": "turn",
+                "stem": "turn",
+                "object": "round"
+            },
+            {
+                "subject": "Mrs. Tomolillo",
+                "verb": "match",
+                "stem": "match",
+                "object": "thetips"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-38": {
+        "SVO_relationships": [
+            {
+                "subject": "’",
+                "verb": "whisper",
+                "stem": "whisper",
+                "object": "Beth"
+            },
+            {
+                "subject": "’",
+                "verb": "say",
+                "stem": "say",
+                "object": "Amy"
+            },
+            {
+                "subject": "Where",
+                "verb": "be",
+                "stem": "be",
+                "object": "Mother"
+            },
+            {
+                "subject": "’",
+                "verb": "ask",
+                "stem": "ask",
+                "object": "Meg"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Lit-39": {
+        "SVO_relationships": [
+            {
+                "subject": "some poor creeter",
+                "verb": "come",
+                "stem": "come",
+                "object": "a-beggin ’"
+            },
+            {
+                "subject": "’",
+                "verb": "reply",
+                "stem": "reply",
+                "object": "Hannah"
+            },
+            {
+                "subject": "’",
+                "verb": "say",
+                "stem": "say",
+                "object": "Meg"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-40": {
+        "SVO_relationships": [
+            {
+                "subject": "’",
+                "verb": "reply",
+                "stem": "reply",
+                "object": "Jo"
+            },
+            {
+                "subject": "’",
+                "verb": "say",
+                "stem": "say",
+                "object": "Beth"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-41": {
+        "SVO_relationships": [
+            {
+                "subject": "’",
+                "verb": "cry",
+                "stem": "cry",
+                "object": "Jo"
+            },
+            {
+                "subject": "’ s initials",
+                "verb": "be",
+                "stem": "be",
+                "object": "M.M."
+            },
+            {
+                "subject": "’",
+                "verb": "say",
+                "stem": "say",
+                "object": "Beth"
+            },
+            {
+                "subject": "’",
+                "verb": "say",
+                "stem": "say",
+                "object": "Meg"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Lit-42": {
+        "SVO_relationships": [
+            {
+                "subject": "’",
+                "verb": "cry",
+                "stem": "cry",
+                "object": "Jo"
+            },
+            {
+                "subject": "anyone",
+                "verb": "know",
+                "stem": "know",
+                "object": "the time"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-43": {
+        "SVO_relationships": [
+            {
+                "subject": "Amy",
+                "verb": "show",
+                "stem": "show",
+                "object": "the handsome flask"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-45": {
+        "SVO_relationships": [
+            {
+                "subject": "’",
+                "verb": "say",
+                "stem": "say",
+                "object": "Jo"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-47": {
+        "SVO_relationships": [
+            {
+                "subject": "ofthem",
+                "verb": "have",
+                "stem": "have",
+                "object": "a queer name"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-48": {
+        "SVO_relationships": [
+            {
+                "subject": "’",
+                "verb": "cry",
+                "stem": "cry",
+                "object": "Jo"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-49": {
+        "SVO_relationships": [
+            {
+                "subject": "’",
+                "verb": "say",
+                "stem": "say",
+                "object": "Beth"
+            },
+            {
+                "subject": "’",
+                "verb": "exclaim",
+                "stem": "exclaim",
+                "object": "Jo"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-50": {
+        "SVO_relationships": [
+            {
+                "subject": "’",
+                "verb": "ask",
+                "stem": "ask",
+                "object": "Beth"
+            },
+            {
+                "subject": "’",
+                "verb": "mutter",
+                "stem": "mutter",
+                "object": "Jo"
+            }
+        ],
+        "total_SVOs": 2
+    }
+}

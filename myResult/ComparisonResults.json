@@ -1,0 +1,130 @@
+{
+  "totalSVOs": {
+    "financial.json": {
+      "GPT-4": 370,
+      "LLAMA3": 230,
+      "NLTK": 65,
+      "Spacy": 240
+    },
+    "literature.json": {
+      "GPT-4": 870,
+      "LLAMA3": 408,
+      "NLTK": 78,
+      "Spacy": 279
+    },
+    "medical.json": {
+      "GPT-4": 475,
+      "LLAMA3": 328,
+      "NLTK": 87,
+      "Spacy": 147
+    },
+    "movies.json": {
+      "GPT-4": 962,
+      "LLAMA3": 488,
+      "NLTK": 25,
+      "Spacy": 241
+    },
+    "news.json": {
+      "GPT-4": 378,
+      "LLAMA3": 319,
+      "NLTK": 130,
+      "Spacy": 220
+    }
+  },
+  "commonSubject": {
+    "financial.json": {
+      "GPT-4": 10,
+      "LLAMA3": 8,
+      "NLTK": 0,
+      "Spacy": 0
+    },
+    "literature.json": {
+      "GPT-4": 38,
+      "LLAMA3": 0,
+      "NLTK": 0,
+      "Spacy": 0
+    },
+    "medical.json": {
+      "GPT-4": 24,
+      "LLAMA3": 6,
+      "NLTK": 2,
+      "Spacy": 0
+    },
+    "movies.json": {
+      "GPT-4": 66,
+      "LLAMA3": 22,
+      "NLTK": 0,
+      "Spacy": 4
+    },
+    "news.json": {
+      "GPT-4": 8,
+      "LLAMA3": 7,
+      "NLTK": 0,
+      "Spacy": 0
+    }
+  },
+  "commonVerbs": {
+    "financial.json": {
+      "GPT-4": 10,
+      "LLAMA3": 8,
+      "NLTK": 0,
+      "Spacy": 0
+    },
+    "literature.json": {
+      "GPT-4": 38,
+      "LLAMA3": 0,
+      "NLTK": 0,
+      "Spacy": 0
+    },
+    "medical.json": {
+      "GPT-4": 24,
+      "LLAMA3": 6,
+      "NLTK": 2,
+      "Spacy": 0
+    },
+    "movies.json": {
+      "GPT-4": 66,
+      "LLAMA3": 22,
+      "NLTK": 0,
+      "Spacy": 4
+    },
+    "news.json": {
+      "GPT-4": 8,
+      "LLAMA3": 7,
+      "NLTK": 0,
+      "Spacy": 0
+    }
+  },
+  "commonObject": {
+    "financial.json": {
+      "GPT-4": 10,
+      "LLAMA3": 8,
+      "NLTK": 0,
+      "Spacy": 0
+    },
+    "literature.json": {
+      "GPT-4": 38,
+      "LLAMA3": 0,
+      "NLTK": 0,
+      "Spacy": 0
+    },
+    "medical.json": {
+      "GPT-4": 24,
+      "LLAMA3": 6,
+      "NLTK": 2,
+      "Spacy": 0
+    },
+    "movies.json": {
+      "GPT-4": 66,
+      "LLAMA3": 22,
+      "NLTK": 0,
+      "Spacy": 4
+    },
+    "news.json": {
+      "GPT-4": 8,
+      "LLAMA3": 7,
+      "NLTK": 0,
+      "Spacy": 0
+    }
+  }
+}
